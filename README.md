@@ -1,0 +1,2 @@
+# KrishiTech-
+Smart Farming Solutions
