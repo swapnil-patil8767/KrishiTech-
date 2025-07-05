@@ -1,0 +1,5066 @@
+Temperature,Soil_color,Crop,Nitrogen,Phosphorus,Potassium,Fertilizer
+20,Black,Sugarcane,75,50,100,Urea
+20,Black,Sugarcane,80,50,100,Urea
+20,Black,Sugarcane,85,50,100,Urea
+20,Black,Sugarcane,90,50,100,Urea
+20,Black,Sugarcane,95,50,100,Urea
+20,Black,Sugarcane,100,50,100,Urea
+25,Black,Sugarcane,75,55,105,Urea
+25,Black,Sugarcane,80,55,105,Urea
+25,Black,Sugarcane,85,55,105,Urea
+25,Black,Sugarcane,90,55,105,Urea
+25,Black,Sugarcane,95,55,105,Urea
+25,Black,Sugarcane,100,55,105,Urea
+30,Black,Sugarcane,75,60,110,Urea
+30,Black,Sugarcane,80,60,110,Urea
+30,Black,Sugarcane,85,60,110,Urea
+30,Black,Sugarcane,90,60,110,Urea
+30,Black,Sugarcane,95,60,110,Urea
+30,Black,Sugarcane,100,60,110,Urea
+35,Black,Sugarcane,75,50,115,Urea
+35,Black,Sugarcane,80,50,115,Urea
+35,Black,Sugarcane,85,50,115,Urea
+35,Black,Sugarcane,90,50,115,Urea
+35,Black,Sugarcane,95,50,115,Urea
+35,Black,Sugarcane,100,50,115,Urea
+20,Black,Sugarcane,75,55,100,DAP
+20,Black,Sugarcane,80,55,100,DAP
+20,Black,Sugarcane,85,55,100,DAP
+20,Black,Sugarcane,90,55,100,DAP
+20,Black,Sugarcane,95,55,100,DAP
+20,Black,Sugarcane,100,55,100,DAP
+25,Black,Sugarcane,75,60,105,DAP
+25,Black,Sugarcane,80,60,105,DAP
+25,Black,Sugarcane,85,60,105,DAP
+25,Black,Sugarcane,90,60,105,DAP
+25,Black,Sugarcane,95,60,105,DAP
+25,Black,Sugarcane,100,60,105,DAP
+30,Black,Sugarcane,75,50,110,DAP
+30,Black,Sugarcane,80,50,110,DAP
+30,Black,Sugarcane,85,50,110,DAP
+30,Black,Sugarcane,90,50,110,DAP
+30,Black,Sugarcane,95,50,110,DAP
+30,Black,Sugarcane,100,50,110,DAP
+35,Black,Sugarcane,75,55,115,DAP
+35,Black,Sugarcane,80,55,115,DAP
+35,Black,Sugarcane,85,55,115,DAP
+35,Black,Sugarcane,90,55,115,DAP
+35,Black,Sugarcane,95,55,115,DAP
+35,Black,Sugarcane,100,55,115,DAP
+20,Black,Sugarcane,75,60,100,MOP
+20,Black,Sugarcane,80,60,100,MOP
+20,Black,Sugarcane,85,60,100,MOP
+20,Black,Sugarcane,90,60,100,MOP
+20,Black,Sugarcane,95,60,100,MOP
+20,Black,Sugarcane,100,60,100,MOP
+25,Black,Sugarcane,75,50,105,MOP
+25,Black,Sugarcane,80,50,105,MOP
+25,Black,Sugarcane,85,50,105,MOP
+25,Black,Sugarcane,90,50,105,MOP
+25,Black,Sugarcane,95,50,105,MOP
+25,Black,Sugarcane,100,50,105,MOP
+30,Black,Sugarcane,75,55,110,MOP
+30,Black,Sugarcane,80,55,110,MOP
+30,Black,Sugarcane,85,55,110,MOP
+30,Black,Sugarcane,90,55,110,MOP
+30,Black,Sugarcane,95,55,110,MOP
+30,Black,Sugarcane,100,55,110,MOP
+35,Black,Sugarcane,75,60,115,MOP
+35,Black,Sugarcane,80,60,115,MOP
+35,Black,Sugarcane,85,60,115,MOP
+35,Black,Sugarcane,90,60,115,MOP
+35,Black,Sugarcane,95,60,115,MOP
+35,Black,Sugarcane,100,60,115,MOP
+25,Black,Jowar,20,25,25,10:26:26 NPK
+25,Black,Jowar,25,25,25,10:26:26 NPK
+25,Black,Jowar,30,25,25,10:26:26 NPK
+25,Black,Jowar,35,25,25,10:26:26 NPK
+25,Black,Jowar,40,25,25,10:26:26 NPK
+30,Black,Jowar,20,30,30,10:26:26 NPK
+30,Black,Jowar,25,30,30,10:26:26 NPK
+30,Black,Jowar,30,30,30,10:26:26 NPK
+30,Black,Jowar,35,30,30,10:26:26 NPK
+30,Black,Jowar,40,30,30,10:26:26 NPK
+25,Black,Jowar,20,35,35,10:26:26 NPK
+25,Black,Jowar,25,35,35,10:26:26 NPK
+25,Black,Jowar,30,35,35,10:26:26 NPK
+25,Black,Jowar,35,35,35,10:26:26 NPK
+25,Black,Jowar,40,35,35,10:26:26 NPK
+30,Black,Jowar,20,25,40,10:26:26 NPK
+30,Black,Jowar,25,25,40,10:26:26 NPK
+30,Black,Jowar,30,25,40,10:26:26 NPK
+30,Black,Jowar,35,25,40,10:26:26 NPK
+30,Black,Jowar,40,25,40,10:26:26 NPK
+25,Black,Jowar,20,30,25,Urea
+25,Black,Jowar,25,30,25,Urea
+25,Black,Jowar,30,30,25,Urea
+25,Black,Jowar,35,30,25,Urea
+25,Black,Jowar,40,30,25,Urea
+30,Black,Jowar,20,35,30,Urea
+30,Black,Jowar,25,35,30,Urea
+30,Black,Jowar,30,35,30,Urea
+30,Black,Jowar,35,35,30,Urea
+30,Black,Jowar,40,35,30,Urea
+25,Black,Jowar,20,25,35,Urea
+25,Black,Jowar,25,25,35,Urea
+25,Black,Jowar,30,25,35,Urea
+25,Black,Jowar,35,25,35,Urea
+25,Black,Jowar,40,25,35,Urea
+30,Black,Jowar,20,30,40,Urea
+30,Black,Jowar,25,30,40,Urea
+30,Black,Jowar,30,30,40,Urea
+30,Black,Jowar,35,30,40,Urea
+30,Black,Jowar,40,30,40,Urea
+25,Black,Jowar,20,35,25,SSP
+25,Black,Jowar,25,35,25,SSP
+25,Black,Jowar,30,35,25,SSP
+25,Black,Jowar,35,35,25,SSP
+25,Black,Jowar,40,35,25,SSP
+30,Black,Jowar,20,25,30,SSP
+30,Black,Jowar,25,25,30,SSP
+30,Black,Jowar,30,25,30,SSP
+30,Black,Jowar,35,25,30,SSP
+30,Black,Jowar,40,25,30,SSP
+25,Black,Jowar,20,30,35,SSP
+25,Black,Jowar,25,30,35,SSP
+25,Black,Jowar,30,30,35,SSP
+25,Black,Jowar,35,30,35,SSP
+25,Black,Jowar,40,30,35,SSP
+30,Black,Jowar,20,35,40,SSP
+30,Black,Jowar,25,35,40,SSP
+30,Black,Jowar,30,35,40,SSP
+30,Black,Jowar,35,35,40,SSP
+30,Black,Jowar,40,35,40,SSP
+25,Black,Jowar,40,20,20,10:26:26 NPK
+25,Black,Jowar,45,20,20,10:26:26 NPK
+25,Black,Jowar,50,20,20,10:26:26 NPK
+30,Black,Jowar,40,25,25,10:26:26 NPK
+30,Black,Jowar,45,25,25,10:26:26 NPK
+30,Black,Jowar,50,25,25,10:26:26 NPK
+25,Black,Jowar,40,20,25,10:26:26 NPK
+25,Black,Jowar,45,20,25,10:26:26 NPK
+25,Black,Jowar,50,20,25,10:26:26 NPK
+30,Black,Jowar,40,25,20,10:26:26 NPK
+30,Black,Jowar,45,25,20,10:26:26 NPK
+30,Black,Jowar,50,25,20,10:26:26 NPK
+25,Red ,Cotton,100,40,50,DAP
+25,Red ,Cotton,105,40,50,DAP
+25,Red ,Cotton,110,40,50,DAP
+25,Red ,Cotton,115,40,50,DAP
+25,Red ,Cotton,120,40,50,DAP
+25,Red ,Cotton,125,40,50,DAP
+25,Red ,Cotton,130,40,50,DAP
+25,Red ,Cotton,135,40,50,DAP
+25,Red ,Cotton,140,40,50,DAP
+25,Red ,Cotton,145,40,50,DAP
+25,Red ,Cotton,150,40,50,DAP
+30,Red ,Cotton,100,45,55,DAP
+30,Red ,Cotton,105,45,55,DAP
+30,Red ,Cotton,110,45,55,DAP
+30,Red ,Cotton,115,45,55,DAP
+30,Red ,Cotton,120,45,55,DAP
+30,Red ,Cotton,125,45,55,DAP
+30,Red ,Cotton,130,45,55,DAP
+30,Red ,Cotton,135,45,55,DAP
+30,Red ,Cotton,140,45,55,DAP
+30,Red ,Cotton,145,45,55,DAP
+30,Red ,Cotton,150,45,55,DAP
+35,Red ,Cotton,100,50,60,DAP
+35,Red ,Cotton,105,50,60,DAP
+35,Red ,Cotton,110,50,60,DAP
+35,Red ,Cotton,115,50,60,DAP
+35,Red ,Cotton,120,50,60,DAP
+35,Red ,Cotton,125,50,60,DAP
+35,Red ,Cotton,130,50,60,DAP
+35,Red ,Cotton,135,50,60,DAP
+35,Red ,Cotton,140,50,60,DAP
+35,Red ,Cotton,145,50,60,DAP
+35,Red ,Cotton,150,50,60,DAP
+25,Red ,Cotton,100,55,65,DAP
+25,Red ,Cotton,105,55,65,DAP
+25,Red ,Cotton,110,55,65,DAP
+25,Red ,Cotton,115,55,65,DAP
+25,Red ,Cotton,120,55,65,DAP
+25,Red ,Cotton,125,55,65,DAP
+25,Red ,Cotton,130,55,65,DAP
+25,Red ,Cotton,135,55,65,DAP
+25,Red ,Cotton,140,55,65,DAP
+25,Red ,Cotton,145,55,65,DAP
+25,Red ,Cotton,150,55,65,DAP
+30,Red ,Cotton,100,60,70,DAP
+30,Red ,Cotton,105,60,70,DAP
+30,Red ,Cotton,110,60,70,DAP
+30,Red ,Cotton,115,60,70,DAP
+30,Red ,Cotton,120,60,70,DAP
+30,Red ,Cotton,125,60,70,DAP
+30,Red ,Cotton,130,60,70,DAP
+30,Red ,Cotton,135,60,70,DAP
+30,Red ,Cotton,140,60,70,DAP
+30,Red ,Cotton,145,60,70,DAP
+30,Red ,Cotton,150,60,70,DAP
+35,Red ,Cotton,100,40,75,DAP
+35,Red ,Cotton,105,40,75,DAP
+35,Red ,Cotton,110,40,75,DAP
+35,Red ,Cotton,115,40,75,DAP
+35,Red ,Cotton,120,40,75,DAP
+35,Red ,Cotton,125,40,75,DAP
+35,Red ,Cotton,130,40,75,DAP
+35,Red ,Cotton,135,40,75,DAP
+35,Red ,Cotton,140,40,75,DAP
+35,Red ,Cotton,145,40,75,DAP
+35,Red ,Cotton,150,40,75,DAP
+25,Red ,Cotton,100,45,50,Magnesium Sulphate
+25,Red ,Cotton,105,45,50,Magnesium Sulphate
+25,Red ,Cotton,110,45,50,Magnesium Sulphate
+25,Red ,Cotton,115,45,50,Magnesium Sulphate
+25,Red ,Cotton,120,45,50,Magnesium Sulphate
+25,Red ,Cotton,125,45,50,Magnesium Sulphate
+25,Red ,Cotton,130,45,50,Magnesium Sulphate
+25,Red ,Cotton,135,45,50,Magnesium Sulphate
+25,Red ,Cotton,140,45,50,Magnesium Sulphate
+25,Red ,Cotton,145,45,50,Magnesium Sulphate
+25,Red ,Cotton,150,45,50,Magnesium Sulphate
+30,Red ,Cotton,100,50,55,Magnesium Sulphate
+30,Red ,Cotton,105,50,55,Magnesium Sulphate
+30,Red ,Cotton,110,50,55,Magnesium Sulphate
+30,Red ,Cotton,115,50,55,Magnesium Sulphate
+30,Red ,Cotton,120,50,55,Magnesium Sulphate
+30,Red ,Cotton,125,50,55,Magnesium Sulphate
+30,Red ,Cotton,130,50,55,Magnesium Sulphate
+30,Red ,Cotton,135,50,55,Magnesium Sulphate
+30,Red ,Cotton,140,50,55,Magnesium Sulphate
+30,Red ,Cotton,145,50,55,Magnesium Sulphate
+30,Red ,Cotton,150,50,55,Magnesium Sulphate
+35,Red ,Cotton,100,55,60,Magnesium Sulphate
+35,Red ,Cotton,105,55,60,Magnesium Sulphate
+35,Red ,Cotton,110,55,60,Magnesium Sulphate
+35,Red ,Cotton,115,55,60,Magnesium Sulphate
+35,Red ,Cotton,120,55,60,Magnesium Sulphate
+35,Red ,Cotton,125,55,60,Magnesium Sulphate
+35,Red ,Cotton,130,55,60,Magnesium Sulphate
+35,Red ,Cotton,135,55,60,Magnesium Sulphate
+35,Red ,Cotton,140,55,60,Magnesium Sulphate
+35,Red ,Cotton,145,55,60,Magnesium Sulphate
+35,Red ,Cotton,150,55,60,Magnesium Sulphate
+25,Red ,Cotton,100,60,65,Magnesium Sulphate
+25,Red ,Cotton,105,60,65,Magnesium Sulphate
+25,Red ,Cotton,110,60,65,Magnesium Sulphate
+25,Red ,Cotton,115,60,65,Magnesium Sulphate
+25,Red ,Cotton,120,60,65,Magnesium Sulphate
+25,Red ,Cotton,125,60,65,Magnesium Sulphate
+25,Red ,Cotton,130,60,65,Magnesium Sulphate
+25,Red ,Cotton,135,60,65,Magnesium Sulphate
+25,Red ,Cotton,140,60,65,Magnesium Sulphate
+25,Red ,Cotton,145,60,65,Magnesium Sulphate
+25,Red ,Cotton,150,60,65,Magnesium Sulphate
+30,Red ,Cotton,100,40,70,Magnesium Sulphate
+30,Red ,Cotton,105,40,70,Magnesium Sulphate
+30,Red ,Cotton,110,40,70,Magnesium Sulphate
+30,Red ,Cotton,115,40,70,Magnesium Sulphate
+30,Red ,Cotton,120,40,70,Magnesium Sulphate
+30,Red ,Cotton,125,40,70,Magnesium Sulphate
+30,Red ,Cotton,130,40,70,Magnesium Sulphate
+30,Red ,Cotton,135,40,70,Magnesium Sulphate
+30,Red ,Cotton,140,40,70,Magnesium Sulphate
+30,Red ,Cotton,145,40,70,Magnesium Sulphate
+30,Red ,Cotton,150,40,70,Magnesium Sulphate
+35,Red ,Cotton,100,45,75,Magnesium Sulphate
+35,Red ,Cotton,105,45,75,Magnesium Sulphate
+35,Red ,Cotton,110,45,75,Magnesium Sulphate
+35,Red ,Cotton,115,45,75,Magnesium Sulphate
+35,Red ,Cotton,120,45,75,Magnesium Sulphate
+35,Red ,Cotton,125,45,75,Magnesium Sulphate
+35,Red ,Cotton,130,45,75,Magnesium Sulphate
+35,Red ,Cotton,135,45,75,Magnesium Sulphate
+35,Red ,Cotton,140,45,75,Magnesium Sulphate
+35,Red ,Cotton,145,45,75,Magnesium Sulphate
+35,Red ,Cotton,150,45,75,Magnesium Sulphate
+25,Red ,Cotton,100,50,50,13:32:26 NPK
+25,Red ,Cotton,105,50,50,13:32:26 NPK
+25,Red ,Cotton,110,50,50,13:32:26 NPK
+25,Red ,Cotton,115,50,50,13:32:26 NPK
+25,Red ,Cotton,120,50,50,13:32:26 NPK
+25,Red ,Cotton,125,50,50,13:32:26 NPK
+25,Red ,Cotton,130,50,50,13:32:26 NPK
+25,Red ,Cotton,135,50,50,13:32:26 NPK
+25,Red ,Cotton,140,50,50,13:32:26 NPK
+25,Red ,Cotton,145,50,50,13:32:26 NPK
+25,Red ,Cotton,150,50,50,13:32:26 NPK
+30,Red ,Cotton,100,55,55,13:32:26 NPK
+30,Red ,Cotton,105,55,55,13:32:26 NPK
+30,Red ,Cotton,110,55,55,13:32:26 NPK
+30,Red ,Cotton,115,55,55,13:32:26 NPK
+30,Red ,Cotton,120,55,55,13:32:26 NPK
+30,Red ,Cotton,125,55,55,13:32:26 NPK
+30,Red ,Cotton,130,55,55,13:32:26 NPK
+30,Red ,Cotton,135,55,55,13:32:26 NPK
+30,Red ,Cotton,140,55,55,13:32:26 NPK
+30,Red ,Cotton,145,55,55,13:32:26 NPK
+30,Red ,Cotton,150,55,55,13:32:26 NPK
+35,Red ,Cotton,100,60,60,13:32:26 NPK
+35,Red ,Cotton,105,60,60,13:32:26 NPK
+35,Red ,Cotton,110,60,60,13:32:26 NPK
+35,Red ,Cotton,115,60,60,13:32:26 NPK
+35,Red ,Cotton,120,60,60,13:32:26 NPK
+35,Red ,Cotton,125,60,60,13:32:26 NPK
+35,Red ,Cotton,130,60,60,13:32:26 NPK
+35,Red ,Cotton,135,60,60,13:32:26 NPK
+35,Red ,Cotton,140,60,60,13:32:26 NPK
+35,Red ,Cotton,145,60,60,13:32:26 NPK
+35,Red ,Cotton,150,60,60,13:32:26 NPK
+25,Red ,Cotton,100,40,65,13:32:26 NPK
+25,Red ,Cotton,105,40,65,13:32:26 NPK
+25,Red ,Cotton,110,40,65,13:32:26 NPK
+25,Red ,Cotton,115,40,65,13:32:26 NPK
+25,Red ,Cotton,120,40,65,13:32:26 NPK
+25,Red ,Cotton,125,40,65,13:32:26 NPK
+25,Red ,Cotton,130,40,65,13:32:26 NPK
+25,Red ,Cotton,135,40,65,13:32:26 NPK
+25,Red ,Cotton,140,40,65,13:32:26 NPK
+25,Red ,Cotton,145,40,65,13:32:26 NPK
+25,Red ,Cotton,150,40,65,13:32:26 NPK
+30,Red ,Cotton,100,45,70,13:32:26 NPK
+30,Red ,Cotton,105,45,70,13:32:26 NPK
+30,Red ,Cotton,110,45,70,13:32:26 NPK
+30,Red ,Cotton,115,45,70,13:32:26 NPK
+30,Red ,Cotton,120,45,70,13:32:26 NPK
+30,Red ,Cotton,125,45,70,13:32:26 NPK
+30,Red ,Cotton,130,45,70,13:32:26 NPK
+30,Red ,Cotton,135,45,70,13:32:26 NPK
+30,Red ,Cotton,140,45,70,13:32:26 NPK
+30,Red ,Cotton,145,45,70,13:32:26 NPK
+30,Red ,Cotton,150,45,70,13:32:26 NPK
+35,Red ,Cotton,100,50,75,13:32:26 NPK
+35,Red ,Cotton,105,50,75,13:32:26 NPK
+35,Red ,Cotton,110,50,75,13:32:26 NPK
+35,Red ,Cotton,115,50,75,13:32:26 NPK
+35,Red ,Cotton,120,50,75,13:32:26 NPK
+35,Red ,Cotton,125,50,75,13:32:26 NPK
+35,Red ,Cotton,130,50,75,13:32:26 NPK
+35,Red ,Cotton,135,50,75,13:32:26 NPK
+35,Red ,Cotton,140,50,75,13:32:26 NPK
+35,Red ,Cotton,145,50,75,13:32:26 NPK
+35,Red ,Cotton,150,50,75,13:32:26 NPK
+25,Red ,Cotton,100,55,50,DAP
+25,Red ,Cotton,105,55,50,DAP
+25,Red ,Cotton,110,55,50,DAP
+25,Red ,Cotton,115,55,50,DAP
+25,Red ,Cotton,120,55,50,DAP
+25,Red ,Cotton,125,55,50,DAP
+25,Red ,Cotton,130,55,50,DAP
+25,Red ,Cotton,135,55,50,DAP
+25,Red ,Cotton,140,55,50,DAP
+25,Red ,Cotton,145,55,50,DAP
+25,Red ,Cotton,150,55,50,DAP
+30,Red ,Cotton,100,60,55,DAP
+30,Red ,Cotton,105,60,55,DAP
+30,Red ,Cotton,110,60,55,DAP
+30,Red ,Cotton,115,60,55,DAP
+30,Red ,Cotton,120,60,55,DAP
+30,Red ,Cotton,125,60,55,DAP
+30,Red ,Cotton,130,60,55,DAP
+30,Red ,Cotton,135,60,55,DAP
+30,Red ,Cotton,140,60,55,DAP
+30,Red ,Cotton,145,60,55,DAP
+30,Red ,Cotton,150,60,55,DAP
+35,Red ,Cotton,100,40,60,DAP
+35,Red ,Cotton,105,40,60,DAP
+35,Red ,Cotton,110,40,60,DAP
+35,Red ,Cotton,115,40,60,DAP
+35,Red ,Cotton,120,40,60,DAP
+35,Red ,Cotton,125,40,60,DAP
+35,Red ,Cotton,130,40,60,DAP
+35,Red ,Cotton,135,40,60,DAP
+35,Red ,Cotton,140,40,60,DAP
+35,Red ,Cotton,145,40,60,DAP
+35,Red ,Cotton,150,40,60,DAP
+25,Red ,Cotton,100,45,65,DAP
+25,Red ,Cotton,105,45,65,DAP
+25,Red ,Cotton,110,45,65,DAP
+25,Red ,Cotton,115,45,65,DAP
+25,Red ,Cotton,120,45,65,DAP
+25,Red ,Cotton,125,45,65,DAP
+25,Red ,Cotton,130,45,65,DAP
+25,Red ,Cotton,135,45,65,DAP
+25,Red ,Cotton,140,45,65,DAP
+25,Red ,Cotton,145,45,65,DAP
+25,Red ,Cotton,150,45,65,DAP
+30,Red ,Cotton,100,50,70,DAP
+30,Red ,Cotton,105,50,70,DAP
+30,Red ,Cotton,110,50,70,DAP
+30,Red ,Cotton,115,50,70,DAP
+30,Red ,Cotton,120,50,70,DAP
+30,Red ,Cotton,125,50,70,DAP
+30,Red ,Cotton,130,50,70,DAP
+30,Red ,Cotton,135,50,70,DAP
+30,Red ,Cotton,140,50,70,DAP
+30,Red ,Cotton,145,50,70,DAP
+30,Red ,Cotton,150,50,70,DAP
+35,Red ,Cotton,100,55,75,DAP
+35,Red ,Cotton,105,55,75,DAP
+35,Red ,Cotton,110,55,75,DAP
+35,Red ,Cotton,115,55,75,DAP
+35,Red ,Cotton,120,55,75,DAP
+35,Red ,Cotton,125,55,75,DAP
+35,Red ,Cotton,130,55,75,DAP
+35,Red ,Cotton,135,55,75,DAP
+35,Red ,Cotton,140,55,75,DAP
+35,Red ,Cotton,145,55,75,DAP
+35,Red ,Cotton,150,55,75,DAP
+25,Red ,Cotton,100,60,50,Magnesium Sulphate
+25,Red ,Cotton,105,60,50,Magnesium Sulphate
+25,Red ,Cotton,110,60,50,Magnesium Sulphate
+25,Red ,Cotton,115,60,50,Magnesium Sulphate
+25,Red ,Cotton,120,60,50,Magnesium Sulphate
+25,Red ,Cotton,125,60,50,Magnesium Sulphate
+25,Red ,Cotton,130,60,50,Magnesium Sulphate
+25,Red ,Cotton,135,60,50,Magnesium Sulphate
+25,Red ,Cotton,140,60,50,Magnesium Sulphate
+25,Red ,Cotton,145,60,50,Magnesium Sulphate
+25,Red ,Cotton,150,60,50,Magnesium Sulphate
+30,Red ,Cotton,100,40,55,Magnesium Sulphate
+30,Red ,Cotton,105,40,55,Magnesium Sulphate
+30,Red ,Cotton,110,40,55,Magnesium Sulphate
+30,Red ,Cotton,115,40,55,Magnesium Sulphate
+30,Red ,Cotton,120,40,55,Magnesium Sulphate
+30,Red ,Cotton,125,40,55,Magnesium Sulphate
+30,Red ,Cotton,130,40,55,Magnesium Sulphate
+30,Red ,Cotton,135,40,55,Magnesium Sulphate
+30,Red ,Cotton,140,40,55,Magnesium Sulphate
+30,Red ,Cotton,145,40,55,Magnesium Sulphate
+30,Red ,Cotton,150,40,55,Magnesium Sulphate
+35,Red ,Cotton,100,45,60,Magnesium Sulphate
+35,Red ,Cotton,105,45,60,Magnesium Sulphate
+35,Red ,Cotton,110,45,60,Magnesium Sulphate
+35,Red ,Cotton,115,45,60,Magnesium Sulphate
+35,Red ,Cotton,120,45,60,Magnesium Sulphate
+35,Red ,Cotton,125,45,60,Magnesium Sulphate
+35,Red ,Cotton,130,45,60,Magnesium Sulphate
+35,Red ,Cotton,135,45,60,Magnesium Sulphate
+35,Red ,Cotton,140,45,60,Magnesium Sulphate
+35,Red ,Cotton,145,45,60,Magnesium Sulphate
+35,Red ,Cotton,150,45,60,Magnesium Sulphate
+25,Red ,Cotton,100,50,65,Magnesium Sulphate
+25,Red ,Cotton,105,50,65,Magnesium Sulphate
+25,Red ,Cotton,110,50,65,Magnesium Sulphate
+25,Red ,Cotton,115,50,65,Magnesium Sulphate
+25,Red ,Cotton,120,50,65,Magnesium Sulphate
+25,Red ,Cotton,125,50,65,Magnesium Sulphate
+25,Red ,Cotton,130,50,65,Magnesium Sulphate
+25,Red ,Cotton,135,50,65,Magnesium Sulphate
+25,Red ,Cotton,140,50,65,Magnesium Sulphate
+25,Red ,Cotton,145,50,65,Magnesium Sulphate
+25,Red ,Cotton,150,50,65,Magnesium Sulphate
+30,Red ,Cotton,100,55,70,Magnesium Sulphate
+30,Red ,Cotton,105,55,70,Magnesium Sulphate
+30,Red ,Cotton,110,55,70,Magnesium Sulphate
+30,Red ,Cotton,115,55,70,Magnesium Sulphate
+30,Red ,Cotton,120,55,70,Magnesium Sulphate
+30,Red ,Cotton,125,55,70,Magnesium Sulphate
+30,Red ,Cotton,130,55,70,Magnesium Sulphate
+30,Red ,Cotton,135,55,70,Magnesium Sulphate
+30,Red ,Cotton,140,55,70,Magnesium Sulphate
+30,Red ,Cotton,145,55,70,Magnesium Sulphate
+30,Red ,Cotton,150,55,70,Magnesium Sulphate
+35,Red ,Cotton,100,60,75,Magnesium Sulphate
+35,Red ,Cotton,105,60,75,Magnesium Sulphate
+35,Red ,Cotton,110,60,75,Magnesium Sulphate
+35,Red ,Cotton,115,60,75,Magnesium Sulphate
+35,Red ,Cotton,120,60,75,Magnesium Sulphate
+35,Red ,Cotton,125,60,75,Magnesium Sulphate
+35,Red ,Cotton,130,60,75,Magnesium Sulphate
+35,Red ,Cotton,135,60,75,Magnesium Sulphate
+35,Red ,Cotton,140,60,75,Magnesium Sulphate
+35,Red ,Cotton,145,60,75,Magnesium Sulphate
+35,Red ,Cotton,150,60,75,Magnesium Sulphate
+25,Red ,Cotton,100,60,40,12:32:16 NPK
+25,Red ,Cotton,105,60,40,12:32:16 NPK
+25,Red ,Cotton,110,60,40,12:32:16 NPK
+25,Red ,Cotton,115,60,40,12:32:16 NPK
+25,Red ,Cotton,120,60,40,12:32:16 NPK
+30,Red ,Cotton,100,65,45,12:32:16 NPK
+30,Red ,Cotton,105,65,45,12:32:16 NPK
+30,Red ,Cotton,110,65,45,12:32:16 NPK
+30,Red ,Cotton,115,65,45,12:32:16 NPK
+30,Red ,Cotton,120,65,45,12:32:16 NPK
+35,Red ,Cotton,100,70,50,12:32:16 NPK
+35,Red ,Cotton,105,70,50,12:32:16 NPK
+35,Red ,Cotton,110,70,50,12:32:16 NPK
+35,Red ,Cotton,115,70,50,12:32:16 NPK
+35,Red ,Cotton,120,70,50,12:32:16 NPK
+25,Red ,Cotton,100,75,55,12:32:16 NPK
+25,Red ,Cotton,105,75,55,12:32:16 NPK
+25,Red ,Cotton,110,75,55,12:32:16 NPK
+25,Red ,Cotton,115,75,55,12:32:16 NPK
+25,Red ,Cotton,120,75,55,12:32:16 NPK
+30,Red ,Cotton,100,80,60,12:32:16 NPK
+30,Red ,Cotton,105,80,60,12:32:16 NPK
+30,Red ,Cotton,110,80,60,12:32:16 NPK
+30,Red ,Cotton,115,80,60,12:32:16 NPK
+30,Red ,Cotton,120,80,60,12:32:16 NPK
+35,Red ,Cotton,100,60,65,12:32:16 NPK
+35,Red ,Cotton,105,60,65,12:32:16 NPK
+35,Red ,Cotton,110,60,65,12:32:16 NPK
+35,Red ,Cotton,115,60,65,12:32:16 NPK
+35,Red ,Cotton,120,60,65,12:32:16 NPK
+25,Red ,Cotton,100,65,40,12:32:16 NPK
+25,Red ,Cotton,105,65,40,12:32:16 NPK
+25,Red ,Cotton,110,65,40,12:32:16 NPK
+25,Red ,Cotton,115,65,40,12:32:16 NPK
+25,Red ,Cotton,120,65,40,12:32:16 NPK
+30,Red ,Cotton,100,70,45,12:32:16 NPK
+30,Red ,Cotton,105,70,45,12:32:16 NPK
+30,Red ,Cotton,110,70,45,12:32:16 NPK
+30,Red ,Cotton,115,70,45,12:32:16 NPK
+30,Red ,Cotton,120,70,45,12:32:16 NPK
+35,Red ,Cotton,100,75,50,12:32:16 NPK
+35,Red ,Cotton,105,75,50,12:32:16 NPK
+35,Red ,Cotton,110,75,50,12:32:16 NPK
+35,Red ,Cotton,115,75,50,12:32:16 NPK
+35,Red ,Cotton,120,75,50,12:32:16 NPK
+25,Red ,Cotton,100,80,55,12:32:16 NPK
+25,Red ,Cotton,105,80,55,12:32:16 NPK
+25,Red ,Cotton,110,80,55,12:32:16 NPK
+25,Red ,Cotton,115,80,55,12:32:16 NPK
+25,Red ,Cotton,120,80,55,12:32:16 NPK
+30,Red ,Cotton,100,60,60,12:32:16 NPK
+30,Red ,Cotton,105,60,60,12:32:16 NPK
+30,Red ,Cotton,110,60,60,12:32:16 NPK
+30,Red ,Cotton,115,60,60,12:32:16 NPK
+30,Red ,Cotton,120,60,60,12:32:16 NPK
+35,Red ,Cotton,100,65,65,12:32:16 NPK
+35,Red ,Cotton,105,65,65,12:32:16 NPK
+35,Red ,Cotton,110,65,65,12:32:16 NPK
+35,Red ,Cotton,115,65,65,12:32:16 NPK
+35,Red ,Cotton,120,65,65,12:32:16 NPK
+25,Red ,Cotton,100,70,40,12:32:16 NPK
+25,Red ,Cotton,105,70,40,12:32:16 NPK
+25,Red ,Cotton,110,70,40,12:32:16 NPK
+25,Red ,Cotton,115,70,40,12:32:16 NPK
+25,Red ,Cotton,120,70,40,12:32:16 NPK
+30,Red ,Cotton,100,75,45,12:32:16 NPK
+30,Red ,Cotton,105,75,45,DAP
+30,Red ,Cotton,110,75,45,DAP
+30,Red ,Cotton,115,75,45,DAP
+30,Red ,Cotton,120,75,45,DAP
+35,Red ,Cotton,100,80,50,DAP
+35,Red ,Cotton,105,80,50,DAP
+35,Red ,Cotton,110,80,50,DAP
+35,Red ,Cotton,115,80,50,DAP
+35,Red ,Cotton,120,80,50,DAP
+25,Red ,Cotton,100,60,55,DAP
+25,Red ,Cotton,105,60,55,DAP
+25,Red ,Cotton,110,60,55,DAP
+25,Red ,Cotton,115,60,55,DAP
+25,Red ,Cotton,120,60,55,DAP
+30,Red ,Cotton,100,65,60,DAP
+30,Red ,Cotton,105,65,60,DAP
+30,Red ,Cotton,110,65,60,DAP
+30,Red ,Cotton,115,65,60,DAP
+30,Red ,Cotton,120,65,60,DAP
+35,Red ,Cotton,100,70,65,DAP
+35,Red ,Cotton,105,70,65,DAP
+35,Red ,Cotton,110,70,65,DAP
+35,Red ,Cotton,115,70,65,DAP
+35,Red ,Cotton,120,70,65,DAP
+25,Red ,Cotton,100,75,40,DAP
+25,Red ,Cotton,105,75,40,DAP
+25,Red ,Cotton,110,75,40,DAP
+25,Red ,Cotton,115,75,40,DAP
+25,Red ,Cotton,120,75,40,DAP
+30,Red ,Cotton,100,80,45,DAP
+30,Red ,Cotton,105,80,45,DAP
+30,Red ,Cotton,110,80,45,DAP
+30,Red ,Cotton,115,80,45,DAP
+30,Red ,Cotton,120,80,45,DAP
+35,Red ,Cotton,100,60,50,DAP
+35,Red ,Cotton,105,60,50,DAP
+35,Red ,Cotton,110,60,50,DAP
+35,Red ,Cotton,115,60,50,DAP
+35,Red ,Cotton,120,60,50,DAP
+25,Red ,Cotton,100,65,55,DAP
+25,Red ,Cotton,105,65,55,DAP
+25,Red ,Cotton,110,65,55,DAP
+25,Red ,Cotton,115,65,55,DAP
+25,Red ,Cotton,120,65,55,DAP
+30,Red ,Cotton,100,70,60,DAP
+30,Red ,Cotton,105,70,60,DAP
+30,Red ,Cotton,110,70,60,DAP
+30,Red ,Cotton,115,70,60,DAP
+30,Red ,Cotton,120,70,60,DAP
+35,Red ,Cotton,100,75,65,DAP
+35,Red ,Cotton,105,75,65,DAP
+35,Red ,Cotton,110,75,65,DAP
+35,Red ,Cotton,115,75,65,DAP
+35,Red ,Cotton,120,75,65,DAP
+25,Red ,Cotton,100,80,40,DAP
+25,Red ,Cotton,105,80,40,DAP
+25,Red ,Cotton,110,80,40,DAP
+25,Red ,Cotton,115,80,40,DAP
+25,Red ,Cotton,120,80,40,DAP
+30,Red ,Cotton,100,60,45,DAP
+30,Red ,Cotton,105,60,45,DAP
+30,Red ,Cotton,110,60,45,DAP
+30,Red ,Cotton,115,60,45,DAP
+30,Red ,Cotton,120,60,45,DAP
+35,Red ,Cotton,100,65,50,DAP
+35,Red ,Cotton,105,65,50,DAP
+35,Red ,Cotton,110,65,50,Magnesium Sulphate
+35,Red ,Cotton,115,65,50,Magnesium Sulphate
+35,Red ,Cotton,120,65,50,Magnesium Sulphate
+25,Red ,Cotton,100,70,55,Magnesium Sulphate
+25,Red ,Cotton,105,70,55,Magnesium Sulphate
+25,Red ,Cotton,110,70,55,Magnesium Sulphate
+25,Red ,Cotton,115,70,55,Magnesium Sulphate
+25,Red ,Cotton,120,70,55,Magnesium Sulphate
+30,Red ,Cotton,100,75,60,Magnesium Sulphate
+30,Red ,Cotton,105,75,60,Magnesium Sulphate
+30,Red ,Cotton,110,75,60,Magnesium Sulphate
+30,Red ,Cotton,115,75,60,Magnesium Sulphate
+30,Red ,Cotton,120,75,60,Magnesium Sulphate
+35,Red ,Cotton,100,80,65,Magnesium Sulphate
+35,Red ,Cotton,105,80,65,Magnesium Sulphate
+35,Red ,Cotton,110,80,65,Magnesium Sulphate
+35,Red ,Cotton,115,80,65,Magnesium Sulphate
+35,Red ,Cotton,120,80,65,Magnesium Sulphate
+25,Medium Brown,Rice,20,15,20,Urea
+25,Medium Brown,Rice,25,15,20,Urea
+25,Medium Brown,Rice,30,15,20,Urea
+30,Medium Brown,Rice,20,20,25,Urea
+30,Medium Brown,Rice,25,20,25,Urea
+30,Medium Brown,Rice,30,20,25,Urea
+25,Medium Brown,Rice,20,15,25,Urea
+25,Medium Brown,Rice,25,15,25,Urea
+25,Medium Brown,Rice,30,15,25,Urea
+30,Medium Brown,Rice,20,20,20,Urea
+30,Medium Brown,Rice,25,20,20,Urea
+30,Medium Brown,Rice,30,20,20,Urea
+25,Medium Brown,Rice,25,20,30,Urea
+25,Medium Brown,Rice,30,20,30,Urea
+25,Medium Brown,Rice,35,20,30,Urea
+30,Medium Brown,Rice,25,25,35,Urea
+30,Medium Brown,Rice,30,25,35,Urea
+30,Medium Brown,Rice,35,25,35,Urea
+25,Medium Brown,Rice,25,30,40,Urea
+25,Medium Brown,Rice,30,30,40,Urea
+25,Medium Brown,Rice,35,30,40,50:26:26 NPK
+30,Medium Brown,Rice,25,20,35,50:26:26 NPK
+30,Medium Brown,Rice,30,20,35,50:26:26 NPK
+30,Medium Brown,Rice,35,20,35,50:26:26 NPK
+25,Medium Brown,Rice,25,25,40,50:26:26 NPK
+25,Medium Brown,Rice,30,25,40,50:26:26 NPK
+25,Medium Brown,Rice,35,25,40,50:26:26 NPK
+30,Medium Brown,Rice,25,30,30,50:26:26 NPK
+30,Medium Brown,Rice,30,30,30,50:26:26 NPK
+30,Medium Brown,Rice,35,30,30,50:26:26 NPK
+25,Medium Brown,Rice,25,20,40,50:26:26 NPK
+25,Medium Brown,Rice,30,20,40,50:26:26 NPK
+25,Medium Brown,Rice,35,20,40,50:26:26 NPK
+30,Medium Brown,Rice,25,25,30,50:26:26 NPK
+30,Medium Brown,Rice,30,25,30,50:26:26 NPK
+30,Medium Brown,Rice,35,25,30,50:26:26 NPK
+25,Medium Brown,Rice,25,30,35,50:26:26 NPK
+25,Medium Brown,Rice,30,30,35,50:26:26 NPK
+25,Medium Brown,Rice,35,30,35,50:26:26 NPK
+15,Dark Brown,Wheat,100,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,105,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,110,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,115,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,120,60,40,19:19:19 NPK
+20,Dark Brown,Wheat,100,65,45,19:19:19 NPK
+20,Dark Brown,Wheat,105,65,45,19:19:19 NPK
+20,Dark Brown,Wheat,110,65,45,19:19:19 NPK
+20,Dark Brown,Wheat,115,65,45,19:19:19 NPK
+20,Dark Brown,Wheat,120,65,45,19:19:19 NPK
+25,Dark Brown,Wheat,100,70,50,19:19:19 NPK
+25,Dark Brown,Wheat,105,70,50,19:19:19 NPK
+25,Dark Brown,Wheat,110,70,50,19:19:19 NPK
+25,Dark Brown,Wheat,115,70,50,19:19:19 NPK
+25,Dark Brown,Wheat,120,70,50,19:19:19 NPK
+15,Dark Brown,Wheat,100,75,55,19:19:19 NPK
+15,Dark Brown,Wheat,105,75,55,19:19:19 NPK
+15,Dark Brown,Wheat,110,75,55,19:19:19 NPK
+15,Dark Brown,Wheat,115,75,55,19:19:19 NPK
+15,Dark Brown,Wheat,120,75,55,19:19:19 NPK
+20,Dark Brown,Wheat,100,80,60,19:19:19 NPK
+20,Dark Brown,Wheat,105,80,60,19:19:19 NPK
+20,Dark Brown,Wheat,110,80,60,19:19:19 NPK
+20,Dark Brown,Wheat,115,80,60,19:19:19 NPK
+20,Dark Brown,Wheat,120,80,60,19:19:19 NPK
+25,Dark Brown,Wheat,100,60,45,Urea
+25,Dark Brown,Wheat,105,60,45,Urea
+25,Dark Brown,Wheat,110,60,45,Urea
+25,Dark Brown,Wheat,115,60,45,Urea
+25,Dark Brown,Wheat,120,60,45,Urea
+15,Dark Brown,Wheat,100,65,50,Urea
+15,Dark Brown,Wheat,105,65,50,Urea
+15,Dark Brown,Wheat,110,65,50,Urea
+15,Dark Brown,Wheat,115,65,50,Urea
+15,Dark Brown,Wheat,120,65,50,Urea
+20,Dark Brown,Wheat,100,70,55,Urea
+20,Dark Brown,Wheat,105,70,55,Urea
+20,Dark Brown,Wheat,110,70,55,Urea
+20,Dark Brown,Wheat,115,70,55,Urea
+20,Dark Brown,Wheat,120,70,55,Urea
+25,Dark Brown,Wheat,100,75,60,Urea
+25,Dark Brown,Wheat,105,75,60,Urea
+25,Dark Brown,Wheat,110,75,60,Urea
+25,Dark Brown,Wheat,115,75,60,Urea
+25,Dark Brown,Wheat,120,75,60,Urea
+15,Dark Brown,Wheat,100,80,40,Urea
+15,Dark Brown,Wheat,105,80,40,Urea
+15,Dark Brown,Wheat,110,80,40,Urea
+15,Dark Brown,Wheat,115,80,40,Urea
+15,Dark Brown,Wheat,120,80,40,Urea
+20,Dark Brown,Wheat,100,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,105,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,110,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,115,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,120,60,50,19:19:19 NPK
+25,Dark Brown,Wheat,100,65,55,19:19:19 NPK
+25,Dark Brown,Wheat,105,65,55,19:19:19 NPK
+25,Dark Brown,Wheat,110,65,55,19:19:19 NPK
+25,Dark Brown,Wheat,115,65,55,19:19:19 NPK
+25,Dark Brown,Wheat,120,65,55,19:19:19 NPK
+15,Dark Brown,Wheat,100,70,60,19:19:19 NPK
+15,Dark Brown,Wheat,105,70,60,19:19:19 NPK
+15,Dark Brown,Wheat,110,70,60,19:19:19 NPK
+15,Dark Brown,Wheat,115,70,60,19:19:19 NPK
+15,Dark Brown,Wheat,120,70,60,19:19:19 NPK
+20,Dark Brown,Wheat,100,75,40,19:19:19 NPK
+20,Dark Brown,Wheat,105,75,40,19:19:19 NPK
+20,Dark Brown,Wheat,110,75,40,19:19:19 NPK
+20,Dark Brown,Wheat,115,75,40,19:19:19 NPK
+20,Dark Brown,Wheat,120,75,40,19:19:19 NPK
+25,Dark Brown,Wheat,100,80,45,19:19:19 NPK
+25,Dark Brown,Wheat,105,80,45,19:19:19 NPK
+25,Dark Brown,Wheat,110,80,45,19:19:19 NPK
+25,Dark Brown,Wheat,115,80,45,19:19:19 NPK
+25,Dark Brown,Wheat,120,80,45,19:19:19 NPK
+15,Dark Brown,Wheat,100,60,55,Urea
+15,Dark Brown,Wheat,105,60,55,Urea
+15,Dark Brown,Wheat,110,60,55,Urea
+15,Dark Brown,Wheat,115,60,55,Urea
+15,Dark Brown,Wheat,120,60,55,Urea
+20,Dark Brown,Wheat,100,65,60,Urea
+20,Dark Brown,Wheat,105,65,60,Urea
+20,Dark Brown,Wheat,110,65,60,Urea
+20,Dark Brown,Wheat,115,65,60,Urea
+20,Dark Brown,Wheat,120,65,60,Urea
+25,Dark Brown,Wheat,100,70,40,Urea
+25,Dark Brown,Wheat,105,70,40,Urea
+25,Dark Brown,Wheat,110,70,40,Urea
+25,Dark Brown,Wheat,115,70,40,Urea
+25,Dark Brown,Wheat,120,70,40,Urea
+15,Dark Brown,Wheat,100,75,45,Urea
+15,Dark Brown,Wheat,105,75,45,Urea
+15,Dark Brown,Wheat,110,75,45,Urea
+15,Dark Brown,Wheat,115,75,45,Urea
+15,Dark Brown,Wheat,120,75,45,Urea
+20,Dark Brown,Wheat,100,80,50,Urea
+20,Dark Brown,Wheat,105,80,50,Urea
+20,Dark Brown,Wheat,110,80,50,Urea
+20,Dark Brown,Wheat,115,80,50,Urea
+20,Dark Brown,Wheat,120,80,50,Urea
+25,Dark Brown,Wheat,100,60,60,19:19:19 NPK
+25,Dark Brown,Wheat,105,60,60,19:19:19 NPK
+25,Dark Brown,Wheat,110,60,60,19:19:19 NPK
+25,Dark Brown,Wheat,115,60,60,19:19:19 NPK
+25,Dark Brown,Wheat,120,60,60,19:19:19 NPK
+15,Dark Brown,Wheat,100,65,40,19:19:19 NPK
+15,Dark Brown,Wheat,105,65,40,19:19:19 NPK
+15,Dark Brown,Wheat,110,65,40,19:19:19 NPK
+15,Dark Brown,Wheat,115,65,40,19:19:19 NPK
+15,Dark Brown,Wheat,120,65,40,19:19:19 NPK
+20,Dark Brown,Wheat,100,70,45,19:19:19 NPK
+20,Dark Brown,Wheat,105,70,45,19:19:19 NPK
+20,Dark Brown,Wheat,110,70,45,19:19:19 NPK
+20,Dark Brown,Wheat,115,70,45,19:19:19 NPK
+20,Dark Brown,Wheat,120,70,45,19:19:19 NPK
+25,Dark Brown,Wheat,100,75,50,19:19:19 NPK
+25,Dark Brown,Wheat,105,75,50,19:19:19 NPK
+25,Dark Brown,Wheat,110,75,50,19:19:19 NPK
+25,Dark Brown,Wheat,115,75,50,19:19:19 NPK
+25,Dark Brown,Wheat,120,75,50,19:19:19 NPK
+15,Dark Brown,Wheat,100,80,55,19:19:19 NPK
+15,Dark Brown,Wheat,105,80,55,19:19:19 NPK
+15,Dark Brown,Wheat,110,80,55,19:19:19 NPK
+15,Dark Brown,Wheat,115,80,55,19:19:19 NPK
+15,Dark Brown,Wheat,120,80,55,19:19:19 NPK
+15,Dark Brown,Wheat,100,40,40,Urea
+15,Dark Brown,Wheat,105,40,40,Urea
+15,Dark Brown,Wheat,110,40,40,Urea
+15,Dark Brown,Wheat,115,40,40,Urea
+15,Dark Brown,Wheat,120,40,40,Urea
+20,Dark Brown,Wheat,100,45,45,Urea
+20,Dark Brown,Wheat,105,45,45,Urea
+20,Dark Brown,Wheat,110,45,45,Urea
+20,Dark Brown,Wheat,115,45,45,Urea
+20,Dark Brown,Wheat,120,45,45,Urea
+25,Dark Brown,Wheat,100,50,50,Urea
+25,Dark Brown,Wheat,105,50,50,Urea
+25,Dark Brown,Wheat,110,50,50,Urea
+25,Dark Brown,Wheat,115,50,50,Urea
+25,Dark Brown,Wheat,120,50,50,Urea
+15,Dark Brown,Wheat,100,55,55,Urea
+15,Dark Brown,Wheat,105,55,55,Urea
+15,Dark Brown,Wheat,110,55,55,Urea
+15,Dark Brown,Wheat,115,55,55,Urea
+15,Dark Brown,Wheat,120,55,55,Urea
+20,Dark Brown,Wheat,100,60,60,Urea
+20,Dark Brown,Wheat,105,60,60,Urea
+20,Dark Brown,Wheat,110,60,60,Urea
+20,Dark Brown,Wheat,115,60,60,Urea
+20,Dark Brown,Wheat,120,60,60,Urea
+25,Dark Brown,Wheat,100,40,45,19:19:19 NPK
+25,Dark Brown,Wheat,105,40,45,19:19:19 NPK
+25,Dark Brown,Wheat,110,40,45,19:19:19 NPK
+25,Dark Brown,Wheat,115,40,45,19:19:19 NPK
+25,Dark Brown,Wheat,120,40,45,19:19:19 NPK
+15,Dark Brown,Wheat,100,45,50,19:19:19 NPK
+15,Dark Brown,Wheat,105,45,50,19:19:19 NPK
+15,Dark Brown,Wheat,110,45,50,19:19:19 NPK
+15,Dark Brown,Wheat,115,45,50,19:19:19 NPK
+15,Dark Brown,Wheat,120,45,50,19:19:19 NPK
+20,Dark Brown,Wheat,100,50,55,19:19:19 NPK
+20,Dark Brown,Wheat,105,50,55,19:19:19 NPK
+20,Dark Brown,Wheat,110,50,55,19:19:19 NPK
+20,Dark Brown,Wheat,115,50,55,19:19:19 NPK
+20,Dark Brown,Wheat,120,50,55,19:19:19 NPK
+25,Dark Brown,Wheat,100,55,60,19:19:19 NPK
+25,Dark Brown,Wheat,105,55,60,19:19:19 NPK
+25,Dark Brown,Wheat,110,55,60,19:19:19 NPK
+25,Dark Brown,Wheat,115,55,60,19:19:19 NPK
+25,Dark Brown,Wheat,120,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,100,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,105,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,110,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,115,60,40,19:19:19 NPK
+15,Dark Brown,Wheat,120,60,40,19:19:19 NPK
+20,Dark Brown,Wheat,100,40,50,Urea
+20,Dark Brown,Wheat,105,40,50,Urea
+20,Dark Brown,Wheat,110,40,50,Urea
+20,Dark Brown,Wheat,115,40,50,Urea
+20,Dark Brown,Wheat,120,40,50,Urea
+25,Dark Brown,Wheat,100,45,55,Urea
+25,Dark Brown,Wheat,105,45,55,Urea
+25,Dark Brown,Wheat,110,45,55,Urea
+25,Dark Brown,Wheat,115,45,55,Urea
+25,Dark Brown,Wheat,120,45,55,Urea
+15,Dark Brown,Wheat,100,50,60,Urea
+15,Dark Brown,Wheat,105,50,60,Urea
+15,Dark Brown,Wheat,110,50,60,Urea
+15,Dark Brown,Wheat,115,50,60,Urea
+15,Dark Brown,Wheat,120,50,60,Urea
+20,Dark Brown,Wheat,100,55,40,Urea
+20,Dark Brown,Wheat,105,55,40,Urea
+20,Dark Brown,Wheat,110,55,40,Urea
+20,Dark Brown,Wheat,115,55,40,Urea
+20,Dark Brown,Wheat,120,55,40,Urea
+25,Dark Brown,Wheat,100,60,45,Urea
+25,Dark Brown,Wheat,105,60,45,Urea
+25,Dark Brown,Wheat,110,60,45,Urea
+25,Dark Brown,Wheat,115,60,45,Urea
+25,Dark Brown,Wheat,120,60,45,Urea
+15,Dark Brown,Wheat,100,40,55,19:19:19 NPK
+15,Dark Brown,Wheat,105,40,55,19:19:19 NPK
+15,Dark Brown,Wheat,110,40,55,19:19:19 NPK
+15,Dark Brown,Wheat,115,40,55,19:19:19 NPK
+15,Dark Brown,Wheat,120,40,55,19:19:19 NPK
+20,Dark Brown,Wheat,100,45,60,19:19:19 NPK
+20,Dark Brown,Wheat,105,45,60,19:19:19 NPK
+20,Dark Brown,Wheat,110,45,60,19:19:19 NPK
+20,Dark Brown,Wheat,115,45,60,19:19:19 NPK
+20,Dark Brown,Wheat,120,45,60,19:19:19 NPK
+25,Dark Brown,Wheat,100,50,40,19:19:19 NPK
+25,Dark Brown,Wheat,105,50,40,19:19:19 NPK
+25,Dark Brown,Wheat,110,50,40,19:19:19 NPK
+25,Dark Brown,Wheat,115,50,40,19:19:19 NPK
+25,Dark Brown,Wheat,120,50,40,19:19:19 NPK
+15,Dark Brown,Wheat,100,55,45,19:19:19 NPK
+15,Dark Brown,Wheat,105,55,45,19:19:19 NPK
+15,Dark Brown,Wheat,110,55,45,19:19:19 NPK
+15,Dark Brown,Wheat,115,55,45,19:19:19 NPK
+15,Dark Brown,Wheat,120,55,45,19:19:19 NPK
+20,Dark Brown,Wheat,100,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,105,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,110,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,115,60,50,19:19:19 NPK
+20,Dark Brown,Wheat,120,60,50,19:19:19 NPK
+25,Dark Brown,Wheat,100,40,60,Urea
+25,Dark Brown,Wheat,105,40,60,Urea
+25,Dark Brown,Wheat,110,40,60,Urea
+25,Dark Brown,Wheat,115,40,60,Urea
+25,Dark Brown,Wheat,120,40,60,Urea
+15,Dark Brown,Wheat,100,45,40,Urea
+15,Dark Brown,Wheat,105,45,40,Urea
+15,Dark Brown,Wheat,110,45,40,Urea
+15,Dark Brown,Wheat,115,45,40,Urea
+15,Dark Brown,Wheat,120,45,40,Urea
+20,Dark Brown,Wheat,100,50,45,Urea
+20,Dark Brown,Wheat,105,50,45,Urea
+20,Dark Brown,Wheat,110,50,45,Urea
+20,Dark Brown,Wheat,115,50,45,Urea
+20,Dark Brown,Wheat,120,50,45,Urea
+25,Dark Brown,Wheat,100,55,50,Urea
+25,Dark Brown,Wheat,105,55,50,Urea
+25,Dark Brown,Wheat,110,55,50,Urea
+25,Dark Brown,Wheat,115,55,50,Urea
+25,Dark Brown,Wheat,120,55,50,Urea
+15,Dark Brown,Wheat,100,60,55,Urea
+15,Dark Brown,Wheat,105,60,55,Urea
+15,Dark Brown,Wheat,110,60,55,Urea
+15,Dark Brown,Wheat,115,60,55,Urea
+15,Dark Brown,Wheat,120,60,55,Urea
+15,Dark Brown,Wheat,60,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,65,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,70,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,75,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,80,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,85,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,90,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,95,40,40,19:19:19 NPK
+15,Dark Brown,Wheat,100,40,40,19:19:19 NPK
+20,Dark Brown,Wheat,60,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,65,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,70,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,75,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,80,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,85,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,90,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,95,45,45,19:19:19 NPK
+20,Dark Brown,Wheat,100,45,45,19:19:19 NPK
+25,Dark Brown,Wheat,60,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,65,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,70,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,75,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,80,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,85,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,90,55,55,19:19:19 NPK
+25,Dark Brown,Wheat,95,55,55,Urea
+25,Dark Brown,Wheat,100,55,55,Urea
+15,Dark Brown,Wheat,60,60,60,Urea
+15,Dark Brown,Wheat,65,60,60,Urea
+15,Dark Brown,Wheat,70,60,60,Urea
+15,Dark Brown,Wheat,75,60,60,Urea
+15,Dark Brown,Wheat,80,60,60,Urea
+15,Dark Brown,Wheat,85,60,60,Urea
+15,Dark Brown,Wheat,90,60,60,Urea
+15,Dark Brown,Wheat,95,60,60,Urea
+15,Dark Brown,Wheat,100,60,60,Urea
+20,Dark Brown,Wheat,60,40,45,Urea
+20,Dark Brown,Wheat,65,40,45,Urea
+20,Dark Brown,Wheat,70,40,45,Urea
+20,Dark Brown,Wheat,75,40,45,Urea
+20,Dark Brown,Wheat,80,40,45,Urea
+20,Dark Brown,Wheat,85,40,45,Urea
+20,Dark Brown,Wheat,90,40,45,Urea
+20,Dark Brown,Wheat,95,40,45,Urea
+20,Dark Brown,Wheat,100,40,45,Urea
+25,Dark Brown,Wheat,60,45,50,Urea
+25,Dark Brown,Wheat,65,45,50,Urea
+25,Dark Brown,Wheat,70,45,50,Urea
+25,Dark Brown,Wheat,75,45,50,Urea
+25,Dark Brown,Wheat,80,45,50,Urea
+25,Dark Brown,Wheat,85,45,50,19:19:19 NPK
+25,Dark Brown,Wheat,90,45,50,19:19:19 NPK
+25,Dark Brown,Wheat,95,45,50,19:19:19 NPK
+25,Dark Brown,Wheat,100,45,50,19:19:19 NPK
+15,Dark Brown,Wheat,60,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,65,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,70,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,75,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,80,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,85,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,90,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,95,55,60,19:19:19 NPK
+15,Dark Brown,Wheat,100,55,60,19:19:19 NPK
+20,Dark Brown,Wheat,60,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,65,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,70,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,75,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,80,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,85,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,90,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,95,40,50,19:19:19 NPK
+20,Dark Brown,Wheat,100,40,50,19:19:19 NPK
+25,Dark Brown,Wheat,60,50,60,19:19:19 NPK
+25,Dark Brown,Wheat,65,50,60,19:19:19 NPK
+25,Dark Brown,Wheat,70,50,60,19:19:19 NPK
+25,Dark Brown,Wheat,75,50,60,Urea
+25,Dark Brown,Wheat,80,50,60,Urea
+25,Dark Brown,Wheat,85,50,60,Urea
+25,Dark Brown,Wheat,90,50,60,Urea
+25,Dark Brown,Wheat,95,50,60,Urea
+25,Dark Brown,Wheat,100,50,60,Urea
+15,Dark Brown,Wheat,60,55,40,Urea
+15,Dark Brown,Wheat,65,55,40,Urea
+15,Dark Brown,Wheat,70,55,40,Urea
+15,Dark Brown,Wheat,75,55,40,Urea
+15,Dark Brown,Wheat,80,55,40,Urea
+15,Dark Brown,Wheat,85,55,40,Urea
+15,Dark Brown,Wheat,90,55,40,Urea
+15,Dark Brown,Wheat,95,55,40,Urea
+15,Dark Brown,Wheat,100,55,40,Urea
+20,Dark Brown,Wheat,60,60,45,Urea
+20,Dark Brown,Wheat,65,60,45,Urea
+20,Dark Brown,Wheat,70,60,45,Urea
+20,Dark Brown,Wheat,75,60,45,Urea
+20,Dark Brown,Wheat,80,60,45,Urea
+20,Dark Brown,Wheat,85,60,45,Urea
+20,Dark Brown,Wheat,90,60,45,Urea
+20,Dark Brown,Wheat,95,60,45,Urea
+20,Dark Brown,Wheat,100,60,45,Urea
+25,Dark Brown,Wheat,60,40,55,Urea
+25,Dark Brown,Wheat,65,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,70,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,75,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,80,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,85,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,90,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,95,40,55,19:19:19 NPK
+25,Dark Brown,Wheat,100,40,55,19:19:19 NPK
+15,Dark Brown,Wheat,60,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,65,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,70,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,75,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,80,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,85,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,90,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,95,45,60,19:19:19 NPK
+15,Dark Brown,Wheat,100,45,60,19:19:19 NPK
+20,Dark Brown,Wheat,60,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,65,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,70,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,75,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,80,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,85,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,90,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,95,50,40,19:19:19 NPK
+20,Dark Brown,Wheat,100,50,40,Urea
+25,Dark Brown,Wheat,60,55,45,Urea
+25,Dark Brown,Wheat,65,55,45,Urea
+25,Dark Brown,Wheat,70,55,45,Urea
+25,Dark Brown,Wheat,75,55,45,Urea
+25,Dark Brown,Wheat,80,55,45,Urea
+25,Dark Brown,Wheat,85,55,45,Urea
+25,Dark Brown,Wheat,90,55,45,Urea
+25,Dark Brown,Wheat,95,55,45,Urea
+25,Dark Brown,Wheat,100,55,45,Urea
+15,Dark Brown,Wheat,60,60,50,Urea
+15,Dark Brown,Wheat,65,60,50,Urea
+15,Dark Brown,Wheat,70,60,50,Urea
+15,Dark Brown,Wheat,75,60,50,Urea
+15,Dark Brown,Wheat,80,60,50,Urea
+15,Dark Brown,Wheat,85,60,50,Urea
+15,Dark Brown,Wheat,90,60,50,Urea
+15,Dark Brown,Wheat,95,60,50,Urea
+15,Dark Brown,Wheat,100,60,50,Urea
+20,Dark Brown,Wheat,60,40,60,Urea
+20,Dark Brown,Wheat,65,40,60,Urea
+20,Dark Brown,Wheat,70,40,60,Urea
+20,Dark Brown,Wheat,75,40,60,Urea
+20,Dark Brown,Wheat,80,40,60,Urea
+20,Dark Brown,Wheat,85,40,60,Urea
+20,Dark Brown,Wheat,90,40,60,19:19:19 NPK
+20,Dark Brown,Wheat,95,40,60,19:19:19 NPK
+20,Dark Brown,Wheat,100,40,60,19:19:19 NPK
+25,Dark Brown,Wheat,60,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,65,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,70,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,75,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,80,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,85,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,90,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,95,45,40,19:19:19 NPK
+25,Dark Brown,Wheat,100,45,40,19:19:19 NPK
+15,Dark Brown,Wheat,60,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,65,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,70,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,75,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,80,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,85,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,90,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,95,50,45,19:19:19 NPK
+15,Dark Brown,Wheat,100,50,45,19:19:19 NPK
+20,Dark Brown,Wheat,60,55,50,19:19:19 NPK
+20,Dark Brown,Wheat,65,55,50,19:19:19 NPK
+20,Dark Brown,Wheat,70,55,50,19:19:19 NPK
+20,Dark Brown,Wheat,75,55,50,19:19:19 NPK
+20,Dark Brown,Wheat,80,55,50,Urea
+20,Dark Brown,Wheat,85,55,50,Urea
+20,Dark Brown,Wheat,90,55,50,Urea
+20,Dark Brown,Wheat,95,55,50,Urea
+20,Dark Brown,Wheat,100,55,50,Urea
+25,Dark Brown,Wheat,60,60,55,Urea
+25,Dark Brown,Wheat,65,60,55,Urea
+25,Dark Brown,Wheat,70,60,55,Urea
+25,Dark Brown,Wheat,75,60,55,Urea
+25,Dark Brown,Wheat,80,60,55,Urea
+25,Dark Brown,Wheat,85,60,55,Urea
+25,Dark Brown,Wheat,90,60,55,Urea
+25,Dark Brown,Wheat,95,60,55,Urea
+25,Dark Brown,Wheat,100,60,55,Urea
+25,Black,Groundnut,20,30,20,Chilated Micronutrient
+25,Black,Groundnut,25,30,20,Chilated Micronutrient
+25,Black,Groundnut,30,30,20,Chilated Micronutrient
+30,Black,Groundnut,20,35,25,Chilated Micronutrient
+30,Black,Groundnut,25,35,25,Chilated Micronutrient
+30,Black,Groundnut,30,35,25,Chilated Micronutrient
+25,Black,Groundnut,20,40,20,Chilated Micronutrient
+25,Black,Groundnut,25,40,20,Chilated Micronutrient
+25,Black,Groundnut,30,40,20,Chilated Micronutrient
+30,Black,Groundnut,20,30,25,SSP
+30,Black,Groundnut,25,30,25,SSP
+30,Black,Groundnut,30,30,25,SSP
+25,Black,Groundnut,20,35,20,SSP
+25,Black,Groundnut,25,35,20,SSP
+25,Black,Groundnut,30,35,20,SSP
+30,Black,Groundnut,20,40,25,SSP
+30,Black,Groundnut,25,40,25,SSP
+30,Black,Groundnut,30,40,25,SSP
+25,Black,Groundnut,50,25,30,Chilated Micronutrient
+25,Black,Groundnut,55,25,30,Chilated Micronutrient
+25,Black,Groundnut,60,25,30,Chilated Micronutrient
+30,Black,Groundnut,50,30,35,Chilated Micronutrient
+30,Black,Groundnut,55,30,35,Chilated Micronutrient
+30,Black,Groundnut,60,30,35,Chilated Micronutrient
+25,Black,Groundnut,50,25,40,Chilated Micronutrient
+25,Black,Groundnut,55,25,40,Chilated Micronutrient
+25,Black,Groundnut,60,25,40,Chilated Micronutrient
+30,Black,Groundnut,50,30,30,SSP
+30,Black,Groundnut,55,30,30,SSP
+30,Black,Groundnut,60,30,30,SSP
+25,Black,Groundnut,50,25,35,SSP
+25,Black,Groundnut,55,25,35,SSP
+25,Black,Groundnut,60,25,35,SSP
+30,Black,Groundnut,50,30,40,SSP
+30,Black,Groundnut,55,30,40,SSP
+30,Black,Groundnut,60,30,40,SSP
+25,Black,Groundnut,40,20,20,Chilated Micronutrient
+25,Black,Groundnut,45,20,20,Chilated Micronutrient
+25,Black,Groundnut,50,20,20,Chilated Micronutrient
+30,Black,Groundnut,40,30,30,Chilated Micronutrient
+30,Black,Groundnut,45,30,30,Chilated Micronutrient
+30,Black,Groundnut,50,30,30,Chilated Micronutrient
+25,Black,Groundnut,40,20,30,Chilated Micronutrient
+25,Black,Groundnut,45,20,30,Chilated Micronutrient
+25,Black,Groundnut,50,20,30,Chilated Micronutrient
+30,Black,Groundnut,40,30,20,SSP
+30,Black,Groundnut,45,30,20,SSP
+30,Black,Groundnut,50,30,20,SSP
+20,Dark Brown,Maize,120,60,40,Urea
+20,Dark Brown,Maize,125,60,40,Urea
+20,Dark Brown,Maize,130,60,40,Urea
+20,Dark Brown,Maize,135,60,40,Urea
+20,Dark Brown,Maize,140,60,40,Urea
+20,Dark Brown,Maize,145,60,40,Urea
+20,Dark Brown,Maize,150,60,40,Urea
+25,Dark Brown,Maize,120,65,45,Urea
+25,Dark Brown,Maize,125,65,45,Urea
+25,Dark Brown,Maize,130,65,45,Urea
+25,Dark Brown,Maize,135,65,45,Urea
+25,Dark Brown,Maize,140,65,45,Urea
+25,Dark Brown,Maize,145,65,45,Urea
+25,Dark Brown,Maize,150,65,45,Urea
+30,Dark Brown,Maize,120,70,50,Urea
+30,Dark Brown,Maize,125,70,50,Urea
+30,Dark Brown,Maize,130,70,50,Urea
+30,Dark Brown,Maize,135,70,50,Urea
+30,Dark Brown,Maize,140,70,50,Urea
+30,Dark Brown,Maize,145,70,50,Urea
+30,Dark Brown,Maize,150,70,50,Urea
+20,Dark Brown,Maize,120,75,55,Urea
+20,Dark Brown,Maize,125,75,55,Urea
+20,Dark Brown,Maize,130,75,55,Urea
+20,Dark Brown,Maize,135,75,55,Urea
+20,Dark Brown,Maize,140,75,55,Urea
+20,Dark Brown,Maize,145,75,55,Urea
+20,Dark Brown,Maize,150,75,55,Urea
+25,Dark Brown,Maize,120,80,60,Urea
+25,Dark Brown,Maize,125,80,60,Urea
+25,Dark Brown,Maize,130,80,60,Urea
+25,Dark Brown,Maize,135,80,60,Urea
+25,Dark Brown,Maize,140,80,60,Urea
+25,Dark Brown,Maize,145,80,60,Urea
+25,Dark Brown,Maize,150,80,60,Urea
+30,Dark Brown,Maize,120,60,45,SSP
+30,Dark Brown,Maize,125,60,45,SSP
+30,Dark Brown,Maize,130,60,45,SSP
+30,Dark Brown,Maize,135,60,45,SSP
+30,Dark Brown,Maize,140,60,45,SSP
+30,Dark Brown,Maize,145,60,45,SSP
+30,Dark Brown,Maize,150,60,45,SSP
+20,Dark Brown,Maize,120,65,50,SSP
+20,Dark Brown,Maize,125,65,50,SSP
+20,Dark Brown,Maize,130,65,50,SSP
+20,Dark Brown,Maize,135,65,50,SSP
+20,Dark Brown,Maize,140,65,50,SSP
+20,Dark Brown,Maize,145,65,50,SSP
+20,Dark Brown,Maize,150,65,50,SSP
+25,Dark Brown,Maize,120,70,55,SSP
+25,Dark Brown,Maize,125,70,55,SSP
+25,Dark Brown,Maize,130,70,55,SSP
+25,Dark Brown,Maize,135,70,55,SSP
+25,Dark Brown,Maize,140,70,55,SSP
+25,Dark Brown,Maize,145,70,55,SSP
+25,Dark Brown,Maize,150,70,55,SSP
+30,Dark Brown,Maize,120,75,60,SSP
+30,Dark Brown,Maize,125,75,60,SSP
+30,Dark Brown,Maize,130,75,60,SSP
+30,Dark Brown,Maize,135,75,60,SSP
+30,Dark Brown,Maize,140,75,60,SSP
+30,Dark Brown,Maize,145,75,60,SSP
+30,Dark Brown,Maize,150,75,60,SSP
+20,Dark Brown,Maize,120,80,40,SSP
+20,Dark Brown,Maize,125,80,40,SSP
+20,Dark Brown,Maize,130,80,40,SSP
+20,Dark Brown,Maize,135,80,40,SSP
+20,Dark Brown,Maize,140,80,40,SSP
+20,Dark Brown,Maize,145,80,40,SSP
+20,Dark Brown,Maize,150,80,40,SSP
+25,Dark Brown,Maize,120,60,50,MOP
+25,Dark Brown,Maize,125,60,50,MOP
+25,Dark Brown,Maize,130,60,50,MOP
+25,Dark Brown,Maize,135,60,50,MOP
+25,Dark Brown,Maize,140,60,50,MOP
+25,Dark Brown,Maize,145,60,50,MOP
+25,Dark Brown,Maize,150,60,50,MOP
+30,Dark Brown,Maize,120,65,55,MOP
+30,Dark Brown,Maize,125,65,55,MOP
+30,Dark Brown,Maize,130,65,55,MOP
+30,Dark Brown,Maize,135,65,55,MOP
+30,Dark Brown,Maize,140,65,55,MOP
+30,Dark Brown,Maize,145,65,55,MOP
+30,Dark Brown,Maize,150,65,55,MOP
+20,Dark Brown,Maize,120,70,60,MOP
+20,Dark Brown,Maize,125,70,60,MOP
+20,Dark Brown,Maize,130,70,60,MOP
+20,Dark Brown,Maize,135,70,60,MOP
+20,Dark Brown,Maize,140,70,60,MOP
+20,Dark Brown,Maize,145,70,60,MOP
+20,Dark Brown,Maize,150,70,60,MOP
+25,Dark Brown,Maize,120,75,40,MOP
+25,Dark Brown,Maize,125,75,40,MOP
+25,Dark Brown,Maize,130,75,40,MOP
+25,Dark Brown,Maize,135,75,40,MOP
+25,Dark Brown,Maize,140,75,40,MOP
+25,Dark Brown,Maize,145,75,40,MOP
+25,Dark Brown,Maize,150,75,40,MOP
+30,Dark Brown,Maize,120,80,45,MOP
+30,Dark Brown,Maize,125,80,45,MOP
+30,Dark Brown,Maize,130,80,45,MOP
+30,Dark Brown,Maize,135,80,45,MOP
+30,Dark Brown,Maize,140,80,45,MOP
+30,Dark Brown,Maize,145,80,45,MOP
+30,Dark Brown,Maize,150,80,45,MOP
+20,Dark Brown,Maize,120,60,55,Urea
+20,Dark Brown,Maize,125,60,55,Urea
+20,Dark Brown,Maize,130,60,55,Urea
+20,Dark Brown,Maize,135,60,55,Urea
+20,Dark Brown,Maize,140,60,55,Urea
+20,Dark Brown,Maize,145,60,55,Urea
+20,Dark Brown,Maize,150,60,55,Urea
+25,Dark Brown,Maize,120,65,60,Urea
+25,Dark Brown,Maize,125,65,60,Urea
+25,Dark Brown,Maize,130,65,60,Urea
+25,Dark Brown,Maize,135,65,60,Urea
+25,Dark Brown,Maize,140,65,60,Urea
+25,Dark Brown,Maize,145,65,60,Urea
+25,Dark Brown,Maize,150,65,60,Urea
+30,Dark Brown,Maize,120,70,40,Urea
+30,Dark Brown,Maize,125,70,40,Urea
+30,Dark Brown,Maize,130,70,40,Urea
+30,Dark Brown,Maize,135,70,40,Urea
+30,Dark Brown,Maize,140,70,40,Urea
+30,Dark Brown,Maize,145,70,40,Urea
+30,Dark Brown,Maize,150,70,40,Urea
+20,Dark Brown,Maize,120,75,45,Urea
+20,Dark Brown,Maize,125,75,45,Urea
+20,Dark Brown,Maize,130,75,45,Urea
+20,Dark Brown,Maize,135,75,45,Urea
+20,Dark Brown,Maize,140,75,45,Urea
+20,Dark Brown,Maize,145,75,45,Urea
+20,Dark Brown,Maize,150,75,45,Urea
+25,Dark Brown,Maize,120,80,50,Urea
+25,Dark Brown,Maize,125,80,50,Urea
+25,Dark Brown,Maize,130,80,50,Urea
+25,Dark Brown,Maize,135,80,50,Urea
+25,Dark Brown,Maize,140,80,50,Urea
+25,Dark Brown,Maize,145,80,50,Urea
+25,Dark Brown,Maize,150,80,50,Urea
+30,Dark Brown,Maize,120,60,60,SSP
+30,Dark Brown,Maize,125,60,60,SSP
+30,Dark Brown,Maize,130,60,60,SSP
+30,Dark Brown,Maize,135,60,60,SSP
+30,Dark Brown,Maize,140,60,60,SSP
+30,Dark Brown,Maize,145,60,60,SSP
+30,Dark Brown,Maize,150,60,60,SSP
+20,Dark Brown,Maize,120,65,40,SSP
+20,Dark Brown,Maize,125,65,40,SSP
+20,Dark Brown,Maize,130,65,40,SSP
+20,Dark Brown,Maize,135,65,40,SSP
+20,Dark Brown,Maize,140,65,40,SSP
+20,Dark Brown,Maize,145,65,40,SSP
+20,Dark Brown,Maize,150,65,40,SSP
+25,Dark Brown,Maize,120,70,45,SSP
+25,Dark Brown,Maize,125,70,45,SSP
+25,Dark Brown,Maize,130,70,45,SSP
+25,Dark Brown,Maize,135,70,45,SSP
+25,Dark Brown,Maize,140,70,45,SSP
+25,Dark Brown,Maize,145,70,45,SSP
+25,Dark Brown,Maize,150,70,45,SSP
+30,Dark Brown,Maize,120,75,50,SSP
+30,Dark Brown,Maize,125,75,50,SSP
+30,Dark Brown,Maize,130,75,50,SSP
+30,Dark Brown,Maize,135,75,50,SSP
+30,Dark Brown,Maize,140,75,50,SSP
+30,Dark Brown,Maize,145,75,50,SSP
+30,Dark Brown,Maize,150,75,50,SSP
+20,Dark Brown,Maize,120,80,55,SSP
+20,Dark Brown,Maize,125,80,55,SSP
+20,Dark Brown,Maize,130,80,55,SSP
+20,Dark Brown,Maize,135,80,55,SSP
+20,Dark Brown,Maize,140,80,55,SSP
+20,Dark Brown,Maize,145,80,55,SSP
+20,Dark Brown,Maize,150,80,55,SSP
+20,Red,Tur,40,20,20,Urea
+20,Red,Tur,45,20,20,Urea
+20,Red,Tur,50,20,20,Urea
+25,Red,Tur,40,25,25,Urea
+25,Red,Tur,45,25,25,Urea
+25,Red,Tur,50,25,25,Urea
+30,Red,Tur,40,30,30,Urea
+30,Red,Tur,45,30,30,Urea
+30,Red,Tur,50,30,30,Urea
+20,Red,Tur,40,20,25,MOP
+20,Red,Tur,45,20,25,MOP
+20,Red,Tur,50,20,25,MOP
+25,Red,Tur,40,25,30,MOP
+25,Red,Tur,45,25,30,MOP
+25,Red,Tur,50,25,30,MOP
+30,Red,Tur,40,30,20,MOP
+30,Red,Tur,45,30,20,MOP
+30,Red,Tur,50,30,20,MOP
+20,Red,Tur,40,20,30,SSP
+20,Red,Tur,45,20,30,SSP
+20,Red,Tur,50,20,30,SSP
+25,Red,Tur,40,25,20,SSP
+25,Red,Tur,45,25,20,SSP
+25,Red,Tur,50,25,20,SSP
+30,Red,Tur,40,30,25,SSP
+30,Red,Tur,45,30,25,SSP
+30,Red,Tur,50,30,25,SSP
+20,Dark Brown,Urad,20,30,20,Urea
+20,Dark Brown,Urad,25,30,20,Urea
+20,Dark Brown,Urad,30,30,20,Urea
+25,Dark Brown,Urad,20,35,25,Urea
+25,Dark Brown,Urad,25,35,25,Urea
+25,Dark Brown,Urad,30,35,25,Urea
+20,Dark Brown,Urad,20,40,30,Urea
+20,Dark Brown,Urad,25,40,30,Urea
+20,Dark Brown,Urad,30,40,30,Urea
+25,Dark Brown,Urad,20,30,25,SSP
+25,Dark Brown,Urad,25,30,25,SSP
+25,Dark Brown,Urad,30,30,25,SSP
+20,Dark Brown,Urad,20,35,30,SSP
+20,Dark Brown,Urad,25,35,30,SSP
+20,Dark Brown,Urad,30,35,30,SSP
+25,Dark Brown,Urad,20,40,20,SSP
+25,Dark Brown,Urad,25,40,20,SSP
+25,Dark Brown,Urad,30,40,20,SSP
+20,Dark Brown,Urad,20,30,30,DAP
+20,Dark Brown,Urad,25,30,30,DAP
+20,Dark Brown,Urad,30,30,30,DAP
+25,Dark Brown,Urad,20,35,20,DAP
+25,Dark Brown,Urad,25,35,20,DAP
+25,Dark Brown,Urad,30,35,20,DAP
+20,Dark Brown,Urad,20,40,25,DAP
+20,Dark Brown,Urad,25,40,25,DAP
+20,Dark Brown,Urad,30,40,25,DAP
+25,Light Brown,Moong,20,10,5,MOP
+25,Light Brown,Moong,25,10,5,MOP
+25,Light Brown,Moong,30,10,5,MOP
+30,Light Brown,Moong,20,15,10,MOP
+30,Light Brown,Moong,25,15,10,MOP
+30,Light Brown,Moong,30,15,10,MOP
+35,Light Brown,Moong,20,20,15,MOP
+35,Light Brown,Moong,25,20,15,MOP
+35,Light Brown,Moong,30,20,15,MOP
+25,Light Brown,Moong,20,10,10,Urea
+25,Light Brown,Moong,25,10,10,Urea
+25,Light Brown,Moong,30,10,10,Urea
+30,Light Brown,Moong,20,15,15,Urea
+30,Light Brown,Moong,25,15,15,Urea
+30,Light Brown,Moong,30,15,15,Urea
+35,Light Brown,Moong,20,20,5,Urea
+35,Light Brown,Moong,25,20,5,Urea
+35,Light Brown,Moong,30,20,5,Urea
+25,Light Brown,Moong,20,10,15,SSP
+25,Light Brown,Moong,25,10,15,SSP
+25,Light Brown,Moong,30,10,15,SSP
+30,Light Brown,Moong,20,15,5,SSP
+30,Light Brown,Moong,25,15,5,SSP
+30,Light Brown,Moong,30,15,5,SSP
+35,Light Brown,Moong,20,20,10,SSP
+35,Light Brown,Moong,25,20,10,SSP
+35,Light Brown,Moong,30,20,10,SSP
+20,Black,Gram,40,25,10,18:46:00 NPK
+20,Black,Gram,45,25,10,18:46:00 NPK
+20,Black,Gram,50,25,10,18:46:00 NPK
+25,Black,Gram,40,30,15,18:46:00 NPK
+25,Black,Gram,45,30,15,18:46:00 NPK
+25,Black,Gram,50,30,15,18:46:00 NPK
+20,Black,Gram,40,25,15,Sulphur
+20,Black,Gram,45,25,15,Sulphur
+20,Black,Gram,50,25,15,Sulphur
+25,Black,Gram,40,30,10,Sulphur
+25,Black,Gram,45,30,10,Sulphur
+25,Black,Gram,50,30,10,Sulphur
+20,Medium Brown,Masoor,40,20,20,Urea
+20,Medium Brown,Masoor,45,20,20,Urea
+20,Medium Brown,Masoor,50,20,20,Urea
+25,Medium Brown,Masoor,40,25,25,Urea
+25,Medium Brown,Masoor,45,25,25,Urea
+25,Medium Brown,Masoor,50,25,25,Urea
+20,Medium Brown,Masoor,40,20,25,DAP
+20,Medium Brown,Masoor,45,20,25,DAP
+20,Medium Brown,Masoor,50,20,25,DAP
+25,Medium Brown,Masoor,40,25,20,DAP
+25,Medium Brown,Masoor,45,25,20,DAP
+25,Medium Brown,Masoor,50,25,20,DAP
+10,Black,Cotton,100,60,60,Magnesium Sulphate
+10,Black,Cotton,105,60,60,Magnesium Sulphate
+10,Black,Cotton,110,60,60,Magnesium Sulphate
+10,Black,Cotton,115,60,60,Magnesium Sulphate
+10,Black,Cotton,120,60,60,Magnesium Sulphate
+15,Black,Cotton,100,65,65,Magnesium Sulphate
+15,Black,Cotton,105,65,65,Magnesium Sulphate
+15,Black,Cotton,110,65,65,Magnesium Sulphate
+15,Black,Cotton,115,65,65,Magnesium Sulphate
+15,Black,Cotton,120,65,65,Magnesium Sulphate
+20,Black,Cotton,100,70,70,Magnesium Sulphate
+20,Black,Cotton,105,70,70,Magnesium Sulphate
+20,Black,Cotton,110,70,70,Magnesium Sulphate
+20,Black,Cotton,115,70,70,Magnesium Sulphate
+20,Black,Cotton,120,70,70,Magnesium Sulphate
+25,Black,Cotton,100,75,75,Magnesium Sulphate
+25,Black,Cotton,105,75,75,Magnesium Sulphate
+25,Black,Cotton,110,75,75,Magnesium Sulphate
+25,Black,Cotton,115,75,75,Magnesium Sulphate
+25,Black,Cotton,120,75,75,Magnesium Sulphate
+30,Black,Cotton,100,80,80,Magnesium Sulphate
+30,Black,Cotton,105,80,80,Magnesium Sulphate
+30,Black,Cotton,110,80,80,Magnesium Sulphate
+30,Black,Cotton,115,80,80,Magnesium Sulphate
+30,Black,Cotton,120,80,80,Magnesium Sulphate
+10,Black,Cotton,100,60,65,DAP
+10,Black,Cotton,105,60,65,DAP
+10,Black,Cotton,110,60,65,DAP
+10,Black,Cotton,115,60,65,DAP
+10,Black,Cotton,120,60,65,DAP
+15,Black,Cotton,100,65,70,DAP
+15,Black,Cotton,105,65,70,DAP
+15,Black,Cotton,110,65,70,DAP
+15,Black,Cotton,115,65,70,DAP
+15,Black,Cotton,120,65,70,DAP
+20,Black,Cotton,100,70,75,DAP
+20,Black,Cotton,105,70,75,DAP
+20,Black,Cotton,110,70,75,DAP
+20,Black,Cotton,115,70,75,DAP
+20,Black,Cotton,120,70,75,DAP
+25,Black,Cotton,100,75,80,DAP
+25,Black,Cotton,105,75,80,DAP
+25,Black,Cotton,110,75,80,DAP
+25,Black,Cotton,115,75,80,DAP
+25,Black,Cotton,120,75,80,DAP
+30,Black,Cotton,100,80,60,DAP
+30,Black,Cotton,105,80,60,DAP
+30,Black,Cotton,110,80,60,DAP
+30,Black,Cotton,115,80,60,DAP
+30,Black,Cotton,120,80,60,DAP
+10,Black,Cotton,100,60,70,12:32:16 NPK
+10,Black,Cotton,105,60,70,12:32:16 NPK
+10,Black,Cotton,110,60,70,12:32:16 NPK
+10,Black,Cotton,115,60,70,12:32:16 NPK
+10,Black,Cotton,120,60,70,12:32:16 NPK
+15,Black,Cotton,100,65,75,12:32:16 NPK
+15,Black,Cotton,105,65,75,12:32:16 NPK
+15,Black,Cotton,110,65,75,12:32:16 NPK
+15,Black,Cotton,115,65,75,12:32:16 NPK
+15,Black,Cotton,120,65,75,12:32:16 NPK
+20,Black,Cotton,100,70,80,12:32:16 NPK
+20,Black,Cotton,105,70,80,12:32:16 NPK
+20,Black,Cotton,110,70,80,12:32:16 NPK
+20,Black,Cotton,115,70,80,12:32:16 NPK
+20,Black,Cotton,120,70,80,12:32:16 NPK
+25,Black,Cotton,100,75,60,12:32:16 NPK
+25,Black,Cotton,105,75,60,12:32:16 NPK
+25,Black,Cotton,110,75,60,12:32:16 NPK
+25,Black,Cotton,115,75,60,12:32:16 NPK
+25,Black,Cotton,120,75,60,12:32:16 NPK
+30,Black,Cotton,100,80,65,12:32:16 NPK
+30,Black,Cotton,105,80,65,12:32:16 NPK
+30,Black,Cotton,110,80,65,12:32:16 NPK
+30,Black,Cotton,115,80,65,12:32:16 NPK
+30,Black,Cotton,120,80,65,12:32:16 NPK
+10,Black,Cotton,100,60,75,Magnesium Sulphate
+10,Black,Cotton,105,60,75,Magnesium Sulphate
+10,Black,Cotton,110,60,75,Magnesium Sulphate
+10,Black,Cotton,115,60,75,Magnesium Sulphate
+10,Black,Cotton,120,60,75,Magnesium Sulphate
+15,Black,Cotton,100,65,80,Magnesium Sulphate
+15,Black,Cotton,105,65,80,Magnesium Sulphate
+15,Black,Cotton,110,65,80,Magnesium Sulphate
+15,Black,Cotton,115,65,80,Magnesium Sulphate
+15,Black,Cotton,120,65,80,Magnesium Sulphate
+20,Black,Cotton,100,70,60,Magnesium Sulphate
+20,Black,Cotton,105,70,60,Magnesium Sulphate
+20,Black,Cotton,110,70,60,Magnesium Sulphate
+20,Black,Cotton,115,70,60,Magnesium Sulphate
+20,Black,Cotton,120,70,60,Magnesium Sulphate
+25,Black,Cotton,100,75,65,Magnesium Sulphate
+25,Black,Cotton,105,75,65,Magnesium Sulphate
+25,Black,Cotton,110,75,65,Magnesium Sulphate
+25,Black,Cotton,115,75,65,Magnesium Sulphate
+25,Black,Cotton,120,75,65,Magnesium Sulphate
+30,Black,Cotton,100,80,70,Magnesium Sulphate
+30,Black,Cotton,105,80,70,Magnesium Sulphate
+30,Black,Cotton,110,80,70,Magnesium Sulphate
+30,Black,Cotton,115,80,70,Magnesium Sulphate
+30,Black,Cotton,120,80,70,Magnesium Sulphate
+10,Black,Cotton,100,60,80,DAP
+10,Black,Cotton,105,60,80,DAP
+10,Black,Cotton,110,60,80,DAP
+10,Black,Cotton,115,60,80,DAP
+10,Black,Cotton,120,60,80,DAP
+15,Black,Cotton,100,65,60,DAP
+15,Black,Cotton,105,65,60,DAP
+15,Black,Cotton,110,65,60,DAP
+15,Black,Cotton,115,65,60,DAP
+15,Black,Cotton,120,65,60,DAP
+20,Black,Cotton,100,70,65,DAP
+20,Black,Cotton,105,70,65,DAP
+20,Black,Cotton,110,70,65,DAP
+20,Black,Cotton,115,70,65,DAP
+20,Black,Cotton,120,70,65,DAP
+25,Black,Cotton,100,75,70,DAP
+25,Black,Cotton,105,75,70,DAP
+25,Black,Cotton,110,75,70,DAP
+25,Black,Cotton,115,75,70,DAP
+25,Black,Cotton,120,75,70,DAP
+30,Black,Cotton,100,80,75,DAP
+30,Black,Cotton,105,80,75,DAP
+30,Black,Cotton,110,80,75,DAP
+30,Black,Cotton,115,80,75,DAP
+30,Black,Cotton,120,80,75,DAP
+20,Red,Jowar,50,30,20,10:26:26 NPK
+20,Red,Jowar,55,30,20,10:26:26 NPK
+20,Red,Jowar,60,30,20,10:26:26 NPK
+25,Red,Jowar,50,35,25,10:26:26 NPK
+25,Red,Jowar,55,35,25,10:26:26 NPK
+25,Red,Jowar,60,35,25,10:26:26 NPK
+30,Red,Jowar,50,40,30,10:26:26 NPK
+30,Red,Jowar,55,40,30,10:26:26 NPK
+30,Red,Jowar,60,40,30,10:26:26 NPK
+20,Red,Jowar,50,30,25,Urea
+20,Red,Jowar,55,30,25,Urea
+20,Red,Jowar,60,30,25,Urea
+25,Red,Jowar,50,35,30,Urea
+25,Red,Jowar,55,35,30,Urea
+25,Red,Jowar,60,35,30,Urea
+30,Red,Jowar,50,40,20,Urea
+30,Red,Jowar,55,40,20,Urea
+30,Red,Jowar,60,40,20,Urea
+20,Red,Jowar,50,30,30,SSP
+20,Red,Jowar,55,30,30,SSP
+20,Red,Jowar,60,30,30,SSP
+25,Red,Jowar,50,35,20,SSP
+25,Red,Jowar,55,35,20,SSP
+25,Red,Jowar,60,35,20,SSP
+30,Red,Jowar,50,40,25,SSP
+30,Red,Jowar,55,40,25,SSP
+30,Red,Jowar,60,40,25,SSP
+15,Red,Wheat,60,40,40,19:19:19 NPK
+15,Red,Wheat,65,40,40,19:19:19 NPK
+15,Red,Wheat,70,40,40,19:19:19 NPK
+15,Red,Wheat,75,40,40,19:19:19 NPK
+15,Red,Wheat,80,40,40,19:19:19 NPK
+20,Red,Wheat,60,45,45,19:19:19 NPK
+20,Red,Wheat,65,45,45,19:19:19 NPK
+20,Red,Wheat,70,45,45,19:19:19 NPK
+20,Red,Wheat,75,45,45,19:19:19 NPK
+20,Red,Wheat,80,45,45,19:19:19 NPK
+25,Red,Wheat,60,50,50,19:19:19 NPK
+25,Red,Wheat,65,50,50,19:19:19 NPK
+25,Red,Wheat,70,50,50,19:19:19 NPK
+25,Red,Wheat,75,50,50,19:19:19 NPK
+25,Red,Wheat,80,50,50,19:19:19 NPK
+30,Red,Wheat,60,55,55,19:19:19 NPK
+30,Red,Wheat,65,55,55,19:19:19 NPK
+30,Red,Wheat,70,55,55,19:19:19 NPK
+30,Red,Wheat,75,55,55,19:19:19 NPK
+30,Red,Wheat,80,55,55,19:19:19 NPK
+15,Red,Wheat,60,60,60,19:19:19 NPK
+15,Red,Wheat,65,60,60,19:19:19 NPK
+15,Red,Wheat,70,60,60,19:19:19 NPK
+15,Red,Wheat,75,60,60,19:19:19 NPK
+15,Red,Wheat,80,60,60,19:19:19 NPK
+20,Red,Wheat,60,40,45,Urea
+20,Red,Wheat,65,40,45,Urea
+20,Red,Wheat,70,40,45,Urea
+20,Red,Wheat,75,40,45,Urea
+20,Red,Wheat,80,40,45,Urea
+25,Red,Wheat,60,45,50,Urea
+25,Red,Wheat,65,45,50,Urea
+25,Red,Wheat,70,45,50,Urea
+25,Red,Wheat,75,45,50,Urea
+25,Red,Wheat,80,45,50,Urea
+30,Red,Wheat,60,50,55,Urea
+30,Red,Wheat,65,50,55,Urea
+30,Red,Wheat,70,50,55,Urea
+30,Red,Wheat,75,50,55,Urea
+30,Red,Wheat,80,50,55,Urea
+15,Red,Wheat,60,55,60,Urea
+15,Red,Wheat,65,55,60,Urea
+15,Red,Wheat,70,55,60,Urea
+15,Red,Wheat,75,55,60,Urea
+15,Red,Wheat,80,55,60,Urea
+20,Red,Wheat,60,60,40,Urea
+20,Red,Wheat,65,60,40,Urea
+20,Red,Wheat,70,60,40,Urea
+20,Red,Wheat,75,60,40,Urea
+20,Red,Wheat,80,60,40,Urea
+25,Red,Wheat,60,40,50,19:19:19 NPK
+25,Red,Wheat,65,40,50,19:19:19 NPK
+25,Red,Wheat,70,40,50,19:19:19 NPK
+25,Red,Wheat,75,40,50,19:19:19 NPK
+25,Red,Wheat,80,40,50,19:19:19 NPK
+30,Red,Wheat,60,45,55,19:19:19 NPK
+30,Red,Wheat,65,45,55,19:19:19 NPK
+30,Red,Wheat,70,45,55,19:19:19 NPK
+30,Red,Wheat,75,45,55,19:19:19 NPK
+30,Red,Wheat,80,45,55,19:19:19 NPK
+15,Red,Wheat,60,50,60,19:19:19 NPK
+15,Red,Wheat,65,50,60,19:19:19 NPK
+15,Red,Wheat,70,50,60,19:19:19 NPK
+15,Red,Wheat,75,50,60,19:19:19 NPK
+15,Red,Wheat,80,50,60,19:19:19 NPK
+20,Red,Wheat,60,55,40,19:19:19 NPK
+20,Red,Wheat,65,55,40,19:19:19 NPK
+20,Red,Wheat,70,55,40,19:19:19 NPK
+20,Red,Wheat,75,55,40,19:19:19 NPK
+20,Red,Wheat,80,55,40,19:19:19 NPK
+25,Red,Wheat,60,60,45,19:19:19 NPK
+25,Red,Wheat,65,60,45,19:19:19 NPK
+25,Red,Wheat,70,60,45,19:19:19 NPK
+25,Red,Wheat,75,60,45,19:19:19 NPK
+25,Red,Wheat,80,60,45,19:19:19 NPK
+30,Red,Wheat,60,40,55,Urea
+30,Red,Wheat,65,40,55,Urea
+30,Red,Wheat,70,40,55,Urea
+30,Red,Wheat,75,40,55,Urea
+30,Red,Wheat,80,40,55,Urea
+15,Red,Wheat,60,45,60,Urea
+15,Red,Wheat,65,45,60,Urea
+15,Red,Wheat,70,45,60,Urea
+15,Red,Wheat,75,45,60,Urea
+15,Red,Wheat,80,45,60,Urea
+20,Red,Wheat,60,50,40,Urea
+20,Red,Wheat,65,50,40,Urea
+20,Red,Wheat,70,50,40,Urea
+20,Red,Wheat,75,50,40,Urea
+20,Red,Wheat,80,50,40,Urea
+25,Red,Wheat,60,55,45,Urea
+25,Red,Wheat,65,55,45,Urea
+25,Red,Wheat,70,55,45,Urea
+25,Red,Wheat,75,55,45,Urea
+25,Red,Wheat,80,55,45,Urea
+30,Red,Wheat,60,60,50,Urea
+30,Red,Wheat,65,60,50,Urea
+30,Red,Wheat,70,60,50,Urea
+30,Red,Wheat,75,60,50,Urea
+30,Red,Wheat,80,60,50,Urea
+15,Red,Wheat,60,40,60,19:19:19 NPK
+15,Red,Wheat,65,40,60,19:19:19 NPK
+15,Red,Wheat,70,40,60,19:19:19 NPK
+15,Red,Wheat,75,40,60,19:19:19 NPK
+15,Red,Wheat,80,40,60,19:19:19 NPK
+20,Red,Wheat,60,45,40,19:19:19 NPK
+20,Red,Wheat,65,45,40,19:19:19 NPK
+20,Red,Wheat,70,45,40,19:19:19 NPK
+20,Red,Wheat,75,45,40,19:19:19 NPK
+20,Red,Wheat,80,45,40,19:19:19 NPK
+25,Red,Wheat,60,50,45,19:19:19 NPK
+25,Red,Wheat,65,50,45,19:19:19 NPK
+25,Red,Wheat,70,50,45,19:19:19 NPK
+25,Red,Wheat,75,50,45,19:19:19 NPK
+25,Red,Wheat,80,50,45,19:19:19 NPK
+30,Red,Wheat,60,55,50,19:19:19 NPK
+30,Red,Wheat,65,55,50,19:19:19 NPK
+30,Red,Wheat,70,55,50,19:19:19 NPK
+30,Red,Wheat,75,55,50,19:19:19 NPK
+30,Red,Wheat,80,55,50,19:19:19 NPK
+15,Red,Wheat,60,60,55,19:19:19 NPK
+15,Red,Wheat,65,60,55,19:19:19 NPK
+15,Red,Wheat,70,60,55,19:19:19 NPK
+15,Red,Wheat,75,60,55,19:19:19 NPK
+15,Red,Wheat,80,60,55,19:19:19 NPK
+20,Black,Sugarcane,120,60,60,Urea
+20,Black,Sugarcane,125,60,60,Urea
+20,Black,Sugarcane,130,60,60,Urea
+20,Black,Sugarcane,135,60,60,Urea
+20,Black,Sugarcane,140,60,60,Urea
+20,Black,Sugarcane,145,60,60,Urea
+20,Black,Sugarcane,150,60,60,Urea
+25,Black,Sugarcane,120,65,65,Urea
+25,Black,Sugarcane,125,65,65,Urea
+25,Black,Sugarcane,130,65,65,Urea
+25,Black,Sugarcane,135,65,65,Urea
+25,Black,Sugarcane,140,65,65,Urea
+25,Black,Sugarcane,145,65,65,Urea
+25,Black,Sugarcane,150,65,65,Urea
+30,Black,Sugarcane,120,70,70,Urea
+30,Black,Sugarcane,125,70,70,Urea
+30,Black,Sugarcane,130,70,70,Urea
+30,Black,Sugarcane,135,70,70,Urea
+30,Black,Sugarcane,140,70,70,Urea
+30,Black,Sugarcane,145,70,70,Urea
+30,Black,Sugarcane,150,70,70,Urea
+35,Black,Sugarcane,120,75,75,Urea
+35,Black,Sugarcane,125,75,75,Urea
+35,Black,Sugarcane,130,75,75,Urea
+35,Black,Sugarcane,135,75,75,Urea
+35,Black,Sugarcane,140,75,75,Urea
+35,Black,Sugarcane,145,75,75,Urea
+35,Black,Sugarcane,150,75,75,Urea
+20,Black,Sugarcane,120,80,80,Urea
+20,Black,Sugarcane,125,80,80,Urea
+20,Black,Sugarcane,130,80,80,Urea
+20,Black,Sugarcane,135,80,80,Urea
+20,Black,Sugarcane,140,80,80,Urea
+20,Black,Sugarcane,145,80,80,Urea
+20,Black,Sugarcane,150,80,80,DAP
+25,Black,Sugarcane,120,60,65,DAP
+25,Black,Sugarcane,125,60,65,DAP
+25,Black,Sugarcane,130,60,65,DAP
+25,Black,Sugarcane,135,60,65,DAP
+25,Black,Sugarcane,140,60,65,DAP
+25,Black,Sugarcane,145,60,65,DAP
+25,Black,Sugarcane,150,60,65,DAP
+30,Black,Sugarcane,120,65,70,DAP
+30,Black,Sugarcane,125,65,70,DAP
+30,Black,Sugarcane,130,65,70,DAP
+30,Black,Sugarcane,135,65,70,DAP
+30,Black,Sugarcane,140,65,70,DAP
+30,Black,Sugarcane,145,65,70,DAP
+30,Black,Sugarcane,150,65,70,DAP
+35,Black,Sugarcane,120,70,75,DAP
+35,Black,Sugarcane,125,70,75,DAP
+35,Black,Sugarcane,130,70,75,DAP
+35,Black,Sugarcane,135,70,75,DAP
+35,Black,Sugarcane,140,70,75,DAP
+35,Black,Sugarcane,145,70,75,DAP
+35,Black,Sugarcane,150,70,75,DAP
+20,Black,Sugarcane,120,75,80,DAP
+20,Black,Sugarcane,125,75,80,DAP
+20,Black,Sugarcane,130,75,80,DAP
+20,Black,Sugarcane,135,75,80,DAP
+20,Black,Sugarcane,140,75,80,DAP
+20,Black,Sugarcane,145,75,80,DAP
+20,Black,Sugarcane,150,75,80,DAP
+25,Black,Sugarcane,120,80,60,DAP
+25,Black,Sugarcane,125,80,60,DAP
+25,Black,Sugarcane,130,80,60,DAP
+25,Black,Sugarcane,135,80,60,DAP
+25,Black,Sugarcane,140,80,60,DAP
+25,Black,Sugarcane,145,80,60,DAP
+25,Black,Sugarcane,150,80,60,DAP
+30,Black,Sugarcane,120,60,70,MOP
+30,Black,Sugarcane,125,60,70,MOP
+30,Black,Sugarcane,130,60,70,MOP
+30,Black,Sugarcane,135,60,70,MOP
+30,Black,Sugarcane,140,60,70,MOP
+30,Black,Sugarcane,145,60,70,MOP
+30,Black,Sugarcane,150,60,70,MOP
+35,Black,Sugarcane,120,65,75,MOP
+35,Black,Sugarcane,125,65,75,MOP
+35,Black,Sugarcane,130,65,75,MOP
+35,Black,Sugarcane,135,65,75,MOP
+35,Black,Sugarcane,140,65,75,MOP
+35,Black,Sugarcane,145,65,75,MOP
+35,Black,Sugarcane,150,65,75,MOP
+20,Black,Sugarcane,120,70,80,MOP
+20,Black,Sugarcane,125,70,80,MOP
+20,Black,Sugarcane,130,70,80,MOP
+20,Black,Sugarcane,135,70,80,MOP
+20,Black,Sugarcane,140,70,80,MOP
+20,Black,Sugarcane,145,70,80,MOP
+20,Black,Sugarcane,150,70,80,MOP
+25,Black,Sugarcane,120,75,60,MOP
+25,Black,Sugarcane,125,75,60,MOP
+25,Black,Sugarcane,130,75,60,MOP
+25,Black,Sugarcane,135,75,60,MOP
+25,Black,Sugarcane,140,75,60,MOP
+25,Black,Sugarcane,145,75,60,MOP
+25,Black,Sugarcane,150,75,60,MOP
+30,Black,Sugarcane,120,80,65,MOP
+30,Black,Sugarcane,125,80,65,MOP
+30,Black,Sugarcane,130,80,65,MOP
+30,Black,Sugarcane,135,80,65,MOP
+30,Black,Sugarcane,140,80,65,MOP
+30,Black,Sugarcane,145,80,65,MOP
+30,Black,Sugarcane,150,80,65,MOP
+35,Black,Sugarcane,120,60,75,MOP
+35,Black,Sugarcane,125,60,75,MOP
+35,Black,Sugarcane,130,60,75,MOP
+35,Black,Sugarcane,135,60,75,MOP
+35,Black,Sugarcane,140,60,75,MOP
+35,Black,Sugarcane,145,60,75,MOP
+35,Black,Sugarcane,150,60,75,MOP
+20,Black,Sugarcane,120,65,80,MOP
+20,Black,Sugarcane,125,65,80,MOP
+20,Black,Sugarcane,130,65,80,MOP
+20,Black,Sugarcane,135,65,80,MOP
+20,Black,Sugarcane,140,65,80,MOP
+20,Black,Sugarcane,145,65,80,MOP
+20,Black,Sugarcane,150,65,80,MOP
+25,Black,Sugarcane,120,70,60,MOP
+25,Black,Sugarcane,125,70,60,MOP
+25,Black,Sugarcane,130,70,60,MOP
+25,Black,Sugarcane,135,70,60,MOP
+25,Black,Sugarcane,140,70,60,MOP
+25,Black,Sugarcane,145,70,60,MOP
+25,Black,Sugarcane,150,70,60,MOP
+30,Black,Sugarcane,120,75,65,MOP
+30,Black,Sugarcane,125,75,65,MOP
+30,Black,Sugarcane,130,75,65,MOP
+30,Black,Sugarcane,135,75,65,MOP
+30,Black,Sugarcane,140,75,65,MOP
+30,Black,Sugarcane,145,75,65,MOP
+30,Black,Sugarcane,150,75,65,MOP
+35,Black,Sugarcane,120,80,70,MOP
+35,Black,Sugarcane,125,80,70,MOP
+35,Black,Sugarcane,130,80,70,MOP
+35,Black,Sugarcane,135,80,70,MOP
+35,Black,Sugarcane,140,80,70,MOP
+35,Black,Sugarcane,145,80,70,MOP
+35,Black,Sugarcane,150,80,70,MOP
+20,Black,Sugarcane,120,60,80,MOP
+20,Black,Sugarcane,125,60,80,MOP
+20,Black,Sugarcane,130,60,80,MOP
+20,Black,Sugarcane,135,60,80,MOP
+20,Black,Sugarcane,140,60,80,MOP
+20,Black,Sugarcane,145,60,80,MOP
+20,Black,Sugarcane,150,60,80,MOP
+25,Black,Sugarcane,120,65,60,MOP
+25,Black,Sugarcane,125,65,60,MOP
+25,Black,Sugarcane,130,65,60,MOP
+25,Black,Sugarcane,135,65,60,MOP
+25,Black,Sugarcane,140,65,60,MOP
+25,Black,Sugarcane,145,65,60,MOP
+25,Black,Sugarcane,150,65,60,MOP
+30,Black,Sugarcane,120,70,65,MOP
+30,Black,Sugarcane,125,70,65,MOP
+30,Black,Sugarcane,130,70,65,MOP
+30,Black,Sugarcane,135,70,65,MOP
+30,Black,Sugarcane,140,70,65,MOP
+30,Black,Sugarcane,145,70,65,MOP
+30,Black,Sugarcane,150,70,65,MOP
+35,Black,Sugarcane,120,75,70,MOP
+35,Black,Sugarcane,125,75,70,MOP
+35,Black,Sugarcane,130,75,70,MOP
+35,Black,Sugarcane,135,75,70,MOP
+35,Black,Sugarcane,140,75,70,MOP
+35,Black,Sugarcane,145,75,70,MOP
+35,Black,Sugarcane,150,75,70,MOP
+20,Black,Sugarcane,120,80,75,MOP
+20,Black,Sugarcane,125,80,75,MOP
+20,Black,Sugarcane,130,80,75,MOP
+20,Black,Sugarcane,135,80,75,MOP
+20,Black,Sugarcane,140,80,75,MOP
+20,Black,Sugarcane,145,80,75,MOP
+20,Black,Sugarcane,150,80,75,MOP
+25,Black,Groundnut,20,40,20,Chilated Micronutrient
+25,Black,Groundnut,25,40,20,Chilated Micronutrient
+25,Black,Groundnut,30,40,20,Chilated Micronutrient
+30,Black,Groundnut,20,45,25,Chilated Micronutrient
+30,Black,Groundnut,25,45,25,Chilated Micronutrient
+30,Black,Groundnut,30,45,25,Chilated Micronutrient
+25,Black,Groundnut,20,50,30,Chilated Micronutrient
+25,Black,Groundnut,25,50,30,Chilated Micronutrient
+25,Black,Groundnut,30,50,30,Chilated Micronutrient
+30,Black,Groundnut,20,55,35,Chilated Micronutrient
+30,Black,Groundnut,25,55,35,Chilated Micronutrient
+30,Black,Groundnut,30,55,35,Chilated Micronutrient
+25,Black,Groundnut,20,60,40,Chilated Micronutrient
+25,Black,Groundnut,25,60,40,Chilated Micronutrient
+25,Black,Groundnut,30,60,40,Chilated Micronutrient
+30,Black,Groundnut,20,40,25,SSP
+30,Black,Groundnut,25,40,25,SSP
+30,Black,Groundnut,30,40,25,SSP
+25,Black,Groundnut,20,45,30,SSP
+25,Black,Groundnut,25,45,30,SSP
+25,Black,Groundnut,30,45,30,SSP
+30,Black,Groundnut,20,50,35,SSP
+30,Black,Groundnut,25,50,35,SSP
+30,Black,Groundnut,30,50,35,SSP
+25,Black,Groundnut,20,55,40,SSP
+25,Black,Groundnut,25,55,40,SSP
+25,Black,Groundnut,30,55,40,SSP
+30,Black,Groundnut,20,60,20,SSP
+30,Black,Groundnut,25,60,20,SSP
+30,Black,Groundnut,30,60,20,SSP
+25,Black,Groundnut,20,40,30,Chilated Micronutrient
+25,Black,Groundnut,25,40,30,Chilated Micronutrient
+25,Black,Groundnut,30,40,30,Chilated Micronutrient
+30,Black,Groundnut,20,45,35,Chilated Micronutrient
+30,Black,Groundnut,25,45,35,Chilated Micronutrient
+30,Black,Groundnut,30,45,35,Chilated Micronutrient
+25,Black,Groundnut,20,50,40,Chilated Micronutrient
+25,Black,Groundnut,25,50,40,Chilated Micronutrient
+25,Black,Groundnut,30,50,40,Chilated Micronutrient
+30,Black,Groundnut,20,55,20,Chilated Micronutrient
+30,Black,Groundnut,25,55,20,Chilated Micronutrient
+30,Black,Groundnut,30,55,20,Chilated Micronutrient
+25,Black,Groundnut,20,60,25,Chilated Micronutrient
+25,Black,Groundnut,25,60,25,Chilated Micronutrient
+25,Black,Groundnut,30,60,25,Chilated Micronutrient
+30,Black,Groundnut,20,40,35,SSP
+30,Black,Groundnut,25,40,35,SSP
+30,Black,Groundnut,30,40,35,SSP
+25,Black,Groundnut,20,45,40,SSP
+25,Black,Groundnut,25,45,40,SSP
+25,Black,Groundnut,30,45,40,SSP
+30,Black,Groundnut,20,50,20,SSP
+30,Black,Groundnut,25,50,20,SSP
+30,Black,Groundnut,30,50,20,SSP
+25,Black,Groundnut,20,55,25,SSP
+25,Black,Groundnut,25,55,25,SSP
+25,Black,Groundnut,30,55,25,SSP
+30,Black,Groundnut,20,60,30,SSP
+30,Black,Groundnut,25,60,30,SSP
+30,Black,Groundnut,30,60,30,SSP
+25,Black,Groundnut,20,40,40,Chilated Micronutrient
+25,Black,Groundnut,25,40,40,Chilated Micronutrient
+25,Black,Groundnut,30,40,40,Chilated Micronutrient
+30,Black,Groundnut,20,45,20,Chilated Micronutrient
+30,Black,Groundnut,25,45,20,Chilated Micronutrient
+30,Black,Groundnut,30,45,20,Chilated Micronutrient
+25,Black,Groundnut,20,50,25,Chilated Micronutrient
+25,Black,Groundnut,25,50,25,Chilated Micronutrient
+25,Black,Groundnut,30,50,25,Chilated Micronutrient
+30,Black,Groundnut,20,55,30,Chilated Micronutrient
+30,Black,Groundnut,25,55,30,Chilated Micronutrient
+30,Black,Groundnut,30,55,30,Chilated Micronutrient
+20,Black,Groundnut,20,60,35,Chilated Micronutrient
+20,Black,Groundnut,25,60,35,Chilated Micronutrient
+20,Black,Groundnut,30,60,35,Chilated Micronutrient
+20,Black,Soybean,40,30,20,Urea
+20,Black,Soybean,45,30,20,Urea
+20,Black,Soybean,50,30,20,Urea
+20,Black,Soybean,55,30,20,Urea
+20,Black,Soybean,60,30,20,Urea
+25,Black,Soybean,40,35,25,Urea
+25,Black,Soybean,45,35,25,Urea
+25,Black,Soybean,50,35,25,Urea
+25,Black,Soybean,55,35,25,Urea
+25,Black,Soybean,60,35,25,Urea
+30,Black,Soybean,40,40,30,Urea
+30,Black,Soybean,45,40,30,Urea
+30,Black,Soybean,50,40,30,Urea
+30,Black,Soybean,55,40,30,Urea
+30,Black,Soybean,60,40,30,Urea
+20,Black,Soybean,40,30,25,20:20:20 NPK
+20,Black,Soybean,45,30,25,20:20:20 NPK
+20,Black,Soybean,50,30,25,20:20:20 NPK
+20,Black,Soybean,55,30,25,20:20:20 NPK
+20,Black,Soybean,60,30,25,20:20:20 NPK
+25,Black,Soybean,40,35,30,20:20:20 NPK
+25,Black,Soybean,45,35,30,20:20:20 NPK
+25,Black,Soybean,50,35,30,20:20:20 NPK
+25,Black,Soybean,55,35,30,20:20:20 NPK
+25,Black,Soybean,60,35,30,20:20:20 NPK
+30,Black,Soybean,40,40,20,20:20:20 NPK
+30,Black,Soybean,45,40,20,20:20:20 NPK
+30,Black,Soybean,50,40,20,20:20:20 NPK
+30,Black,Soybean,55,40,20,20:20:20 NPK
+30,Black,Soybean,60,40,20,20:20:20 NPK
+20,Black,Soybean,40,30,30,SSP
+20,Black,Soybean,45,30,30,SSP
+20,Black,Soybean,50,30,30,SSP
+20,Black,Soybean,55,30,30,SSP
+20,Black,Soybean,60,30,30,SSP
+25,Black,Soybean,40,35,20,SSP
+25,Black,Soybean,45,35,20,SSP
+25,Black,Soybean,50,35,20,SSP
+25,Black,Soybean,55,35,20,SSP
+25,Black,Soybean,60,35,20,SSP
+30,Black,Soybean,40,40,25,SSP
+30,Black,Soybean,45,40,25,SSP
+30,Black,Soybean,50,40,25,SSP
+30,Black,Soybean,55,40,25,SSP
+30,Black,Soybean,60,40,25,SSP
+25,Black,Gram,20,40,20,DAP
+25,Black,Gram,25,40,20,DAP
+25,Black,Gram,30,40,20,DAP
+30,Black,Gram,20,45,25,DAP
+30,Black,Gram,25,45,25,DAP
+30,Black,Gram,30,45,25,DAP
+35,Black,Gram,20,50,30,DAP
+35,Black,Gram,25,50,30,DAP
+35,Black,Gram,30,50,30,DAP
+25,Black,Gram,20,40,25,MOP
+25,Black,Gram,25,40,25,MOP
+25,Black,Gram,30,40,25,MOP
+30,Black,Gram,20,45,30,MOP
+30,Black,Gram,25,45,30,MOP
+30,Black,Gram,30,45,30,MOP
+35,Black,Gram,20,50,20,MOP
+35,Black,Gram,25,50,20,MOP
+35,Black,Gram,30,50,20,MOP
+25,Black,Gram,20,40,30,DAP
+25,Black,Gram,25,40,30,DAP
+25,Black,Gram,30,40,30,DAP
+30,Black,Gram,20,45,20,DAP
+30,Black,Gram,25,45,20,DAP
+30,Black,Gram,30,45,20,DAP
+35,Black,Gram,20,50,25,DAP
+35,Black,Gram,25,50,25,DAP
+35,Black,Gram,30,50,25,DAP
+25,Red,Tur,30,20,20,Urea
+25,Red,Tur,35,20,20,Urea
+25,Red,Tur,40,20,20,Urea
+30,Red,Tur,30,25,25,Urea
+30,Red,Tur,35,25,25,Urea
+30,Red,Tur,40,25,25,Urea
+35,Red,Tur,30,30,20,Urea
+35,Red,Tur,35,30,20,Urea
+35,Red,Tur,40,30,20,Urea
+25,Red,Tur,30,20,25,MOP
+25,Red,Tur,35,20,25,MOP
+25,Red,Tur,40,20,25,MOP
+30,Red,Tur,30,25,20,MOP
+30,Red,Tur,35,25,20,MOP
+30,Red,Tur,40,25,20,MOP
+35,Red,Tur,30,30,25,MOP
+35,Red,Tur,35,30,25,MOP
+35,Red,Tur,40,30,25,MOP
+25,Black,Urad,60,30,20,Urea
+25,Black,Urad,65,30,20,Urea
+25,Black,Urad,70,30,20,Urea
+25,Black,Urad,75,30,20,Urea
+25,Black,Urad,80,30,20,Urea
+30,Black,Urad,60,35,25,Urea
+30,Black,Urad,65,35,25,Urea
+30,Black,Urad,70,35,25,Urea
+30,Black,Urad,75,35,25,Urea
+30,Black,Urad,80,35,25,Urea
+25,Black,Urad,60,40,30,Urea
+25,Black,Urad,65,40,30,Urea
+25,Black,Urad,70,40,30,Urea
+25,Black,Urad,75,40,30,Urea
+25,Black,Urad,80,40,30,Urea
+30,Black,Urad,60,30,25,SSP
+30,Black,Urad,65,30,25,SSP
+30,Black,Urad,70,30,25,SSP
+30,Black,Urad,75,30,25,SSP
+30,Black,Urad,80,30,25,SSP
+25,Black,Urad,60,35,30,SSP
+25,Black,Urad,65,35,30,SSP
+25,Black,Urad,70,35,30,SSP
+25,Black,Urad,75,35,30,SSP
+25,Black,Urad,80,35,30,SSP
+30,Black,Urad,60,40,20,SSP
+30,Black,Urad,65,40,20,SSP
+30,Black,Urad,70,40,20,SSP
+30,Black,Urad,75,40,20,SSP
+30,Black,Urad,80,40,20,SSP
+25,Black,Urad,60,30,30,DAP
+25,Black,Urad,65,30,30,DAP
+25,Black,Urad,70,30,30,DAP
+25,Black,Urad,75,30,30,DAP
+25,Black,Urad,80,30,30,DAP
+30,Black,Urad,60,35,20,DAP
+30,Black,Urad,65,35,20,DAP
+30,Black,Urad,70,35,20,DAP
+30,Black,Urad,75,35,20,DAP
+30,Black,Urad,80,35,20,DAP
+25,Black,Urad,60,40,25,DAP
+25,Black,Urad,65,40,25,DAP
+25,Black,Urad,70,40,25,DAP
+25,Black,Urad,75,40,25,DAP
+25,Black,Urad,80,40,25,DAP
+25,Black,Moong,60,30,20,MOP
+25,Black,Moong,65,30,20,MOP
+25,Black,Moong,70,30,20,MOP
+25,Black,Moong,75,30,20,MOP
+25,Black,Moong,80,30,20,MOP
+30,Black,Moong,60,35,25,MOP
+30,Black,Moong,65,35,25,MOP
+30,Black,Moong,70,35,25,MOP
+30,Black,Moong,75,35,25,MOP
+30,Black,Moong,80,35,25,MOP
+35,Black,Moong,60,40,30,MOP
+35,Black,Moong,65,40,30,MOP
+35,Black,Moong,70,40,30,MOP
+35,Black,Moong,75,40,30,MOP
+35,Black,Moong,80,40,30,MOP
+25,Black,Moong,60,30,25,Urea
+25,Black,Moong,65,30,25,Urea
+25,Black,Moong,70,30,25,Urea
+25,Black,Moong,75,30,25,Urea
+25,Black,Moong,80,30,25,Urea
+30,Black,Moong,60,35,30,Urea
+30,Black,Moong,65,35,30,Urea
+30,Black,Moong,70,35,30,Urea
+30,Black,Moong,75,35,30,Urea
+30,Black,Moong,80,35,30,Urea
+35,Black,Moong,60,40,20,Urea
+35,Black,Moong,65,40,20,Urea
+35,Black,Moong,70,40,20,Urea
+35,Black,Moong,75,40,20,Urea
+35,Black,Moong,80,40,20,Urea
+25,Black,Moong,60,30,30,SSP
+25,Black,Moong,65,30,30,SSP
+25,Black,Moong,70,30,30,SSP
+25,Black,Moong,75,30,30,SSP
+25,Black,Moong,80,30,30,SSP
+30,Black,Moong,60,35,20,SSP
+30,Black,Moong,65,35,20,SSP
+30,Black,Moong,70,35,20,SSP
+30,Black,Moong,75,35,20,SSP
+30,Black,Moong,80,35,20,SSP
+35,Black,Moong,60,40,25,SSP
+35,Black,Moong,65,40,25,SSP
+35,Black,Moong,70,40,25,SSP
+35,Black,Moong,75,40,25,SSP
+35,Black,Moong,80,40,25,SSP
+25,Red,Tur,50,30,20,Urea
+25,Red,Tur,55,30,20,Urea
+25,Red,Tur,60,30,20,Urea
+30,Red,Tur,50,35,25,Urea
+30,Red,Tur,55,35,25,Urea
+30,Red,Tur,60,35,25,Urea
+35,Red,Tur,50,40,20,Urea
+35,Red,Tur,55,40,20,Urea
+35,Red,Tur,60,40,20,Urea
+25,Red,Tur,50,30,25,SSP
+25,Red,Tur,55,30,25,SSP
+25,Red,Tur,60,30,25,SSP
+30,Red,Tur,50,35,20,SSP
+30,Red,Tur,55,35,20,SSP
+30,Red,Tur,60,35,20,SSP
+35,Red,Tur,50,40,25,SSP
+35,Red,Tur,55,40,25,SSP
+35,Red,Tur,60,40,25,SSP
+20,Black,Gram,40,25,10,DAP
+20,Black,Gram,45,25,10,DAP
+20,Black,Gram,50,25,10,DAP
+25,Black,Gram,40,30,15,DAP
+25,Black,Gram,45,30,15,DAP
+25,Black,Gram,50,30,15,DAP
+20,Black,Gram,40,25,15,MOP
+20,Black,Gram,45,25,15,MOP
+20,Black,Gram,50,25,15,MOP
+25,Black,Gram,40,30,10,MOP
+25,Black,Gram,45,30,10,MOP
+25,Black,Gram,50,30,10,MOP
+25,Red,Rice,80,40,40,Urea
+25,Red,Rice,85,40,40,Urea
+25,Red,Rice,90,40,40,Urea
+25,Red,Rice,95,40,40,Urea
+25,Red,Rice,100,40,40,Urea
+25,Red,Rice,105,40,40,Urea
+25,Red,Rice,110,40,40,Urea
+25,Red,Rice,115,40,40,Urea
+25,Red,Rice,120,40,40,Urea
+30,Red,Rice,80,45,45,Urea
+30,Red,Rice,85,45,45,Urea
+30,Red,Rice,90,45,45,Urea
+30,Red,Rice,95,45,45,Urea
+30,Red,Rice,100,45,45,Urea
+30,Red,Rice,105,45,45,Urea
+30,Red,Rice,110,45,45,Urea
+30,Red,Rice,115,45,45,Urea
+30,Red,Rice,120,45,45,Urea
+35,Red,Rice,80,50,50,Urea
+35,Red,Rice,85,50,50,Urea
+35,Red,Rice,90,50,50,Urea
+35,Red,Rice,95,50,50,Urea
+35,Red,Rice,100,50,50,Urea
+35,Red,Rice,105,50,50,Urea
+35,Red,Rice,110,50,50,Urea
+35,Red,Rice,115,50,50,Urea
+35,Red,Rice,120,50,50,Urea
+25,Red,Rice,80,55,55,Urea
+25,Red,Rice,85,55,55,Urea
+25,Red,Rice,90,55,55,Urea
+25,Red,Rice,95,55,55,Urea
+25,Red,Rice,100,55,55,Urea
+25,Red,Rice,105,55,55,Urea
+25,Red,Rice,110,55,55,Urea
+25,Red,Rice,115,55,55,Urea
+25,Red,Rice,120,55,55,Urea
+30,Red,Rice,80,60,60,Urea
+30,Red,Rice,85,60,60,Urea
+30,Red,Rice,90,60,60,Urea
+30,Red,Rice,95,60,60,Urea
+30,Red,Rice,100,60,60,Urea
+30,Red,Rice,105,60,60,Urea
+30,Red,Rice,110,60,60,Urea
+30,Red,Rice,115,60,60,Urea
+30,Red,Rice,120,60,60,Urea
+35,Red,Rice,80,40,45,50:26:26 NPK
+35,Red,Rice,85,40,45,50:26:26 NPK
+35,Red,Rice,90,40,45,50:26:26 NPK
+35,Red,Rice,95,40,45,50:26:26 NPK
+35,Red,Rice,100,40,45,50:26:26 NPK
+35,Red,Rice,105,40,45,50:26:26 NPK
+35,Red,Rice,110,40,45,50:26:26 NPK
+35,Red,Rice,115,40,45,50:26:26 NPK
+35,Red,Rice,120,40,45,50:26:26 NPK
+25,Red,Rice,80,45,50,50:26:26 NPK
+25,Red,Rice,85,45,50,50:26:26 NPK
+25,Red,Rice,90,45,50,50:26:26 NPK
+25,Red,Rice,95,45,50,50:26:26 NPK
+25,Red,Rice,100,45,50,50:26:26 NPK
+25,Red,Rice,105,45,50,50:26:26 NPK
+25,Red,Rice,110,45,50,50:26:26 NPK
+25,Red,Rice,115,45,50,50:26:26 NPK
+25,Red,Rice,120,45,50,50:26:26 NPK
+30,Red,Rice,80,50,55,50:26:26 NPK
+30,Red,Rice,85,50,55,50:26:26 NPK
+30,Red,Rice,90,50,55,50:26:26 NPK
+30,Red,Rice,95,50,55,50:26:26 NPK
+30,Red,Rice,100,50,55,50:26:26 NPK
+30,Red,Rice,105,50,55,50:26:26 NPK
+30,Red,Rice,110,50,55,50:26:26 NPK
+30,Red,Rice,115,50,55,50:26:26 NPK
+30,Red,Rice,120,50,55,50:26:26 NPK
+35,Red,Rice,80,55,60,50:26:26 NPK
+35,Red,Rice,85,55,60,50:26:26 NPK
+35,Red,Rice,90,55,60,50:26:26 NPK
+35,Red,Rice,95,55,60,50:26:26 NPK
+35,Red,Rice,100,55,60,50:26:26 NPK
+35,Red,Rice,105,55,60,50:26:26 NPK
+35,Red,Rice,110,55,60,50:26:26 NPK
+35,Red,Rice,115,55,60,50:26:26 NPK
+35,Red,Rice,120,55,60,50:26:26 NPK
+25,Red,Rice,80,60,40,50:26:26 NPK
+25,Red,Rice,85,60,40,50:26:26 NPK
+25,Red,Rice,90,60,40,50:26:26 NPK
+25,Red,Rice,95,60,40,50:26:26 NPK
+25,Red,Rice,100,60,40,50:26:26 NPK
+25,Red,Rice,105,60,40,50:26:26 NPK
+25,Red,Rice,110,60,40,50:26:26 NPK
+25,Red,Rice,115,60,40,50:26:26 NPK
+25,Red,Rice,120,60,40,50:26:26 NPK
+30,Red,Rice,80,40,50,Urea
+30,Red,Rice,85,40,50,Urea
+30,Red,Rice,90,40,50,Urea
+30,Red,Rice,95,40,50,Urea
+30,Red,Rice,100,40,50,Urea
+30,Red,Rice,105,40,50,Urea
+30,Red,Rice,110,40,50,Urea
+30,Red,Rice,115,40,50,Urea
+30,Red,Rice,120,40,50,Urea
+35,Red,Rice,80,45,55,Urea
+35,Red,Rice,85,45,55,Urea
+35,Red,Rice,90,45,55,Urea
+35,Red,Rice,95,45,55,Urea
+35,Red,Rice,100,45,55,Urea
+35,Red,Rice,105,45,55,Urea
+35,Red,Rice,110,45,55,Urea
+35,Red,Rice,115,45,55,Urea
+35,Red,Rice,120,45,55,Urea
+25,Red,Rice,80,50,60,Urea
+25,Red,Rice,85,50,60,Urea
+25,Red,Rice,90,50,60,Urea
+25,Red,Rice,95,50,60,Urea
+25,Red,Rice,100,50,60,Urea
+25,Red,Rice,105,50,60,Urea
+25,Red,Rice,110,50,60,Urea
+25,Red,Rice,115,50,60,Urea
+25,Red,Rice,120,50,60,Urea
+30,Red,Rice,80,55,40,Urea
+30,Red,Rice,85,55,40,Urea
+30,Red,Rice,90,55,40,Urea
+30,Red,Rice,95,55,40,Urea
+30,Red,Rice,100,55,40,Urea
+30,Red,Rice,105,55,40,Urea
+30,Red,Rice,110,55,40,Urea
+30,Red,Rice,115,55,40,Urea
+30,Red,Rice,120,55,40,Urea
+35,Red,Rice,80,60,45,Urea
+35,Red,Rice,85,60,45,Urea
+35,Red,Rice,90,60,45,Urea
+35,Red,Rice,95,60,45,Urea
+35,Red,Rice,100,60,45,Urea
+35,Red,Rice,105,60,45,Urea
+35,Red,Rice,110,60,45,Urea
+35,Red,Rice,115,60,45,Urea
+35,Red,Rice,120,60,45,Urea
+25,Red,Rice,80,40,55,50:26:26 NPK
+25,Red,Rice,85,40,55,50:26:26 NPK
+25,Red,Rice,90,40,55,50:26:26 NPK
+25,Red,Rice,95,40,55,50:26:26 NPK
+25,Red,Rice,100,40,55,50:26:26 NPK
+25,Red,Rice,105,40,55,50:26:26 NPK
+25,Red,Rice,110,40,55,50:26:26 NPK
+25,Red,Rice,115,40,55,50:26:26 NPK
+25,Red,Rice,120,40,55,50:26:26 NPK
+30,Red,Rice,80,45,60,50:26:26 NPK
+30,Red,Rice,85,45,60,50:26:26 NPK
+30,Red,Rice,90,45,60,50:26:26 NPK
+30,Red,Rice,95,45,60,50:26:26 NPK
+30,Red,Rice,100,45,60,50:26:26 NPK
+30,Red,Rice,105,45,60,50:26:26 NPK
+30,Red,Rice,110,45,60,50:26:26 NPK
+30,Red,Rice,115,45,60,50:26:26 NPK
+30,Red,Rice,120,45,60,50:26:26 NPK
+35,Red,Rice,80,50,40,50:26:26 NPK
+35,Red,Rice,85,50,40,50:26:26 NPK
+35,Red,Rice,90,50,40,50:26:26 NPK
+35,Red,Rice,95,50,40,50:26:26 NPK
+35,Red,Rice,100,50,40,50:26:26 NPK
+35,Red,Rice,105,50,40,50:26:26 NPK
+35,Red,Rice,110,50,40,50:26:26 NPK
+35,Red,Rice,115,50,40,50:26:26 NPK
+35,Red,Rice,120,50,40,50:26:26 NPK
+25,Red,Rice,80,55,45,50:26:26 NPK
+25,Red,Rice,85,55,45,50:26:26 NPK
+25,Red,Rice,90,55,45,50:26:26 NPK
+25,Red,Rice,95,55,45,50:26:26 NPK
+25,Red,Rice,100,55,45,50:26:26 NPK
+25,Red,Rice,105,55,45,50:26:26 NPK
+25,Red,Rice,110,55,45,50:26:26 NPK
+25,Red,Rice,115,55,45,50:26:26 NPK
+25,Red,Rice,120,55,45,50:26:26 NPK
+30,Red,Rice,80,60,50,50:26:26 NPK
+30,Red,Rice,85,60,50,50:26:26 NPK
+30,Red,Rice,90,60,50,50:26:26 NPK
+30,Red,Rice,95,60,50,50:26:26 NPK
+30,Red,Rice,100,60,50,50:26:26 NPK
+30,Red,Rice,105,60,50,50:26:26 NPK
+30,Red,Rice,110,60,50,50:26:26 NPK
+30,Red,Rice,115,60,50,50:26:26 NPK
+30,Red,Rice,120,60,50,50:26:26 NPK
+35,Red,Rice,80,40,60,Urea
+35,Red,Rice,85,40,60,Urea
+35,Red,Rice,90,40,60,Urea
+35,Red,Rice,95,40,60,Urea
+35,Red,Rice,100,40,60,Urea
+35,Red,Rice,105,40,60,Urea
+35,Red,Rice,110,40,60,Urea
+35,Red,Rice,115,40,60,Urea
+35,Red,Rice,120,40,60,Urea
+25,Red,Rice,80,45,40,Urea
+25,Red,Rice,85,45,40,Urea
+25,Red,Rice,90,45,40,Urea
+25,Red,Rice,95,45,40,Urea
+25,Red,Rice,100,45,40,Urea
+25,Red,Rice,105,45,40,Urea
+25,Red,Rice,110,45,40,Urea
+25,Red,Rice,115,45,40,Urea
+25,Red,Rice,120,45,40,Urea
+30,Red,Rice,80,50,45,Urea
+30,Red,Rice,85,50,45,Urea
+30,Red,Rice,90,50,45,Urea
+30,Red,Rice,95,50,45,Urea
+30,Red,Rice,100,50,45,Urea
+30,Red,Rice,105,50,45,Urea
+30,Red,Rice,110,50,45,Urea
+30,Red,Rice,115,50,45,Urea
+30,Red,Rice,120,50,45,Urea
+35,Red,Rice,80,55,50,Urea
+35,Red,Rice,85,55,50,Urea
+35,Red,Rice,90,55,50,Urea
+35,Red,Rice,95,55,50,Urea
+35,Red,Rice,100,55,50,Urea
+35,Red,Rice,105,55,50,Urea
+35,Red,Rice,110,55,50,Urea
+35,Red,Rice,115,55,50,Urea
+35,Red,Rice,120,55,50,Urea
+20,Red,Rice,80,60,55,Urea
+20,Red,Rice,85,60,55,Urea
+20,Red,Rice,90,60,55,Urea
+20,Red,Rice,95,60,55,Urea
+20,Red,Rice,100,60,55,Urea
+20,Red,Rice,105,60,55,Urea
+20,Red,Rice,110,60,55,Urea
+20,Red,Rice,115,60,55,Urea
+20,Red,Rice,120,60,55,Urea
+25,Black,Jowar,40,20,20,10:26:26 NPK
+25,Black,Jowar,45,20,20,10:26:26 NPK
+25,Black,Jowar,50,20,20,10:26:26 NPK
+25,Black,Jowar,55,20,20,10:26:26 NPK
+25,Black,Jowar,60,20,20,10:26:26 NPK
+30,Black,Jowar,40,25,25,10:26:26 NPK
+30,Black,Jowar,45,25,25,10:26:26 NPK
+30,Black,Jowar,50,25,25,10:26:26 NPK
+30,Black,Jowar,55,25,25,10:26:26 NPK
+30,Black,Jowar,60,25,25,10:26:26 NPK
+35,Black,Jowar,40,30,30,10:26:26 NPK
+35,Black,Jowar,45,30,30,10:26:26 NPK
+35,Black,Jowar,50,30,30,10:26:26 NPK
+35,Black,Jowar,55,30,30,10:26:26 NPK
+35,Black,Jowar,60,30,30,10:26:26 NPK
+25,Black,Jowar,40,35,35,10:26:26 NPK
+25,Black,Jowar,45,35,35,10:26:26 NPK
+25,Black,Jowar,50,35,35,10:26:26 NPK
+25,Black,Jowar,55,35,35,10:26:26 NPK
+25,Black,Jowar,60,35,35,10:26:26 NPK
+30,Black,Jowar,40,40,40,10:26:26 NPK
+30,Black,Jowar,45,40,40,10:26:26 NPK
+30,Black,Jowar,50,40,40,10:26:26 NPK
+30,Black,Jowar,55,40,40,10:26:26 NPK
+30,Black,Jowar,60,40,40,10:26:26 NPK
+35,Black,Jowar,40,20,25,Urea
+35,Black,Jowar,45,20,25,Urea
+35,Black,Jowar,50,20,25,Urea
+35,Black,Jowar,55,20,25,Urea
+35,Black,Jowar,60,20,25,Urea
+25,Black,Jowar,40,25,30,Urea
+25,Black,Jowar,45,25,30,Urea
+25,Black,Jowar,50,25,30,Urea
+25,Black,Jowar,55,25,30,Urea
+25,Black,Jowar,60,25,30,Urea
+30,Black,Jowar,40,30,35,Urea
+30,Black,Jowar,45,30,35,Urea
+30,Black,Jowar,50,30,35,Urea
+30,Black,Jowar,55,30,35,Urea
+30,Black,Jowar,60,30,35,Urea
+35,Black,Jowar,40,35,40,Urea
+35,Black,Jowar,45,35,40,Urea
+35,Black,Jowar,50,35,40,Urea
+35,Black,Jowar,55,35,40,Urea
+35,Black,Jowar,60,35,40,Urea
+25,Black,Jowar,40,40,20,Urea
+25,Black,Jowar,45,40,20,Urea
+25,Black,Jowar,50,40,20,Urea
+25,Black,Jowar,55,40,20,Urea
+25,Black,Jowar,60,40,20,Urea
+30,Black,Jowar,40,20,30,SSP
+30,Black,Jowar,45,20,30,SSP
+30,Black,Jowar,50,20,30,SSP
+30,Black,Jowar,55,20,30,SSP
+30,Black,Jowar,60,20,30,SSP
+35,Black,Jowar,40,25,35,SSP
+35,Black,Jowar,45,25,35,SSP
+35,Black,Jowar,50,25,35,SSP
+35,Black,Jowar,55,25,35,SSP
+35,Black,Jowar,60,25,35,SSP
+25,Black,Jowar,40,30,40,SSP
+25,Black,Jowar,45,30,40,SSP
+25,Black,Jowar,50,30,40,SSP
+25,Black,Jowar,55,30,40,SSP
+25,Black,Jowar,60,30,40,SSP
+30,Black,Jowar,40,35,20,SSP
+30,Black,Jowar,45,35,20,SSP
+30,Black,Jowar,50,35,20,SSP
+30,Black,Jowar,55,35,20,SSP
+30,Black,Jowar,60,35,20,SSP
+35,Black,Jowar,40,40,25,SSP
+35,Black,Jowar,45,40,25,SSP
+35,Black,Jowar,50,40,25,SSP
+35,Black,Jowar,55,40,25,SSP
+35,Black,Jowar,60,40,25,SSP
+25,Black,Jowar,40,20,35,10:26:26 NPK
+25,Black,Jowar,45,20,35,10:26:26 NPK
+25,Black,Jowar,50,20,35,10:26:26 NPK
+25,Black,Jowar,55,20,35,10:26:26 NPK
+25,Black,Jowar,60,20,35,10:26:26 NPK
+30,Black,Jowar,40,25,40,10:26:26 NPK
+30,Black,Jowar,45,25,40,10:26:26 NPK
+30,Black,Jowar,50,25,40,10:26:26 NPK
+30,Black,Jowar,55,25,40,10:26:26 NPK
+30,Black,Jowar,60,25,40,10:26:26 NPK
+35,Black,Jowar,40,30,20,10:26:26 NPK
+35,Black,Jowar,45,30,20,10:26:26 NPK
+35,Black,Jowar,50,30,20,10:26:26 NPK
+35,Black,Jowar,55,30,20,10:26:26 NPK
+35,Black,Jowar,60,30,20,10:26:26 NPK
+25,Black,Jowar,40,35,25,10:26:26 NPK
+25,Black,Jowar,45,35,25,10:26:26 NPK
+25,Black,Jowar,50,35,25,10:26:26 NPK
+25,Black,Jowar,55,35,25,10:26:26 NPK
+25,Black,Jowar,60,35,25,10:26:26 NPK
+30,Black,Jowar,40,40,30,10:26:26 NPK
+30,Black,Jowar,45,40,30,10:26:26 NPK
+30,Black,Jowar,50,40,30,10:26:26 NPK
+30,Black,Jowar,55,40,30,10:26:26 NPK
+30,Black,Jowar,60,40,30,10:26:26 NPK
+35,Black,Jowar,40,20,40,Urea
+35,Black,Jowar,45,20,40,Urea
+35,Black,Jowar,50,20,40,Urea
+35,Black,Jowar,55,20,40,Urea
+35,Black,Jowar,60,20,40,Urea
+25,Black,Jowar,40,25,20,Urea
+25,Black,Jowar,45,25,20,Urea
+25,Black,Jowar,50,25,20,Urea
+25,Black,Jowar,55,25,20,Urea
+25,Black,Jowar,60,25,20,Urea
+30,Black,Jowar,40,30,25,Urea
+30,Black,Jowar,45,30,25,Urea
+30,Black,Jowar,50,30,25,Urea
+30,Black,Jowar,55,30,25,Urea
+30,Black,Jowar,60,30,25,Urea
+35,Black,Jowar,40,35,30,Urea
+35,Black,Jowar,45,35,30,Urea
+35,Black,Jowar,50,35,30,Urea
+35,Black,Jowar,55,35,30,Urea
+35,Black,Jowar,60,35,30,Urea
+25,Black,Jowar,40,40,35,Urea
+25,Black,Jowar,45,40,35,Urea
+25,Black,Jowar,50,40,35,Urea
+25,Black,Jowar,55,40,35,Urea
+25,Black,Jowar,60,40,35,Urea
+20,Black,Sugarcane,120,60,120,Urea
+20,Black,Sugarcane,125,60,120,Urea
+20,Black,Sugarcane,130,60,120,Urea
+20,Black,Sugarcane,135,60,120,Urea
+20,Black,Sugarcane,140,60,120,Urea
+20,Black,Sugarcane,145,60,120,Urea
+20,Black,Sugarcane,150,60,120,Urea
+25,Black,Sugarcane,120,65,125,Urea
+25,Black,Sugarcane,125,65,125,Urea
+25,Black,Sugarcane,130,65,125,Urea
+25,Black,Sugarcane,135,65,125,Urea
+25,Black,Sugarcane,140,65,125,Urea
+25,Black,Sugarcane,145,65,125,Urea
+25,Black,Sugarcane,150,65,125,Urea
+30,Black,Sugarcane,120,70,130,Urea
+30,Black,Sugarcane,125,70,130,Urea
+30,Black,Sugarcane,130,70,130,Urea
+30,Black,Sugarcane,135,70,130,Urea
+30,Black,Sugarcane,140,70,130,Urea
+30,Black,Sugarcane,145,70,130,Urea
+30,Black,Sugarcane,150,70,130,Urea
+35,Black,Sugarcane,120,75,135,Urea
+35,Black,Sugarcane,125,75,135,Urea
+35,Black,Sugarcane,130,75,135,Urea
+35,Black,Sugarcane,135,75,135,Urea
+35,Black,Sugarcane,140,75,135,Urea
+35,Black,Sugarcane,145,75,135,Urea
+35,Black,Sugarcane,150,75,135,Urea
+20,Black,Sugarcane,120,80,140,Urea
+20,Black,Sugarcane,125,80,140,Urea
+20,Black,Sugarcane,130,80,140,Urea
+20,Black,Sugarcane,135,80,140,Urea
+20,Black,Sugarcane,140,80,140,Urea
+20,Black,Sugarcane,145,80,140,Urea
+20,Black,Sugarcane,150,80,140,Urea
+25,Black,Sugarcane,120,85,145,Urea
+25,Black,Sugarcane,125,85,145,Urea
+25,Black,Sugarcane,130,85,145,Urea
+25,Black,Sugarcane,135,85,145,Urea
+25,Black,Sugarcane,140,85,145,Urea
+25,Black,Sugarcane,145,85,145,Urea
+25,Black,Sugarcane,150,85,145,Urea
+30,Black,Sugarcane,120,90,150,Urea
+30,Black,Sugarcane,125,90,150,Urea
+30,Black,Sugarcane,130,90,150,Urea
+30,Black,Sugarcane,135,90,150,Urea
+30,Black,Sugarcane,140,90,150,Urea
+30,Black,Sugarcane,145,90,150,Urea
+30,Black,Sugarcane,150,90,150,Urea
+35,Black,Sugarcane,120,60,125,DAP
+35,Black,Sugarcane,125,60,125,DAP
+35,Black,Sugarcane,130,60,125,DAP
+35,Black,Sugarcane,135,60,125,DAP
+35,Black,Sugarcane,140,60,125,DAP
+35,Black,Sugarcane,145,60,125,DAP
+35,Black,Sugarcane,150,60,125,DAP
+20,Black,Sugarcane,120,65,130,DAP
+20,Black,Sugarcane,125,65,130,DAP
+20,Black,Sugarcane,130,65,130,DAP
+20,Black,Sugarcane,135,65,130,DAP
+20,Black,Sugarcane,140,65,130,DAP
+20,Black,Sugarcane,145,65,130,DAP
+20,Black,Sugarcane,150,65,130,DAP
+25,Black,Sugarcane,120,70,135,DAP
+25,Black,Sugarcane,125,70,135,DAP
+25,Black,Sugarcane,130,70,135,DAP
+25,Black,Sugarcane,135,70,135,DAP
+25,Black,Sugarcane,140,70,135,DAP
+25,Black,Sugarcane,145,70,135,DAP
+25,Black,Sugarcane,150,70,135,DAP
+30,Black,Sugarcane,120,75,140,DAP
+30,Black,Sugarcane,125,75,140,DAP
+30,Black,Sugarcane,130,75,140,DAP
+30,Black,Sugarcane,135,75,140,DAP
+30,Black,Sugarcane,140,75,140,DAP
+30,Black,Sugarcane,145,75,140,DAP
+30,Black,Sugarcane,150,75,140,DAP
+35,Black,Sugarcane,120,80,145,DAP
+35,Black,Sugarcane,125,80,145,DAP
+35,Black,Sugarcane,130,80,145,DAP
+35,Black,Sugarcane,135,80,145,DAP
+35,Black,Sugarcane,140,80,145,DAP
+35,Black,Sugarcane,145,80,145,DAP
+35,Black,Sugarcane,150,80,145,DAP
+20,Black,Sugarcane,120,85,150,DAP
+20,Black,Sugarcane,125,85,150,DAP
+20,Black,Sugarcane,130,85,150,DAP
+20,Black,Sugarcane,135,85,150,DAP
+20,Black,Sugarcane,140,85,150,DAP
+20,Black,Sugarcane,145,85,150,DAP
+20,Black,Sugarcane,150,85,150,DAP
+25,Black,Sugarcane,120,90,120,DAP
+25,Black,Sugarcane,125,90,120,DAP
+25,Black,Sugarcane,130,90,120,DAP
+25,Black,Sugarcane,135,90,120,DAP
+25,Black,Sugarcane,140,90,120,DAP
+25,Black,Sugarcane,145,90,120,DAP
+25,Black,Sugarcane,150,90,120,DAP
+30,Black,Sugarcane,120,60,130,MOP
+30,Black,Sugarcane,125,60,130,MOP
+30,Black,Sugarcane,130,60,130,MOP
+30,Black,Sugarcane,135,60,130,MOP
+30,Black,Sugarcane,140,60,130,MOP
+30,Black,Sugarcane,145,60,130,MOP
+30,Black,Sugarcane,150,60,130,MOP
+35,Black,Sugarcane,120,65,135,MOP
+35,Black,Sugarcane,125,65,135,MOP
+35,Black,Sugarcane,130,65,135,MOP
+35,Black,Sugarcane,135,65,135,MOP
+35,Black,Sugarcane,140,65,135,MOP
+35,Black,Sugarcane,145,65,135,MOP
+35,Black,Sugarcane,150,65,135,MOP
+20,Black,Sugarcane,120,70,140,MOP
+20,Black,Sugarcane,125,70,140,MOP
+20,Black,Sugarcane,130,70,140,MOP
+20,Black,Sugarcane,135,70,140,MOP
+20,Black,Sugarcane,140,70,140,MOP
+20,Black,Sugarcane,145,70,140,MOP
+20,Black,Sugarcane,150,70,140,MOP
+25,Black,Sugarcane,120,75,145,MOP
+25,Black,Sugarcane,125,75,145,MOP
+25,Black,Sugarcane,130,75,145,MOP
+25,Black,Sugarcane,135,75,145,MOP
+25,Black,Sugarcane,140,75,145,MOP
+25,Black,Sugarcane,145,75,145,MOP
+25,Black,Sugarcane,150,75,145,MOP
+30,Black,Sugarcane,120,80,150,MOP
+30,Black,Sugarcane,125,80,150,MOP
+30,Black,Sugarcane,130,80,150,MOP
+30,Black,Sugarcane,135,80,150,MOP
+30,Black,Sugarcane,140,80,150,MOP
+30,Black,Sugarcane,145,80,150,MOP
+30,Black,Sugarcane,150,80,150,MOP
+35,Black,Sugarcane,120,85,120,MOP
+35,Black,Sugarcane,125,85,120,MOP
+35,Black,Sugarcane,130,85,120,MOP
+35,Black,Sugarcane,135,85,120,MOP
+35,Black,Sugarcane,140,85,120,MOP
+35,Black,Sugarcane,145,85,120,MOP
+35,Black,Sugarcane,150,85,120,MOP
+20,Black,Sugarcane,120,90,125,MOP
+20,Black,Sugarcane,125,90,125,MOP
+20,Black,Sugarcane,130,90,125,MOP
+20,Black,Sugarcane,135,90,125,MOP
+20,Black,Sugarcane,140,90,125,MOP
+20,Black,Sugarcane,145,90,125,MOP
+20,Black,Sugarcane,150,90,125,MOP
+25,Black,Sugarcane,120,60,135,Urea
+25,Black,Sugarcane,125,60,135,Urea
+25,Black,Sugarcane,130,60,135,Urea
+25,Black,Sugarcane,135,60,135,Urea
+25,Black,Sugarcane,140,60,135,Urea
+25,Black,Sugarcane,145,60,135,Urea
+25,Black,Sugarcane,150,60,135,Urea
+30,Black,Sugarcane,120,65,140,Urea
+30,Black,Sugarcane,125,65,140,Urea
+30,Black,Sugarcane,130,65,140,Urea
+30,Black,Sugarcane,135,65,140,Urea
+30,Black,Sugarcane,140,65,140,Urea
+30,Black,Sugarcane,145,65,140,Urea
+30,Black,Sugarcane,150,65,140,Urea
+35,Black,Sugarcane,120,70,145,Urea
+35,Black,Sugarcane,125,70,145,Urea
+35,Black,Sugarcane,130,70,145,Urea
+35,Black,Sugarcane,135,70,145,Urea
+35,Black,Sugarcane,140,70,145,Urea
+35,Black,Sugarcane,145,70,145,Urea
+35,Black,Sugarcane,150,70,145,Urea
+20,Black,Sugarcane,120,75,150,Urea
+20,Black,Sugarcane,125,75,150,Urea
+20,Black,Sugarcane,130,75,150,Urea
+20,Black,Sugarcane,135,75,150,Urea
+20,Black,Sugarcane,140,75,150,Urea
+20,Black,Sugarcane,145,75,150,Urea
+20,Black,Sugarcane,150,75,150,Urea
+25,Black,Sugarcane,120,80,120,Urea
+25,Black,Sugarcane,125,80,120,Urea
+25,Black,Sugarcane,130,80,120,Urea
+25,Black,Sugarcane,135,80,120,Urea
+25,Black,Sugarcane,140,80,120,Urea
+25,Black,Sugarcane,145,80,120,Urea
+25,Black,Sugarcane,150,80,120,Urea
+30,Black,Sugarcane,120,85,125,Urea
+30,Black,Sugarcane,125,85,125,Urea
+30,Black,Sugarcane,130,85,125,Urea
+30,Black,Sugarcane,135,85,125,Urea
+30,Black,Sugarcane,140,85,125,Urea
+30,Black,Sugarcane,145,85,125,Urea
+30,Black,Sugarcane,150,85,125,Urea
+35,Black,Sugarcane,120,90,130,Urea
+35,Black,Sugarcane,125,90,130,Urea
+35,Black,Sugarcane,130,90,130,Urea
+35,Black,Sugarcane,135,90,130,Urea
+35,Black,Sugarcane,140,90,130,Urea
+35,Black,Sugarcane,145,90,130,Urea
+35,Black,Sugarcane,150,90,130,Urea
+20,Black,Sugarcane,120,60,140,DAP
+20,Black,Sugarcane,125,60,140,DAP
+20,Black,Sugarcane,130,60,140,DAP
+20,Black,Sugarcane,135,60,140,DAP
+20,Black,Sugarcane,140,60,140,DAP
+20,Black,Sugarcane,145,60,140,DAP
+20,Black,Sugarcane,150,60,140,DAP
+25,Black,Sugarcane,120,65,145,DAP
+25,Black,Sugarcane,125,65,145,DAP
+25,Black,Sugarcane,130,65,145,DAP
+25,Black,Sugarcane,135,65,145,DAP
+25,Black,Sugarcane,140,65,145,DAP
+25,Black,Sugarcane,145,65,145,DAP
+25,Black,Sugarcane,150,65,145,DAP
+30,Black,Sugarcane,120,70,150,DAP
+30,Black,Sugarcane,125,70,150,DAP
+30,Black,Sugarcane,130,70,150,DAP
+30,Black,Sugarcane,135,70,150,DAP
+30,Black,Sugarcane,140,70,150,DAP
+30,Black,Sugarcane,145,70,150,DAP
+30,Black,Sugarcane,150,70,150,DAP
+35,Black,Sugarcane,120,75,120,DAP
+35,Black,Sugarcane,125,75,120,DAP
+35,Black,Sugarcane,130,75,120,DAP
+35,Black,Sugarcane,135,75,120,DAP
+35,Black,Sugarcane,140,75,120,DAP
+35,Black,Sugarcane,145,75,120,DAP
+35,Black,Sugarcane,150,75,120,DAP
+20,Black,Sugarcane,120,80,125,DAP
+20,Black,Sugarcane,125,80,125,DAP
+20,Black,Sugarcane,130,80,125,DAP
+20,Black,Sugarcane,135,80,125,DAP
+20,Black,Sugarcane,140,80,125,DAP
+20,Black,Sugarcane,145,80,125,DAP
+20,Black,Sugarcane,150,80,125,DAP
+25,Black,Sugarcane,120,85,130,DAP
+25,Black,Sugarcane,125,85,130,DAP
+25,Black,Sugarcane,130,85,130,DAP
+25,Black,Sugarcane,135,85,130,DAP
+25,Black,Sugarcane,140,85,130,DAP
+25,Black,Sugarcane,145,85,130,DAP
+25,Black,Sugarcane,150,85,130,DAP
+30,Black,Sugarcane,120,90,135,DAP
+30,Black,Sugarcane,125,90,135,DAP
+30,Black,Sugarcane,130,90,135,DAP
+30,Black,Sugarcane,135,90,135,DAP
+30,Black,Sugarcane,140,90,135,DAP
+30,Black,Sugarcane,145,90,135,DAP
+30,Black,Sugarcane,150,90,135,DAP
+35,Black,Sugarcane,120,60,145,MOP
+35,Black,Sugarcane,125,60,145,MOP
+35,Black,Sugarcane,130,60,145,MOP
+35,Black,Sugarcane,135,60,145,MOP
+35,Black,Sugarcane,140,60,145,MOP
+35,Black,Sugarcane,145,60,145,MOP
+35,Black,Sugarcane,150,60,145,MOP
+20,Black,Sugarcane,120,65,150,MOP
+20,Black,Sugarcane,125,65,150,MOP
+20,Black,Sugarcane,130,65,150,MOP
+20,Black,Sugarcane,135,65,150,MOP
+20,Black,Sugarcane,140,65,150,MOP
+20,Black,Sugarcane,145,65,150,MOP
+20,Black,Sugarcane,150,65,150,MOP
+25,Black,Sugarcane,120,70,120,MOP
+25,Black,Sugarcane,125,70,120,MOP
+25,Black,Sugarcane,130,70,120,MOP
+25,Black,Sugarcane,135,70,120,MOP
+25,Black,Sugarcane,140,70,120,MOP
+25,Black,Sugarcane,145,70,120,MOP
+25,Black,Sugarcane,150,70,120,MOP
+30,Black,Sugarcane,120,75,125,MOP
+30,Black,Sugarcane,125,75,125,MOP
+30,Black,Sugarcane,130,75,125,MOP
+30,Black,Sugarcane,135,75,125,MOP
+30,Black,Sugarcane,140,75,125,MOP
+30,Black,Sugarcane,145,75,125,MOP
+30,Black,Sugarcane,150,75,125,MOP
+35,Black,Sugarcane,120,80,130,MOP
+35,Black,Sugarcane,125,80,130,MOP
+35,Black,Sugarcane,130,80,130,MOP
+35,Black,Sugarcane,135,80,130,MOP
+35,Black,Sugarcane,140,80,130,MOP
+35,Black,Sugarcane,145,80,130,MOP
+35,Black,Sugarcane,150,80,130,MOP
+20,Black,Sugarcane,120,85,135,MOP
+20,Black,Sugarcane,125,85,135,MOP
+20,Black,Sugarcane,130,85,135,MOP
+20,Black,Sugarcane,135,85,135,MOP
+20,Black,Sugarcane,140,85,135,MOP
+20,Black,Sugarcane,145,85,135,MOP
+20,Black,Sugarcane,150,85,135,MOP
+25,Black,Sugarcane,120,90,140,MOP
+25,Black,Sugarcane,125,90,140,MOP
+25,Black,Sugarcane,130,90,140,MOP
+25,Black,Sugarcane,135,90,140,MOP
+25,Black,Sugarcane,140,90,140,MOP
+25,Black,Sugarcane,145,90,140,MOP
+25,Black,Sugarcane,150,90,140,MOP
+30,Black,Sugarcane,120,60,150,Urea
+30,Black,Sugarcane,125,60,150,Urea
+30,Black,Sugarcane,130,60,150,Urea
+30,Black,Sugarcane,135,60,150,Urea
+30,Black,Sugarcane,140,60,150,Urea
+30,Black,Sugarcane,145,60,150,Urea
+30,Black,Sugarcane,150,60,150,Urea
+35,Black,Sugarcane,120,65,120,Urea
+35,Black,Sugarcane,125,65,120,Urea
+35,Black,Sugarcane,130,65,120,Urea
+35,Black,Sugarcane,135,65,120,Urea
+35,Black,Sugarcane,140,65,120,Urea
+35,Black,Sugarcane,145,65,120,Urea
+35,Black,Sugarcane,150,65,120,Urea
+20,Black,Sugarcane,120,70,125,Urea
+20,Black,Sugarcane,125,70,125,Urea
+20,Black,Sugarcane,130,70,125,Urea
+20,Black,Sugarcane,135,70,125,Urea
+20,Black,Sugarcane,140,70,125,Urea
+20,Black,Sugarcane,145,70,125,Urea
+20,Black,Sugarcane,150,70,125,Urea
+25,Black,Sugarcane,120,75,130,Urea
+25,Black,Sugarcane,125,75,130,Urea
+25,Black,Sugarcane,130,75,130,Urea
+25,Black,Sugarcane,135,75,130,Urea
+25,Black,Sugarcane,140,75,130,Urea
+25,Black,Sugarcane,145,75,130,Urea
+25,Black,Sugarcane,150,75,130,Urea
+30,Black,Sugarcane,120,80,135,Urea
+30,Black,Sugarcane,125,80,135,Urea
+30,Black,Sugarcane,130,80,135,Urea
+30,Black,Sugarcane,135,80,135,Urea
+30,Black,Sugarcane,140,80,135,Urea
+30,Black,Sugarcane,145,80,135,Urea
+30,Black,Sugarcane,150,80,135,Urea
+35,Black,Sugarcane,120,85,140,Urea
+35,Black,Sugarcane,125,85,140,Urea
+35,Black,Sugarcane,130,85,140,Urea
+35,Black,Sugarcane,135,85,140,Urea
+35,Black,Sugarcane,140,85,140,Urea
+35,Black,Sugarcane,145,85,140,Urea
+35,Black,Sugarcane,150,85,140,Urea
+20,Black,Sugarcane,120,90,145,Urea
+20,Black,Sugarcane,125,90,145,Urea
+20,Black,Sugarcane,130,90,145,Urea
+20,Black,Sugarcane,135,90,145,Urea
+20,Black,Sugarcane,140,90,145,Urea
+20,Black,Sugarcane,145,90,145,Urea
+20,Black,Sugarcane,150,90,145,Urea
+20,Black,Ginger,40,40,60,Urea
+20,Black,Ginger,45,40,60,Urea
+20,Black,Ginger,50,40,60,Urea
+20,Black,Ginger,55,40,60,Urea
+20,Black,Ginger,60,40,60,Urea
+25,Black,Ginger,40,45,65,Urea
+25,Black,Ginger,45,45,65,Urea
+25,Black,Ginger,50,45,65,Urea
+25,Black,Ginger,55,45,65,Urea
+25,Black,Ginger,60,45,65,Urea
+30,Black,Ginger,40,50,70,Urea
+30,Black,Ginger,45,50,70,Urea
+30,Black,Ginger,50,50,70,Urea
+30,Black,Ginger,55,50,70,Urea
+30,Black,Ginger,60,50,70,Urea
+35,Black,Ginger,40,55,75,Urea
+35,Black,Ginger,45,55,75,Urea
+35,Black,Ginger,50,55,75,Urea
+35,Black,Ginger,55,55,75,Urea
+35,Black,Ginger,60,55,75,Urea
+20,Black,Ginger,40,60,80,Urea
+20,Black,Ginger,45,60,80,Urea
+20,Black,Ginger,50,60,80,Urea
+20,Black,Ginger,55,60,80,Urea
+20,Black,Ginger,60,60,80,Urea
+25,Black,Ginger,40,40,65,Ammonium Sulphate
+25,Black,Ginger,45,40,65,Ammonium Sulphate
+25,Black,Ginger,50,40,65,Ammonium Sulphate
+25,Black,Ginger,55,40,65,Ammonium Sulphate
+25,Black,Ginger,60,40,65,Ammonium Sulphate
+30,Black,Ginger,40,45,70,Ammonium Sulphate
+30,Black,Ginger,45,45,70,Ammonium Sulphate
+30,Black,Ginger,50,45,70,Ammonium Sulphate
+30,Black,Ginger,55,45,70,Ammonium Sulphate
+30,Black,Ginger,60,45,70,Ammonium Sulphate
+35,Black,Ginger,40,50,75,Ammonium Sulphate
+35,Black,Ginger,45,50,75,Ammonium Sulphate
+35,Black,Ginger,50,50,75,Ammonium Sulphate
+35,Black,Ginger,55,50,75,Ammonium Sulphate
+35,Black,Ginger,60,50,75,Ammonium Sulphate
+20,Black,Ginger,40,55,80,Ammonium Sulphate
+20,Black,Ginger,45,55,80,Ammonium Sulphate
+20,Black,Ginger,50,55,80,Ammonium Sulphate
+20,Black,Ginger,55,55,80,Ammonium Sulphate
+20,Black,Ginger,60,55,80,Ammonium Sulphate
+25,Black,Ginger,40,60,60,Ammonium Sulphate
+25,Black,Ginger,45,60,60,Ammonium Sulphate
+25,Black,Ginger,50,60,60,Ammonium Sulphate
+25,Black,Ginger,55,60,60,Ammonium Sulphate
+25,Black,Ginger,60,60,60,Ammonium Sulphate
+30,Black,Ginger,40,40,70,DAP
+30,Black,Ginger,45,40,70,DAP
+30,Black,Ginger,50,40,70,DAP
+30,Black,Ginger,55,40,70,DAP
+30,Black,Ginger,60,40,70,DAP
+35,Black,Ginger,40,45,75,DAP
+35,Black,Ginger,45,45,75,DAP
+35,Black,Ginger,50,45,75,DAP
+35,Black,Ginger,55,45,75,DAP
+35,Black,Ginger,60,45,75,DAP
+20,Black,Ginger,40,50,80,DAP
+20,Black,Ginger,45,50,80,DAP
+20,Black,Ginger,50,50,80,DAP
+20,Black,Ginger,55,50,80,DAP
+20,Black,Ginger,60,50,80,DAP
+25,Black,Ginger,40,55,60,DAP
+25,Black,Ginger,45,55,60,DAP
+25,Black,Ginger,50,55,60,DAP
+25,Black,Ginger,55,55,60,DAP
+25,Black,Ginger,60,55,60,DAP
+30,Black,Ginger,40,60,65,DAP
+30,Black,Ginger,45,60,65,DAP
+30,Black,Ginger,50,60,65,DAP
+30,Black,Ginger,55,60,65,DAP
+30,Black,Ginger,60,60,65,DAP
+35,Black,Ginger,40,40,75,Urea
+35,Black,Ginger,45,40,75,Urea
+35,Black,Ginger,50,40,75,Urea
+35,Black,Ginger,55,40,75,Urea
+35,Black,Ginger,60,40,75,Urea
+20,Black,Ginger,40,45,80,Urea
+20,Black,Ginger,45,45,80,Urea
+20,Black,Ginger,50,45,80,Urea
+20,Black,Ginger,55,45,80,Urea
+20,Black,Ginger,60,45,80,Urea
+25,Black,Ginger,40,50,60,Urea
+25,Black,Ginger,45,50,60,Urea
+25,Black,Ginger,50,50,60,Urea
+25,Black,Ginger,55,50,60,Urea
+25,Black,Ginger,60,50,60,Urea
+30,Black,Ginger,40,55,65,Urea
+30,Black,Ginger,45,55,65,Urea
+30,Black,Ginger,50,55,65,Urea
+30,Black,Ginger,55,55,65,Urea
+30,Black,Ginger,60,55,65,Urea
+35,Black,Ginger,40,60,70,Urea
+35,Black,Ginger,45,60,70,Urea
+35,Black,Ginger,50,60,70,Urea
+35,Black,Ginger,55,60,70,Urea
+35,Black,Ginger,60,60,70,Urea
+20,Black,Ginger,40,40,80,Ammonium Sulphate
+20,Black,Ginger,45,40,80,Ammonium Sulphate
+20,Black,Ginger,50,40,80,Ammonium Sulphate
+20,Black,Ginger,55,40,80,Ammonium Sulphate
+20,Black,Ginger,60,40,80,Ammonium Sulphate
+25,Black,Ginger,40,45,60,Ammonium Sulphate
+25,Black,Ginger,45,45,60,Ammonium Sulphate
+25,Black,Ginger,50,45,60,Ammonium Sulphate
+25,Black,Ginger,55,45,60,Ammonium Sulphate
+25,Black,Ginger,60,45,60,Ammonium Sulphate
+30,Black,Ginger,40,50,65,Ammonium Sulphate
+30,Black,Ginger,45,50,65,Ammonium Sulphate
+30,Black,Ginger,50,50,65,Ammonium Sulphate
+30,Black,Ginger,55,50,65,Ammonium Sulphate
+30,Black,Ginger,60,50,65,Ammonium Sulphate
+35,Black,Ginger,40,55,70,Ammonium Sulphate
+35,Black,Ginger,45,55,70,Ammonium Sulphate
+35,Black,Ginger,50,55,70,Ammonium Sulphate
+35,Black,Ginger,55,55,70,Ammonium Sulphate
+35,Black,Ginger,60,55,70,Ammonium Sulphate
+20,Black,Ginger,40,60,75,Ammonium Sulphate
+20,Black,Ginger,45,60,75,Ammonium Sulphate
+20,Black,Ginger,50,60,75,Ammonium Sulphate
+20,Black,Ginger,55,60,75,Ammonium Sulphate
+20,Black,Ginger,60,60,75,Ammonium Sulphate
+20,Red,Turmeric,50,50,40,Urea
+20,Red,Turmeric,55,50,40,Urea
+20,Red,Turmeric,60,50,40,Urea
+25,Red,Turmeric,50,55,45,Urea
+25,Red,Turmeric,55,55,45,Urea
+25,Red,Turmeric,60,55,45,Urea
+30,Red,Turmeric,50,60,50,Urea
+30,Red,Turmeric,55,60,50,Urea
+30,Red,Turmeric,60,60,50,Urea
+20,Red,Turmeric,50,50,45,Ferrous Sulphate
+20,Red,Turmeric,55,50,45,Ferrous Sulphate
+20,Red,Turmeric,60,50,45,Ferrous Sulphate
+25,Red,Turmeric,50,55,50,Ferrous Sulphate
+25,Red,Turmeric,55,55,50,Ferrous Sulphate
+25,Red,Turmeric,60,55,50,Ferrous Sulphate
+30,Red,Turmeric,50,60,40,Ferrous Sulphate
+30,Red,Turmeric,55,60,40,Ferrous Sulphate
+30,Red,Turmeric,60,60,40,Ferrous Sulphate
+20,Red,Turmeric,50,50,50,White Potash
+20,Red,Turmeric,55,50,50,White Potash
+20,Red,Turmeric,60,50,50,White Potash
+25,Red,Turmeric,50,55,40,White Potash
+25,Red,Turmeric,55,55,40,White Potash
+25,Red,Turmeric,60,55,40,White Potash
+30,Red,Turmeric,50,60,45,White Potash
+30,Red,Turmeric,55,60,45,White Potash
+30,Red,Turmeric,60,60,45,White Potash
+15,Black,Wheat,60,40,40,19:19:19 NPK
+15,Black,Wheat,65,40,40,19:19:19 NPK
+15,Black,Wheat,70,40,40,19:19:19 NPK
+15,Black,Wheat,75,40,40,19:19:19 NPK
+15,Black,Wheat,80,40,40,19:19:19 NPK
+20,Black,Wheat,60,45,45,19:19:19 NPK
+20,Black,Wheat,65,45,45,19:19:19 NPK
+20,Black,Wheat,70,45,45,19:19:19 NPK
+20,Black,Wheat,75,45,45,19:19:19 NPK
+20,Black,Wheat,80,45,45,19:19:19 NPK
+25,Black,Wheat,60,50,50,19:19:19 NPK
+25,Black,Wheat,65,50,50,19:19:19 NPK
+25,Black,Wheat,70,50,50,19:19:19 NPK
+25,Black,Wheat,75,50,50,19:19:19 NPK
+25,Black,Wheat,80,50,50,19:19:19 NPK
+15,Black,Wheat,60,55,55,19:19:19 NPK
+15,Black,Wheat,65,55,55,19:19:19 NPK
+15,Black,Wheat,70,55,55,19:19:19 NPK
+15,Black,Wheat,75,55,55,19:19:19 NPK
+15,Black,Wheat,80,55,55,19:19:19 NPK
+20,Black,Wheat,60,60,60,19:19:19 NPK
+20,Black,Wheat,65,60,60,19:19:19 NPK
+20,Black,Wheat,70,60,60,19:19:19 NPK
+20,Black,Wheat,75,60,60,19:19:19 NPK
+20,Black,Wheat,80,60,60,19:19:19 NPK
+25,Black,Wheat,60,40,45,Urea
+25,Black,Wheat,65,40,45,Urea
+25,Black,Wheat,70,40,45,Urea
+25,Black,Wheat,75,40,45,Urea
+25,Black,Wheat,80,40,45,Urea
+15,Black,Wheat,60,45,50,Urea
+15,Black,Wheat,65,45,50,Urea
+15,Black,Wheat,70,45,50,Urea
+15,Black,Wheat,75,45,50,Urea
+15,Black,Wheat,80,45,50,Urea
+20,Black,Wheat,60,50,55,Urea
+20,Black,Wheat,65,50,55,Urea
+20,Black,Wheat,70,50,55,Urea
+20,Black,Wheat,75,50,55,Urea
+20,Black,Wheat,80,50,55,Urea
+25,Black,Wheat,60,55,60,Urea
+25,Black,Wheat,65,55,60,Urea
+25,Black,Wheat,70,55,60,Urea
+25,Black,Wheat,75,55,60,Urea
+25,Black,Wheat,80,55,60,Urea
+15,Black,Wheat,60,60,40,Urea
+15,Black,Wheat,65,60,40,Urea
+15,Black,Wheat,70,60,40,Urea
+15,Black,Wheat,75,60,40,Urea
+15,Black,Wheat,80,60,40,Urea
+20,Black,Wheat,60,40,50,19:19:19 NPK
+20,Black,Wheat,65,40,50,19:19:19 NPK
+20,Black,Wheat,70,40,50,19:19:19 NPK
+20,Black,Wheat,75,40,50,19:19:19 NPK
+20,Black,Wheat,80,40,50,19:19:19 NPK
+25,Black,Wheat,60,45,55,19:19:19 NPK
+25,Black,Wheat,65,45,55,19:19:19 NPK
+25,Black,Wheat,70,45,55,19:19:19 NPK
+25,Black,Wheat,75,45,55,19:19:19 NPK
+25,Black,Wheat,80,45,55,19:19:19 NPK
+15,Black,Wheat,60,50,60,19:19:19 NPK
+15,Black,Wheat,65,50,60,19:19:19 NPK
+15,Black,Wheat,70,50,60,19:19:19 NPK
+15,Black,Wheat,75,50,60,19:19:19 NPK
+15,Black,Wheat,80,50,60,19:19:19 NPK
+20,Black,Wheat,60,55,40,19:19:19 NPK
+20,Black,Wheat,65,55,40,19:19:19 NPK
+20,Black,Wheat,70,55,40,19:19:19 NPK
+20,Black,Wheat,75,55,40,19:19:19 NPK
+20,Black,Wheat,80,55,40,19:19:19 NPK
+25,Black,Wheat,60,60,45,19:19:19 NPK
+25,Black,Wheat,65,60,45,19:19:19 NPK
+25,Black,Wheat,70,60,45,19:19:19 NPK
+25,Black,Wheat,75,60,45,19:19:19 NPK
+25,Black,Wheat,80,60,45,19:19:19 NPK
+15,Black,Wheat,60,40,55,Urea
+15,Black,Wheat,65,40,55,Urea
+15,Black,Wheat,70,40,55,Urea
+15,Black,Wheat,75,40,55,Urea
+15,Black,Wheat,80,40,55,Urea
+20,Black,Wheat,60,45,60,Urea
+20,Black,Wheat,65,45,60,Urea
+20,Black,Wheat,70,45,60,Urea
+20,Black,Wheat,75,45,60,Urea
+20,Black,Wheat,80,45,60,Urea
+25,Black,Wheat,60,50,40,Urea
+25,Black,Wheat,65,50,40,Urea
+25,Black,Wheat,70,50,40,Urea
+25,Black,Wheat,75,50,40,Urea
+25,Black,Wheat,80,50,40,Urea
+15,Black,Wheat,60,55,45,Urea
+15,Black,Wheat,65,55,45,Urea
+15,Black,Wheat,70,55,45,Urea
+15,Black,Wheat,75,55,45,Urea
+15,Black,Wheat,80,55,45,Urea
+20,Black,Wheat,60,60,50,Urea
+20,Black,Wheat,65,60,50,Urea
+20,Black,Wheat,70,60,50,Urea
+20,Black,Wheat,75,60,50,Urea
+20,Black,Wheat,80,60,50,Urea
+25,Black,Wheat,60,40,60,19:19:19 NPK
+25,Black,Wheat,65,40,60,19:19:19 NPK
+25,Black,Wheat,70,40,60,19:19:19 NPK
+25,Black,Wheat,75,40,60,19:19:19 NPK
+25,Black,Wheat,80,40,60,19:19:19 NPK
+15,Black,Wheat,60,45,40,19:19:19 NPK
+15,Black,Wheat,65,45,40,19:19:19 NPK
+15,Black,Wheat,70,45,40,19:19:19 NPK
+15,Black,Wheat,75,45,40,19:19:19 NPK
+15,Black,Wheat,80,45,40,19:19:19 NPK
+20,Black,Wheat,60,50,45,19:19:19 NPK
+20,Black,Wheat,65,50,45,19:19:19 NPK
+20,Black,Wheat,70,50,45,19:19:19 NPK
+20,Black,Wheat,75,50,45,19:19:19 NPK
+20,Black,Wheat,80,50,45,19:19:19 NPK
+25,Black,Wheat,60,55,50,19:19:19 NPK
+25,Black,Wheat,65,55,50,19:19:19 NPK
+25,Black,Wheat,70,55,50,19:19:19 NPK
+25,Black,Wheat,75,55,50,19:19:19 NPK
+25,Black,Wheat,80,55,50,19:19:19 NPK
+15,Black,Wheat,60,60,55,19:19:19 NPK
+15,Black,Wheat,65,60,55,19:19:19 NPK
+15,Black,Wheat,70,60,55,19:19:19 NPK
+15,Black,Wheat,75,60,55,19:19:19 NPK
+15,Black,Wheat,80,60,55,19:19:19 NPK
+20,Reddish Brown,Sugarcane,120,60,80,DAP
+20,Reddish Brown,Sugarcane,125,60,80,DAP
+20,Reddish Brown,Sugarcane,130,60,80,DAP
+20,Reddish Brown,Sugarcane,135,60,80,DAP
+20,Reddish Brown,Sugarcane,140,60,80,DAP
+20,Reddish Brown,Sugarcane,145,60,80,DAP
+20,Reddish Brown,Sugarcane,150,60,80,DAP
+25,Reddish Brown,Sugarcane,120,65,85,DAP
+25,Reddish Brown,Sugarcane,125,65,85,DAP
+25,Reddish Brown,Sugarcane,130,65,85,DAP
+25,Reddish Brown,Sugarcane,135,65,85,DAP
+25,Reddish Brown,Sugarcane,140,65,85,DAP
+25,Reddish Brown,Sugarcane,145,65,85,DAP
+25,Reddish Brown,Sugarcane,150,65,85,DAP
+30,Reddish Brown,Sugarcane,120,70,90,DAP
+30,Reddish Brown,Sugarcane,125,70,90,DAP
+30,Reddish Brown,Sugarcane,130,70,90,DAP
+30,Reddish Brown,Sugarcane,135,70,90,DAP
+30,Reddish Brown,Sugarcane,140,70,90,DAP
+30,Reddish Brown,Sugarcane,145,70,90,DAP
+30,Reddish Brown,Sugarcane,150,70,90,DAP
+20,Reddish Brown,Sugarcane,120,75,95,DAP
+20,Reddish Brown,Sugarcane,125,75,95,DAP
+20,Reddish Brown,Sugarcane,130,75,95,DAP
+20,Reddish Brown,Sugarcane,135,75,95,DAP
+20,Reddish Brown,Sugarcane,140,75,95,DAP
+20,Reddish Brown,Sugarcane,145,75,95,DAP
+20,Reddish Brown,Sugarcane,150,75,95,DAP
+25,Reddish Brown,Sugarcane,120,80,100,DAP
+25,Reddish Brown,Sugarcane,125,80,100,DAP
+25,Reddish Brown,Sugarcane,130,80,100,DAP
+25,Reddish Brown,Sugarcane,135,80,100,DAP
+25,Reddish Brown,Sugarcane,140,80,100,DAP
+25,Reddish Brown,Sugarcane,145,80,100,DAP
+25,Reddish Brown,Sugarcane,150,80,100,DAP
+30,Reddish Brown,Sugarcane,120,60,85,Urea
+30,Reddish Brown,Sugarcane,125,60,85,Urea
+30,Reddish Brown,Sugarcane,130,60,85,Urea
+30,Reddish Brown,Sugarcane,135,60,85,Urea
+30,Reddish Brown,Sugarcane,140,60,85,Urea
+30,Reddish Brown,Sugarcane,145,60,85,Urea
+30,Reddish Brown,Sugarcane,150,60,85,Urea
+20,Reddish Brown,Sugarcane,120,65,90,Urea
+20,Reddish Brown,Sugarcane,125,65,90,Urea
+20,Reddish Brown,Sugarcane,130,65,90,Urea
+20,Reddish Brown,Sugarcane,135,65,90,Urea
+20,Reddish Brown,Sugarcane,140,65,90,Urea
+20,Reddish Brown,Sugarcane,145,65,90,Urea
+20,Reddish Brown,Sugarcane,150,65,90,Urea
+25,Reddish Brown,Sugarcane,120,70,95,Urea
+25,Reddish Brown,Sugarcane,125,70,95,Urea
+25,Reddish Brown,Sugarcane,130,70,95,Urea
+25,Reddish Brown,Sugarcane,135,70,95,Urea
+25,Reddish Brown,Sugarcane,140,70,95,Urea
+25,Reddish Brown,Sugarcane,145,70,95,Urea
+25,Reddish Brown,Sugarcane,150,70,95,Urea
+30,Reddish Brown,Sugarcane,120,75,100,Urea
+30,Reddish Brown,Sugarcane,125,75,100,Urea
+30,Reddish Brown,Sugarcane,130,75,100,Urea
+30,Reddish Brown,Sugarcane,135,75,100,Urea
+30,Reddish Brown,Sugarcane,140,75,100,Urea
+30,Reddish Brown,Sugarcane,145,75,100,Urea
+30,Reddish Brown,Sugarcane,150,75,100,Urea
+20,Reddish Brown,Sugarcane,120,80,80,Urea
+20,Reddish Brown,Sugarcane,125,80,80,Urea
+20,Reddish Brown,Sugarcane,130,80,80,Urea
+20,Reddish Brown,Sugarcane,135,80,80,Urea
+20,Reddish Brown,Sugarcane,140,80,80,Urea
+20,Reddish Brown,Sugarcane,145,80,80,Urea
+20,Reddish Brown,Sugarcane,150,80,80,Urea
+25,Reddish Brown,Sugarcane,120,60,90,MOP
+25,Reddish Brown,Sugarcane,125,60,90,MOP
+25,Reddish Brown,Sugarcane,130,60,90,MOP
+25,Reddish Brown,Sugarcane,135,60,90,MOP
+25,Reddish Brown,Sugarcane,140,60,90,MOP
+25,Reddish Brown,Sugarcane,145,60,90,MOP
+25,Reddish Brown,Sugarcane,150,60,90,MOP
+30,Reddish Brown,Sugarcane,120,65,95,MOP
+30,Reddish Brown,Sugarcane,125,65,95,MOP
+30,Reddish Brown,Sugarcane,130,65,95,MOP
+30,Reddish Brown,Sugarcane,135,65,95,MOP
+30,Reddish Brown,Sugarcane,140,65,95,MOP
+30,Reddish Brown,Sugarcane,145,65,95,MOP
+30,Reddish Brown,Sugarcane,150,65,95,MOP
+20,Reddish Brown,Sugarcane,120,70,100,MOP
+20,Reddish Brown,Sugarcane,125,70,100,MOP
+20,Reddish Brown,Sugarcane,130,70,100,MOP
+20,Reddish Brown,Sugarcane,135,70,100,MOP
+20,Reddish Brown,Sugarcane,140,70,100,MOP
+20,Reddish Brown,Sugarcane,145,70,100,MOP
+20,Reddish Brown,Sugarcane,150,70,100,MOP
+25,Reddish Brown,Sugarcane,120,75,80,MOP
+25,Reddish Brown,Sugarcane,125,75,80,MOP
+25,Reddish Brown,Sugarcane,130,75,80,MOP
+25,Reddish Brown,Sugarcane,135,75,80,MOP
+25,Reddish Brown,Sugarcane,140,75,80,MOP
+25,Reddish Brown,Sugarcane,145,75,80,MOP
+25,Reddish Brown,Sugarcane,150,75,80,MOP
+30,Reddish Brown,Sugarcane,120,80,85,MOP
+30,Reddish Brown,Sugarcane,125,80,85,MOP
+30,Reddish Brown,Sugarcane,130,80,85,MOP
+30,Reddish Brown,Sugarcane,135,80,85,MOP
+30,Reddish Brown,Sugarcane,140,80,85,MOP
+30,Reddish Brown,Sugarcane,145,80,85,MOP
+30,Reddish Brown,Sugarcane,150,80,85,MOP
+20,Reddish Brown,Sugarcane,120,60,95,DAP
+20,Reddish Brown,Sugarcane,125,60,95,DAP
+20,Reddish Brown,Sugarcane,130,60,95,DAP
+20,Reddish Brown,Sugarcane,135,60,95,DAP
+20,Reddish Brown,Sugarcane,140,60,95,DAP
+20,Reddish Brown,Sugarcane,145,60,95,DAP
+20,Reddish Brown,Sugarcane,150,60,95,DAP
+25,Reddish Brown,Sugarcane,120,65,100,DAP
+25,Reddish Brown,Sugarcane,125,65,100,DAP
+25,Reddish Brown,Sugarcane,130,65,100,DAP
+25,Reddish Brown,Sugarcane,135,65,100,DAP
+25,Reddish Brown,Sugarcane,140,65,100,DAP
+25,Reddish Brown,Sugarcane,145,65,100,DAP
+25,Reddish Brown,Sugarcane,150,65,100,DAP
+30,Reddish Brown,Sugarcane,120,70,80,DAP
+30,Reddish Brown,Sugarcane,125,70,80,DAP
+30,Reddish Brown,Sugarcane,130,70,80,DAP
+30,Reddish Brown,Sugarcane,135,70,80,DAP
+30,Reddish Brown,Sugarcane,140,70,80,DAP
+30,Reddish Brown,Sugarcane,145,70,80,DAP
+30,Reddish Brown,Sugarcane,150,70,80,DAP
+20,Reddish Brown,Sugarcane,120,75,85,DAP
+20,Reddish Brown,Sugarcane,125,75,85,DAP
+20,Reddish Brown,Sugarcane,130,75,85,DAP
+20,Reddish Brown,Sugarcane,135,75,85,DAP
+20,Reddish Brown,Sugarcane,140,75,85,DAP
+20,Reddish Brown,Sugarcane,145,75,85,DAP
+20,Reddish Brown,Sugarcane,150,75,85,DAP
+25,Reddish Brown,Sugarcane,120,80,90,DAP
+25,Reddish Brown,Sugarcane,125,80,90,DAP
+25,Reddish Brown,Sugarcane,130,80,90,DAP
+25,Reddish Brown,Sugarcane,135,80,90,DAP
+25,Reddish Brown,Sugarcane,140,80,90,DAP
+25,Reddish Brown,Sugarcane,145,80,90,DAP
+25,Reddish Brown,Sugarcane,150,80,90,DAP
+30,Reddish Brown,Sugarcane,120,60,100,Urea
+30,Reddish Brown,Sugarcane,125,60,100,Urea
+30,Reddish Brown,Sugarcane,130,60,100,Urea
+30,Reddish Brown,Sugarcane,135,60,100,Urea
+30,Reddish Brown,Sugarcane,140,60,100,Urea
+30,Reddish Brown,Sugarcane,145,60,100,Urea
+30,Reddish Brown,Sugarcane,150,60,100,Urea
+20,Reddish Brown,Sugarcane,120,65,80,Urea
+20,Reddish Brown,Sugarcane,125,65,80,Urea
+20,Reddish Brown,Sugarcane,130,65,80,Urea
+20,Reddish Brown,Sugarcane,135,65,80,Urea
+20,Reddish Brown,Sugarcane,140,65,80,Urea
+20,Reddish Brown,Sugarcane,145,65,80,Urea
+20,Reddish Brown,Sugarcane,150,65,80,Urea
+25,Reddish Brown,Sugarcane,120,70,85,Urea
+25,Reddish Brown,Sugarcane,125,70,85,Urea
+25,Reddish Brown,Sugarcane,130,70,85,Urea
+25,Reddish Brown,Sugarcane,135,70,85,Urea
+25,Reddish Brown,Sugarcane,140,70,85,Urea
+25,Reddish Brown,Sugarcane,145,70,85,Urea
+25,Reddish Brown,Sugarcane,150,70,85,Urea
+30,Reddish Brown,Sugarcane,120,75,90,Urea
+30,Reddish Brown,Sugarcane,125,75,90,Urea
+30,Reddish Brown,Sugarcane,130,75,90,Urea
+30,Reddish Brown,Sugarcane,135,75,90,Urea
+30,Reddish Brown,Sugarcane,140,75,90,Urea
+30,Reddish Brown,Sugarcane,145,75,90,Urea
+30,Reddish Brown,Sugarcane,150,75,90,Urea
+20,Reddish Brown,Sugarcane,120,80,95,Urea
+20,Reddish Brown,Sugarcane,125,80,95,Urea
+20,Reddish Brown,Sugarcane,130,80,95,Urea
+20,Reddish Brown,Sugarcane,135,80,95,Urea
+20,Reddish Brown,Sugarcane,140,80,95,Urea
+20,Reddish Brown,Sugarcane,145,80,95,Urea
+20,Reddish Brown,Sugarcane,150,80,95,Urea
+20,Red,Grapes,80,40,120,Ferrous Sulphate
+20,Red,Grapes,85,40,120,Ferrous Sulphate
+20,Red,Grapes,90,40,120,Ferrous Sulphate
+20,Red,Grapes,95,40,120,Ferrous Sulphate
+20,Red,Grapes,100,40,120,Ferrous Sulphate
+25,Red,Grapes,80,45,125,Ferrous Sulphate
+25,Red,Grapes,85,45,125,Ferrous Sulphate
+25,Red,Grapes,90,45,125,Ferrous Sulphate
+25,Red,Grapes,95,45,125,Ferrous Sulphate
+25,Red,Grapes,100,45,125,Ferrous Sulphate
+30,Red,Grapes,80,50,130,Ferrous Sulphate
+30,Red,Grapes,85,50,130,Ferrous Sulphate
+30,Red,Grapes,90,50,130,Ferrous Sulphate
+30,Red,Grapes,95,50,130,Ferrous Sulphate
+30,Red,Grapes,100,50,130,Ferrous Sulphate
+20,Red,Grapes,80,55,135,Ferrous Sulphate
+20,Red,Grapes,85,55,135,Ferrous Sulphate
+20,Red,Grapes,90,55,135,Ferrous Sulphate
+20,Red,Grapes,95,55,135,Ferrous Sulphate
+20,Red,Grapes,100,55,135,Ferrous Sulphate
+25,Red,Grapes,80,60,140,Ferrous Sulphate
+25,Red,Grapes,85,60,140,Ferrous Sulphate
+25,Red,Grapes,90,60,140,Ferrous Sulphate
+25,Red,Grapes,95,60,140,Ferrous Sulphate
+25,Red,Grapes,100,60,140,Ferrous Sulphate
+30,Red,Grapes,80,40,125,10:10:10 NPK
+30,Red,Grapes,85,40,125,10:10:10 NPK
+30,Red,Grapes,90,40,125,10:10:10 NPK
+30,Red,Grapes,95,40,125,10:10:10 NPK
+30,Red,Grapes,100,40,125,10:10:10 NPK
+20,Red,Grapes,80,45,130,10:10:10 NPK
+20,Red,Grapes,85,45,130,10:10:10 NPK
+20,Red,Grapes,90,45,130,10:10:10 NPK
+20,Red,Grapes,95,45,130,10:10:10 NPK
+20,Red,Grapes,100,45,130,10:10:10 NPK
+25,Red,Grapes,80,50,135,10:10:10 NPK
+25,Red,Grapes,85,50,135,10:10:10 NPK
+25,Red,Grapes,90,50,135,10:10:10 NPK
+25,Red,Grapes,95,50,135,10:10:10 NPK
+25,Red,Grapes,100,50,135,10:10:10 NPK
+30,Red,Grapes,80,55,140,10:10:10 NPK
+30,Red,Grapes,85,55,140,10:10:10 NPK
+30,Red,Grapes,90,55,140,10:10:10 NPK
+30,Red,Grapes,95,55,140,10:10:10 NPK
+30,Red,Grapes,100,55,140,10:10:10 NPK
+20,Red,Grapes,80,60,120,10:10:10 NPK
+20,Red,Grapes,85,60,120,10:10:10 NPK
+20,Red,Grapes,90,60,120,10:10:10 NPK
+20,Red,Grapes,95,60,120,10:10:10 NPK
+20,Red,Grapes,100,60,120,10:10:10 NPK
+25,Red,Grapes,80,40,130,Hydrated Lime
+25,Red,Grapes,85,40,130,Hydrated Lime
+25,Red,Grapes,90,40,130,Hydrated Lime
+25,Red,Grapes,95,40,130,Hydrated Lime
+25,Red,Grapes,100,40,130,Hydrated Lime
+30,Red,Grapes,80,45,135,Hydrated Lime
+30,Red,Grapes,85,45,135,Hydrated Lime
+30,Red,Grapes,90,45,135,Hydrated Lime
+30,Red,Grapes,95,45,135,Hydrated Lime
+30,Red,Grapes,100,45,135,Hydrated Lime
+20,Red,Grapes,80,50,140,Hydrated Lime
+20,Red,Grapes,85,50,140,Hydrated Lime
+20,Red,Grapes,90,50,140,Hydrated Lime
+20,Red,Grapes,95,50,140,Hydrated Lime
+20,Red,Grapes,100,50,140,Hydrated Lime
+25,Red,Grapes,80,55,120,Hydrated Lime
+25,Red,Grapes,85,55,120,Hydrated Lime
+25,Red,Grapes,90,55,120,Hydrated Lime
+25,Red,Grapes,95,55,120,Hydrated Lime
+25,Red,Grapes,100,55,120,Hydrated Lime
+30,Red,Grapes,80,60,125,Hydrated Lime
+30,Red,Grapes,85,60,125,Hydrated Lime
+30,Red,Grapes,90,60,125,Hydrated Lime
+30,Red,Grapes,95,60,125,Hydrated Lime
+30,Red,Grapes,100,60,125,Hydrated Lime
+20,Red,Grapes,80,40,135,Ferrous Sulphate
+20,Red,Grapes,85,40,135,Ferrous Sulphate
+20,Red,Grapes,90,40,135,Ferrous Sulphate
+20,Red,Grapes,95,40,135,Ferrous Sulphate
+20,Red,Grapes,100,40,135,Ferrous Sulphate
+25,Red,Grapes,80,45,140,Ferrous Sulphate
+25,Red,Grapes,85,45,140,Ferrous Sulphate
+25,Red,Grapes,90,45,140,Ferrous Sulphate
+25,Red,Grapes,95,45,140,Ferrous Sulphate
+25,Red,Grapes,100,45,140,Ferrous Sulphate
+30,Red,Grapes,80,50,120,Ferrous Sulphate
+30,Red,Grapes,85,50,120,Ferrous Sulphate
+30,Red,Grapes,90,50,120,Ferrous Sulphate
+30,Red,Grapes,95,50,120,Ferrous Sulphate
+30,Red,Grapes,100,50,120,Ferrous Sulphate
+20,Red,Grapes,80,55,125,Ferrous Sulphate
+20,Red,Grapes,85,55,125,Ferrous Sulphate
+20,Red,Grapes,90,55,125,Ferrous Sulphate
+20,Red,Grapes,95,55,125,Ferrous Sulphate
+20,Red,Grapes,100,55,125,Ferrous Sulphate
+25,Red,Grapes,80,60,130,Ferrous Sulphate
+25,Red,Grapes,85,60,130,Ferrous Sulphate
+25,Red,Grapes,90,60,130,Ferrous Sulphate
+25,Red,Grapes,95,60,130,Ferrous Sulphate
+25,Red,Grapes,100,60,130,Ferrous Sulphate
+30,Red,Grapes,80,40,140,10:10:10 NPK
+30,Red,Grapes,85,40,140,10:10:10 NPK
+30,Red,Grapes,90,40,140,10:10:10 NPK
+30,Red,Grapes,95,40,140,10:10:10 NPK
+30,Red,Grapes,100,40,140,10:10:10 NPK
+20,Red,Grapes,80,45,120,10:10:10 NPK
+20,Red,Grapes,85,45,120,10:10:10 NPK
+20,Red,Grapes,90,45,120,10:10:10 NPK
+20,Red,Grapes,95,45,120,10:10:10 NPK
+20,Red,Grapes,100,45,120,10:10:10 NPK
+25,Red,Grapes,80,50,125,10:10:10 NPK
+25,Red,Grapes,85,50,125,10:10:10 NPK
+25,Red,Grapes,90,50,125,10:10:10 NPK
+25,Red,Grapes,95,50,125,10:10:10 NPK
+25,Red,Grapes,100,50,125,10:10:10 NPK
+30,Red,Grapes,80,55,130,10:10:10 NPK
+30,Red,Grapes,85,55,130,10:10:10 NPK
+30,Red,Grapes,90,55,130,10:10:10 NPK
+30,Red,Grapes,95,55,130,10:10:10 NPK
+30,Red,Grapes,100,55,130,10:10:10 NPK
+20,Red,Grapes,80,60,135,10:10:10 NPK
+20,Red,Grapes,85,60,135,10:10:10 NPK
+20,Red,Grapes,90,60,135,10:10:10 NPK
+20,Red,Grapes,95,60,135,10:10:10 NPK
+20,Red,Grapes,100,60,135,10:10:10 NPK
+20,Black,Maize,120,60,40,MOP
+20,Black,Maize,125,60,40,MOP
+20,Black,Maize,130,60,40,MOP
+20,Black,Maize,135,60,40,MOP
+20,Black,Maize,140,60,40,MOP
+20,Black,Maize,145,60,40,MOP
+20,Black,Maize,150,60,40,MOP
+25,Black,Maize,120,65,45,MOP
+25,Black,Maize,125,65,45,MOP
+25,Black,Maize,130,65,45,MOP
+25,Black,Maize,135,65,45,MOP
+25,Black,Maize,140,65,45,MOP
+25,Black,Maize,145,65,45,MOP
+25,Black,Maize,150,65,45,MOP
+30,Black,Maize,120,70,50,MOP
+30,Black,Maize,125,70,50,MOP
+30,Black,Maize,130,70,50,MOP
+30,Black,Maize,135,70,50,MOP
+30,Black,Maize,140,70,50,MOP
+30,Black,Maize,145,70,50,MOP
+30,Black,Maize,150,70,50,MOP
+20,Black,Maize,120,75,55,MOP
+20,Black,Maize,125,75,55,MOP
+20,Black,Maize,130,75,55,MOP
+20,Black,Maize,135,75,55,MOP
+20,Black,Maize,140,75,55,MOP
+20,Black,Maize,145,75,55,MOP
+20,Black,Maize,150,75,55,MOP
+25,Black,Maize,120,80,60,MOP
+25,Black,Maize,125,80,60,MOP
+25,Black,Maize,130,80,60,MOP
+25,Black,Maize,135,80,60,MOP
+25,Black,Maize,140,80,60,MOP
+25,Black,Maize,145,80,60,MOP
+25,Black,Maize,150,80,60,MOP
+30,Black,Maize,120,60,45,SSP
+30,Black,Maize,125,60,45,SSP
+30,Black,Maize,130,60,45,SSP
+30,Black,Maize,135,60,45,SSP
+30,Black,Maize,140,60,45,SSP
+30,Black,Maize,145,60,45,SSP
+30,Black,Maize,150,60,45,SSP
+20,Black,Maize,120,65,50,SSP
+20,Black,Maize,125,65,50,SSP
+20,Black,Maize,130,65,50,SSP
+20,Black,Maize,135,65,50,SSP
+20,Black,Maize,140,65,50,SSP
+20,Black,Maize,145,65,50,SSP
+20,Black,Maize,150,65,50,SSP
+25,Black,Maize,120,70,55,SSP
+25,Black,Maize,125,70,55,SSP
+25,Black,Maize,130,70,55,SSP
+25,Black,Maize,135,70,55,SSP
+25,Black,Maize,140,70,55,SSP
+25,Black,Maize,145,70,55,SSP
+25,Black,Maize,150,70,55,SSP
+30,Black,Maize,120,75,60,SSP
+30,Black,Maize,125,75,60,SSP
+30,Black,Maize,130,75,60,SSP
+30,Black,Maize,135,75,60,SSP
+30,Black,Maize,140,75,60,SSP
+30,Black,Maize,145,75,60,SSP
+30,Black,Maize,150,75,60,SSP
+20,Black,Maize,120,80,40,SSP
+20,Black,Maize,125,80,40,SSP
+20,Black,Maize,130,80,40,SSP
+20,Black,Maize,135,80,40,SSP
+20,Black,Maize,140,80,40,SSP
+20,Black,Maize,145,80,40,SSP
+20,Black,Maize,150,80,40,SSP
+25,Black,Maize,120,60,50,Urea
+25,Black,Maize,125,60,50,Urea
+25,Black,Maize,130,60,50,Urea
+25,Black,Maize,135,60,50,Urea
+25,Black,Maize,140,60,50,Urea
+25,Black,Maize,145,60,50,Urea
+25,Black,Maize,150,60,50,Urea
+30,Black,Maize,120,65,55,Urea
+30,Black,Maize,125,65,55,Urea
+30,Black,Maize,130,65,55,Urea
+30,Black,Maize,135,65,55,Urea
+30,Black,Maize,140,65,55,Urea
+30,Black,Maize,145,65,55,Urea
+30,Black,Maize,150,65,55,Urea
+20,Black,Maize,120,70,60,Urea
+20,Black,Maize,125,70,60,Urea
+20,Black,Maize,130,70,60,Urea
+20,Black,Maize,135,70,60,Urea
+20,Black,Maize,140,70,60,Urea
+20,Black,Maize,145,70,60,Urea
+20,Black,Maize,150,70,60,Urea
+25,Black,Maize,120,75,40,Urea
+25,Black,Maize,125,75,40,Urea
+25,Black,Maize,130,75,40,Urea
+25,Black,Maize,135,75,40,Urea
+25,Black,Maize,140,75,40,Urea
+25,Black,Maize,145,75,40,Urea
+25,Black,Maize,150,75,40,Urea
+30,Black,Maize,120,80,45,Urea
+30,Black,Maize,125,80,45,Urea
+30,Black,Maize,130,80,45,Urea
+30,Black,Maize,135,80,45,Urea
+30,Black,Maize,140,80,45,Urea
+30,Black,Maize,145,80,45,Urea
+30,Black,Maize,150,80,45,Urea
+20,Black,Maize,120,60,55,MOP
+20,Black,Maize,125,60,55,MOP
+20,Black,Maize,130,60,55,MOP
+20,Black,Maize,135,60,55,MOP
+20,Black,Maize,140,60,55,MOP
+20,Black,Maize,145,60,55,MOP
+20,Black,Maize,150,60,55,MOP
+25,Black,Maize,120,65,60,MOP
+25,Black,Maize,125,65,60,MOP
+25,Black,Maize,130,65,60,MOP
+25,Black,Maize,135,65,60,MOP
+25,Black,Maize,140,65,60,MOP
+25,Black,Maize,145,65,60,MOP
+25,Black,Maize,150,65,60,MOP
+30,Black,Maize,120,70,40,MOP
+30,Black,Maize,125,70,40,MOP
+30,Black,Maize,130,70,40,MOP
+30,Black,Maize,135,70,40,MOP
+30,Black,Maize,140,70,40,MOP
+30,Black,Maize,145,70,40,MOP
+30,Black,Maize,150,70,40,MOP
+20,Black,Maize,120,75,45,MOP
+20,Black,Maize,125,75,45,MOP
+20,Black,Maize,130,75,45,MOP
+20,Black,Maize,135,75,45,MOP
+20,Black,Maize,140,75,45,MOP
+20,Black,Maize,145,75,45,MOP
+20,Black,Maize,150,75,45,MOP
+25,Black,Maize,120,80,50,MOP
+25,Black,Maize,125,80,50,MOP
+25,Black,Maize,130,80,50,MOP
+25,Black,Maize,135,80,50,MOP
+25,Black,Maize,140,80,50,MOP
+25,Black,Maize,145,80,50,MOP
+25,Black,Maize,150,80,50,MOP
+30,Black,Maize,120,60,60,SSP
+30,Black,Maize,125,60,60,SSP
+30,Black,Maize,130,60,60,SSP
+30,Black,Maize,135,60,60,SSP
+30,Black,Maize,140,60,60,SSP
+30,Black,Maize,145,60,60,SSP
+30,Black,Maize,150,60,60,SSP
+20,Black,Maize,120,65,40,SSP
+20,Black,Maize,125,65,40,SSP
+20,Black,Maize,130,65,40,SSP
+20,Black,Maize,135,65,40,SSP
+20,Black,Maize,140,65,40,SSP
+20,Black,Maize,145,65,40,SSP
+20,Black,Maize,150,65,40,SSP
+25,Black,Maize,120,70,45,SSP
+25,Black,Maize,125,70,45,SSP
+25,Black,Maize,130,70,45,SSP
+25,Black,Maize,135,70,45,SSP
+25,Black,Maize,140,70,45,SSP
+25,Black,Maize,145,70,45,SSP
+25,Black,Maize,150,70,45,SSP
+30,Black,Maize,120,75,50,SSP
+30,Black,Maize,125,75,50,SSP
+30,Black,Maize,130,75,50,SSP
+30,Black,Maize,135,75,50,SSP
+30,Black,Maize,140,75,50,SSP
+30,Black,Maize,145,75,50,SSP
+30,Black,Maize,150,75,50,SSP
+20,Black,Maize,120,80,55,SSP
+20,Black,Maize,125,80,30,SSP
+20,Black,Maize,130,80,30,SSP
+20,Black,Maize,135,80,30,SSP
+20,Black,Maize,140,80,40,SSP
+20,Black,Maize,145,80,40,SSP
+20,Black,Maize,150,80,40,SSP
+15,Black,Wheat,100,40,40,19:19:19 NPK
+15,Black,Wheat,105,40,40,19:19:19 NPK
+15,Black,Wheat,110,40,40,19:19:19 NPK
+15,Black,Wheat,115,40,40,19:19:19 NPK
+15,Black,Wheat,120,40,40,19:19:19 NPK
+20,Black,Wheat,100,45,45,19:19:19 NPK
+20,Black,Wheat,105,45,45,19:19:19 NPK
+20,Black,Wheat,110,45,45,19:19:19 NPK
+20,Black,Wheat,115,45,45,19:19:19 NPK
+20,Black,Wheat,120,45,45,19:19:19 NPK
+25,Black,Wheat,100,50,50,19:19:19 NPK
+25,Black,Wheat,105,50,50,19:19:19 NPK
+25,Black,Wheat,110,50,50,19:19:19 NPK
+25,Black,Wheat,115,50,50,19:19:19 NPK
+25,Black,Wheat,120,50,50,19:19:19 NPK
+15,Black,Wheat,100,55,55,19:19:19 NPK
+15,Black,Wheat,105,55,55,19:19:19 NPK
+15,Black,Wheat,110,55,55,19:19:19 NPK
+15,Black,Wheat,115,55,55,19:19:19 NPK
+15,Black,Wheat,120,55,55,19:19:19 NPK
+20,Black,Wheat,100,60,60,19:19:19 NPK
+20,Black,Wheat,105,60,60,19:19:19 NPK
+20,Black,Wheat,110,60,60,19:19:19 NPK
+20,Black,Wheat,115,60,60,19:19:19 NPK
+20,Black,Wheat,120,60,60,19:19:19 NPK
+25,Black,Wheat,100,40,45,Urea
+25,Black,Wheat,105,40,45,Urea
+25,Black,Wheat,110,40,45,Urea
+25,Black,Wheat,115,40,45,Urea
+25,Black,Wheat,120,40,45,Urea
+15,Black,Wheat,100,45,50,Urea
+15,Black,Wheat,105,45,50,Urea
+15,Black,Wheat,110,45,50,Urea
+15,Black,Wheat,115,45,50,Urea
+15,Black,Wheat,120,45,50,Urea
+20,Black,Wheat,100,50,55,Urea
+20,Black,Wheat,105,50,55,Urea
+20,Black,Wheat,110,50,55,Urea
+20,Black,Wheat,115,50,55,Urea
+20,Black,Wheat,120,50,55,Urea
+25,Black,Wheat,100,55,60,Urea
+25,Black,Wheat,105,55,60,Urea
+25,Black,Wheat,110,55,60,Urea
+25,Black,Wheat,115,55,60,Urea
+25,Black,Wheat,120,55,60,Urea
+15,Black,Wheat,100,60,40,Urea
+15,Black,Wheat,105,60,40,Urea
+15,Black,Wheat,110,60,40,Urea
+15,Black,Wheat,115,60,40,Urea
+15,Black,Wheat,120,60,40,Urea
+15,Black,Wheat,100,40,50,19:19:19 NPK
+15,Black,Wheat,105,40,50,19:19:19 NPK
+15,Black,Wheat,110,40,50,19:19:19 NPK
+15,Black,Wheat,115,40,50,19:19:19 NPK
+15,Black,Wheat,120,40,50,19:19:19 NPK
+20,Black,Wheat,100,45,55,19:19:19 NPK
+20,Black,Wheat,105,45,55,19:19:19 NPK
+20,Black,Wheat,110,45,55,19:19:19 NPK
+20,Black,Wheat,115,45,55,19:19:19 NPK
+20,Black,Wheat,120,45,55,19:19:19 NPK
+25,Black,Wheat,100,50,60,19:19:19 NPK
+25,Black,Wheat,105,50,60,19:19:19 NPK
+25,Black,Wheat,110,50,60,19:19:19 NPK
+25,Black,Wheat,115,50,60,19:19:19 NPK
+25,Black,Wheat,120,50,60,19:19:19 NPK
+15,Black,Wheat,100,55,40,19:19:19 NPK
+15,Black,Wheat,105,55,40,19:19:19 NPK
+15,Black,Wheat,110,55,40,19:19:19 NPK
+15,Black,Wheat,115,55,40,19:19:19 NPK
+15,Black,Wheat,120,55,40,19:19:19 NPK
+20,Black,Wheat,100,60,45,19:19:19 NPK
+20,Black,Wheat,105,60,45,19:19:19 NPK
+20,Black,Wheat,110,60,45,19:19:19 NPK
+20,Black,Wheat,115,60,45,19:19:19 NPK
+20,Black,Wheat,120,60,45,19:19:19 NPK
+25,Black,Wheat,100,40,55,Urea
+25,Black,Wheat,105,40,55,Urea
+25,Black,Wheat,110,40,55,Urea
+25,Black,Wheat,115,40,55,Urea
+25,Black,Wheat,120,40,55,Urea
+15,Black,Wheat,100,45,60,Urea
+15,Black,Wheat,105,45,60,Urea
+15,Black,Wheat,110,45,60,Urea
+15,Black,Wheat,115,45,60,Urea
+15,Black,Wheat,120,45,60,Urea
+20,Black,Wheat,100,50,40,Urea
+20,Black,Wheat,105,50,40,Urea
+20,Black,Wheat,110,50,40,Urea
+20,Black,Wheat,115,50,40,Urea
+20,Black,Wheat,120,50,40,Urea
+25,Black,Wheat,100,55,45,Urea
+25,Black,Wheat,105,55,45,Urea
+25,Black,Wheat,110,55,45,Urea
+25,Black,Wheat,115,55,45,Urea
+25,Black,Wheat,120,55,45,Urea
+15,Black,Wheat,100,60,50,Urea
+15,Black,Wheat,105,60,50,Urea
+15,Black,Wheat,110,60,50,Urea
+15,Black,Wheat,115,60,50,Urea
+15,Black,Wheat,120,60,50,Urea
+15,Black,Wheat,100,40,60,19:19:19 NPK
+15,Black,Wheat,105,40,60,19:19:19 NPK
+15,Black,Wheat,110,40,60,19:19:19 NPK
+15,Black,Wheat,115,40,60,19:19:19 NPK
+15,Black,Wheat,120,40,60,19:19:19 NPK
+20,Black,Wheat,100,45,40,19:19:19 NPK
+20,Black,Wheat,105,45,40,19:19:19 NPK
+20,Black,Wheat,110,45,40,19:19:19 NPK
+20,Black,Wheat,115,45,40,19:19:19 NPK
+20,Black,Wheat,120,45,40,19:19:19 NPK
+25,Black,Wheat,100,50,45,19:19:19 NPK
+25,Black,Wheat,105,50,45,19:19:19 NPK
+25,Black,Wheat,110,50,45,19:19:19 NPK
+25,Black,Wheat,115,50,45,19:19:19 NPK
+25,Black,Wheat,120,50,45,19:19:19 NPK
+15,Black,Wheat,100,55,50,19:19:19 NPK
+15,Black,Wheat,105,55,50,19:19:19 NPK
+15,Black,Wheat,110,55,50,19:19:19 NPK
+15,Black,Wheat,115,55,50,19:19:19 NPK
+15,Black,Wheat,120,55,50,19:19:19 NPK
+20,Black,Wheat,100,60,55,19:19:19 NPK
+20,Black,Wheat,105,60,55,19:19:19 NPK
+20,Black,Wheat,110,60,55,19:19:19 NPK
+20,Black,Wheat,115,60,55,19:19:19 NPK
+20,Black,Wheat,120,60,55,19:19:19 NPK
+25,Red,Jowar,60,40,40,10:26:26 NPK
+25,Red,Jowar,65,40,40,10:26:26 NPK
+25,Red,Jowar,70,40,40,10:26:26 NPK
+25,Red,Jowar,75,40,40,10:26:26 NPK
+25,Red,Jowar,80,40,40,10:26:26 NPK
+30,Red,Jowar,60,45,45,10:26:26 NPK
+30,Red,Jowar,65,45,45,10:26:26 NPK
+30,Red,Jowar,70,45,45,10:26:26 NPK
+30,Red,Jowar,75,45,45,10:26:26 NPK
+30,Red,Jowar,80,45,45,10:26:26 NPK
+25,Red,Jowar,60,50,50,10:26:26 NPK
+25,Red,Jowar,65,50,50,10:26:26 NPK
+25,Red,Jowar,70,50,50,10:26:26 NPK
+25,Red,Jowar,75,50,50,10:26:26 NPK
+25,Red,Jowar,80,50,50,10:26:26 NPK
+30,Red,Jowar,60,55,55,10:26:26 NPK
+30,Red,Jowar,65,55,55,10:26:26 NPK
+30,Red,Jowar,70,55,55,10:26:26 NPK
+30,Red,Jowar,75,55,55,10:26:26 NPK
+30,Red,Jowar,80,55,55,10:26:26 NPK
+25,Red,Jowar,60,60,60,10:26:26 NPK
+25,Red,Jowar,65,60,60,10:26:26 NPK
+25,Red,Jowar,70,60,60,10:26:26 NPK
+25,Red,Jowar,75,60,60,10:26:26 NPK
+25,Red,Jowar,80,60,60,10:26:26 NPK
+30,Red,Jowar,60,40,45,Urea
+30,Red,Jowar,65,40,45,Urea
+30,Red,Jowar,70,40,45,Urea
+30,Red,Jowar,75,40,45,Urea
+30,Red,Jowar,80,40,45,Urea
+25,Red,Jowar,60,45,50,Urea
+25,Red,Jowar,65,45,50,Urea
+25,Red,Jowar,70,45,50,Urea
+25,Red,Jowar,75,45,50,Urea
+25,Red,Jowar,80,45,50,Urea
+30,Red,Jowar,60,50,55,Urea
+30,Red,Jowar,65,50,55,Urea
+30,Red,Jowar,70,50,55,Urea
+30,Red,Jowar,75,50,55,Urea
+30,Red,Jowar,80,50,55,Urea
+25,Red,Jowar,60,55,60,Urea
+25,Red,Jowar,65,55,60,Urea
+25,Red,Jowar,70,55,60,Urea
+25,Red,Jowar,75,55,60,Urea
+25,Red,Jowar,80,55,60,Urea
+30,Red,Jowar,60,60,40,Urea
+30,Red,Jowar,65,60,40,Urea
+30,Red,Jowar,70,60,40,Urea
+30,Red,Jowar,75,60,40,Urea
+30,Red,Jowar,80,60,40,Urea
+25,Red,Jowar,60,40,50,SSP
+25,Red,Jowar,65,40,50,SSP
+25,Red,Jowar,70,40,50,SSP
+25,Red,Jowar,75,40,50,SSP
+25,Red,Jowar,80,40,50,SSP
+30,Red,Jowar,60,45,55,SSP
+30,Red,Jowar,65,45,55,SSP
+30,Red,Jowar,70,45,55,SSP
+30,Red,Jowar,75,45,55,SSP
+30,Red,Jowar,80,45,55,SSP
+25,Red,Jowar,60,50,60,SSP
+25,Red,Jowar,65,50,60,SSP
+25,Red,Jowar,70,50,60,SSP
+25,Red,Jowar,75,50,60,SSP
+25,Red,Jowar,80,50,60,SSP
+30,Red,Jowar,60,55,40,SSP
+30,Red,Jowar,65,55,40,SSP
+30,Red,Jowar,70,55,40,SSP
+30,Red,Jowar,75,55,40,SSP
+30,Red,Jowar,80,55,40,SSP
+25,Red,Jowar,60,60,45,SSP
+25,Red,Jowar,65,60,45,SSP
+25,Red,Jowar,70,60,45,SSP
+25,Red,Jowar,75,60,45,SSP
+25,Red,Jowar,80,60,45,SSP
+30,Red,Jowar,60,40,55,10:26:26 NPK
+30,Red,Jowar,65,40,55,10:26:26 NPK
+30,Red,Jowar,70,40,55,10:26:26 NPK
+30,Red,Jowar,75,40,55,10:26:26 NPK
+30,Red,Jowar,80,40,55,10:26:26 NPK
+25,Red,Jowar,60,45,60,10:26:26 NPK
+25,Red,Jowar,65,45,60,10:26:26 NPK
+25,Red,Jowar,70,45,60,10:26:26 NPK
+25,Red,Jowar,75,45,60,10:26:26 NPK
+25,Red,Jowar,80,45,60,10:26:26 NPK
+30,Red,Jowar,60,50,40,10:26:26 NPK
+30,Red,Jowar,65,50,40,10:26:26 NPK
+30,Red,Jowar,70,50,40,10:26:26 NPK
+30,Red,Jowar,75,50,40,10:26:26 NPK
+30,Red,Jowar,80,50,40,10:26:26 NPK
+25,Red,Jowar,60,55,45,10:26:26 NPK
+25,Red,Jowar,65,55,45,10:26:26 NPK
+25,Red,Jowar,70,55,45,10:26:26 NPK
+25,Red,Jowar,75,55,45,10:26:26 NPK
+25,Red,Jowar,80,55,45,10:26:26 NPK
+30,Red,Jowar,60,60,50,10:26:26 NPK
+30,Red,Jowar,65,60,50,10:26:26 NPK
+30,Red,Jowar,70,60,50,10:26:26 NPK
+30,Red,Jowar,75,60,50,10:26:26 NPK
+30,Red,Jowar,80,60,50,10:26:26 NPK
+25,Red,Jowar,60,40,60,Urea
+25,Red,Jowar,65,40,60,Urea
+25,Red,Jowar,70,40,60,Urea
+25,Red,Jowar,75,40,60,Urea
+25,Red,Jowar,80,40,60,Urea
+30,Red,Jowar,60,45,40,Urea
+30,Red,Jowar,65,45,40,Urea
+30,Red,Jowar,70,45,40,Urea
+30,Red,Jowar,75,45,40,Urea
+30,Red,Jowar,80,45,40,Urea
+25,Red,Jowar,60,50,45,Urea
+25,Red,Jowar,65,50,45,Urea
+25,Red,Jowar,70,50,45,Urea
+25,Red,Jowar,75,50,45,Urea
+25,Red,Jowar,80,50,45,Urea
+30,Red,Jowar,60,55,50,Urea
+30,Red,Jowar,65,55,50,Urea
+30,Red,Jowar,70,55,50,Urea
+30,Red,Jowar,75,55,50,Urea
+30,Red,Jowar,80,55,50,Urea
+25,Red,Jowar,60,60,45,Urea
+25,Red,Jowar,65,60,45,Urea
+25,Red,Jowar,70,60,45,Urea
+25,Red,Jowar,75,60,45,Urea
+25,Red,Jowar,80,60,45,Urea
+25,Light Brown,Groundnut,20,40,20,Chilated Micronutrient
+25,Light Brown,Groundnut,25,40,20,Chilated Micronutrient
+25,Light Brown,Groundnut,30,40,20,Chilated Micronutrient
+30,Light Brown,Groundnut,20,45,25,Chilated Micronutrient
+30,Light Brown,Groundnut,25,45,25,Chilated Micronutrient
+30,Light Brown,Groundnut,30,45,25,Chilated Micronutrient
+25,Light Brown,Groundnut,20,50,30,Chilated Micronutrient
+25,Light Brown,Groundnut,25,50,30,Chilated Micronutrient
+25,Light Brown,Groundnut,30,50,30,Chilated Micronutrient
+30,Light Brown,Groundnut,20,40,25,SSP
+30,Light Brown,Groundnut,25,40,25,SSP
+30,Light Brown,Groundnut,30,40,25,SSP
+25,Light Brown,Groundnut,20,45,30,SSP
+25,Light Brown,Groundnut,25,45,30,SSP
+25,Light Brown,Groundnut,30,45,30,SSP
+30,Light Brown,Groundnut,20,50,20,SSP
+30,Light Brown,Groundnut,25,50,20,SSP
+30,Light Brown,Groundnut,30,50,20,SSP
+25,Light Brown,Groundnut,20,40,30,Chilated Micronutrient
+25,Light Brown,Groundnut,25,40,30,Chilated Micronutrient
+25,Light Brown,Groundnut,30,40,30,Chilated Micronutrient
+30,Light Brown,Groundnut,20,45,20,Chilated Micronutrient
+30,Light Brown,Groundnut,25,45,20,Chilated Micronutrient
+30,Light Brown,Groundnut,30,45,20,Chilated Micronutrient
+25,Light Brown,Groundnut,20,50,25,Chilated Micronutrient
+25,Light Brown,Groundnut,25,50,25,Chilated Micronutrient
+25,Light Brown,Groundnut,30,50,25,Chilated Micronutrient
+20,Black,Turmeric,25,20,40,Urea
+20,Black,Turmeric,30,20,40,Urea
+20,Black,Turmeric,20,20,40,Urea
+25,Black,Turmeric,30,25,45,Urea
+25,Black,Turmeric,20,25,45,Urea
+25,Black,Turmeric,25,25,45,Urea
+30,Black,Turmeric,20,30,50,Urea
+30,Black,Turmeric,25,30,50,Urea
+30,Black,Turmeric,30,30,50,Urea
+20,Black,Turmeric,25,20,45,Ferrous Sulphate
+20,Black,Turmeric,30,20,45,Ferrous Sulphate
+20,Black,Turmeric,20,20,45,Ferrous Sulphate
+25,Black,Turmeric,30,25,50,Ferrous Sulphate
+25,Black,Turmeric,20,25,50,Ferrous Sulphate
+25,Black,Turmeric,25,25,50,Ferrous Sulphate
+30,Black,Turmeric,20,30,40,Ferrous Sulphate
+30,Black,Turmeric,25,30,40,Ferrous Sulphate
+30,Black,Turmeric,30,30,40,Ferrous Sulphate
+20,Black,Turmeric,25,20,50,White Potash
+20,Black,Turmeric,30,20,50,White Potash
+20,Black,Turmeric,20,20,50,White Potash
+20,Black,Turmeric,25,20,40,White Potash
+25,Black,Turmeric,30,25,40,White Potash
+25,Black,Turmeric,20,25,40,White Potash
+25,Black,Turmeric,25,25,40,White Potash
+30,Black,Turmeric,20,30,45,White Potash
+30,Black,Turmeric,25,30,45,White Potash
+30,Black,Turmeric,30,30,45,White Potash
+25,Black,Cotton,100,20,45,Magnesium Sulphate
+25,Black,Cotton,105,20,45,Magnesium Sulphate
+25,Black,Cotton,110,20,45,Magnesium Sulphate
+25,Black,Cotton,115,20,45,Magnesium Sulphate
+25,Black,Cotton,120,20,45,Magnesium Sulphate
+30,Black,Cotton,100,25,50,Magnesium Sulphate
+30,Black,Cotton,105,25,50,Magnesium Sulphate
+30,Black,Cotton,110,25,50,Magnesium Sulphate
+30,Black,Cotton,115,25,50,Magnesium Sulphate
+30,Black,Cotton,120,25,50,Magnesium Sulphate
+35,Black,Cotton,100,30,55,Magnesium Sulphate
+35,Black,Cotton,105,30,55,Magnesium Sulphate
+35,Black,Cotton,110,30,55,Magnesium Sulphate
+35,Black,Cotton,115,30,55,Magnesium Sulphate
+35,Black,Cotton,120,30,55,Magnesium Sulphate
+25,Black,Cotton,100,20,50,12:32:16 NPK
+25,Black,Cotton,105,20,50,12:32:16 NPK
+25,Black,Cotton,110,20,50,12:32:16 NPK
+25,Black,Cotton,115,20,50,12:32:16 NPK
+25,Black,Cotton,120,20,50,12:32:16 NPK
+30,Black,Cotton,100,25,55,12:32:16 NPK
+30,Black,Cotton,105,25,55,12:32:16 NPK
+30,Black,Cotton,110,25,55,12:32:16 NPK
+30,Black,Cotton,115,25,55,12:32:16 NPK
+30,Black,Cotton,120,25,55,12:32:16 NPK
+35,Black,Cotton,100,30,45,12:32:16 NPK
+35,Black,Cotton,105,30,45,12:32:16 NPK
+35,Black,Cotton,110,30,45,12:32:16 NPK
+35,Black,Cotton,115,30,45,12:32:16 NPK
+35,Black,Cotton,120,30,45,12:32:16 NPK
+25,Black,Cotton,100,20,55,DAP
+25,Black,Cotton,105,20,55,DAP
+25,Black,Cotton,110,20,55,DAP
+25,Black,Cotton,115,20,55,DAP
+25,Black,Cotton,120,20,55,DAP
+30,Black,Cotton,100,25,45,DAP
+30,Black,Cotton,105,25,45,DAP
+30,Black,Cotton,110,25,45,DAP
+30,Black,Cotton,115,25,45,DAP
+30,Black,Cotton,120,25,45,DAP
+35,Black,Cotton,100,30,50,DAP
+35,Black,Cotton,105,30,50,DAP
+35,Black,Cotton,110,30,50,DAP
+35,Black,Cotton,115,30,50,DAP
+35,Black,Cotton,120,30,50,DAP
+25,Reddish Brown,Tur,30,40,20,Urea
+25,Reddish Brown,Tur,35,40,20,Urea
+25,Reddish Brown,Tur,40,40,20,Urea
+30,Reddish Brown,Tur,30,45,25,Urea
+30,Reddish Brown,Tur,35,45,25,Urea
+30,Reddish Brown,Tur,40,45,25,Urea
+35,Reddish Brown,Tur,30,50,30,Urea
+35,Reddish Brown,Tur,35,50,30,Urea
+35,Reddish Brown,Tur,40,50,30,Urea
+25,Reddish Brown,Tur,30,55,20,Urea
+25,Reddish Brown,Tur,35,55,20,Urea
+25,Reddish Brown,Tur,40,55,20,Urea
+30,Reddish Brown,Tur,30,60,25,Urea
+30,Reddish Brown,Tur,35,60,25,Urea
+30,Reddish Brown,Tur,40,60,25,Urea
+35,Reddish Brown,Tur,30,40,30,MOP
+35,Reddish Brown,Tur,35,40,30,MOP
+35,Reddish Brown,Tur,40,40,30,MOP
+25,Reddish Brown,Tur,30,45,20,MOP
+25,Reddish Brown,Tur,35,45,20,MOP
+25,Reddish Brown,Tur,40,45,20,MOP
+30,Reddish Brown,Tur,30,50,25,MOP
+30,Reddish Brown,Tur,35,50,25,MOP
+30,Reddish Brown,Tur,40,50,25,MOP
+35,Reddish Brown,Tur,30,55,30,MOP
+35,Reddish Brown,Tur,35,55,30,MOP
+35,Reddish Brown,Tur,40,55,30,MOP
+25,Reddish Brown,Tur,30,60,20,MOP
+25,Reddish Brown,Tur,35,60,20,MOP
+25,Reddish Brown,Tur,40,60,20,MOP
+30,Reddish Brown,Tur,30,40,25,SSP
+30,Reddish Brown,Tur,35,40,25,SSP
+30,Reddish Brown,Tur,40,40,25,SSP
+35,Reddish Brown,Tur,30,45,30,SSP
+35,Reddish Brown,Tur,35,45,30,SSP
+35,Reddish Brown,Tur,40,45,30,SSP
+25,Reddish Brown,Tur,30,50,20,SSP
+25,Reddish Brown,Tur,35,50,20,SSP
+25,Reddish Brown,Tur,40,50,20,SSP
+30,Reddish Brown,Tur,30,55,25,SSP
+30,Reddish Brown,Tur,35,55,25,SSP
+30,Reddish Brown,Tur,40,55,25,SSP
+35,Reddish Brown,Tur,30,60,30,SSP
+35,Reddish Brown,Tur,35,60,30,SSP
+35,Reddish Brown,Tur,40,60,30,SSP
+25,Black,Moong,40,20,20,MOP
+25,Black,Moong,45,20,20,MOP
+25,Black,Moong,50,20,20,MOP
+30,Black,Moong,40,25,25,MOP
+30,Black,Moong,45,25,25,MOP
+30,Black,Moong,50,25,25,MOP
+35,Black,Moong,40,30,30,MOP
+35,Black,Moong,45,30,30,MOP
+35,Black,Moong,50,30,30,MOP
+25,Black,Moong,40,20,25,Urea
+25,Black,Moong,45,20,25,Urea
+25,Black,Moong,50,20,25,Urea
+30,Black,Moong,40,25,30,Urea
+30,Black,Moong,45,25,30,Urea
+30,Black,Moong,50,25,30,Urea
+35,Black,Moong,40,30,20,Urea
+35,Black,Moong,45,30,20,Urea
+35,Black,Moong,50,30,20,Urea
+25,Black,Moong,40,20,30,SSP
+25,Black,Moong,45,20,30,SSP
+25,Black,Moong,50,20,30,SSP
+30,Black,Moong,40,25,20,SSP
+30,Black,Moong,45,25,20,SSP
+30,Black,Moong,50,25,20,SSP
+35,Black,Moong,40,30,25,SSP
+35,Black,Moong,45,30,25,SSP
+35,Black,Moong,50,30,25,SSP
+35,Black,Rice,100,50,50,Urea
+35,Black,Rice,105,50,50,Urea
+35,Black,Rice,110,50,50,Urea
+35,Black,Rice,115,50,50,Urea
+35,Black,Rice,120,50,50,Urea
+40,Black,Rice,100,55,55,Urea
+40,Black,Rice,105,55,55,Urea
+40,Black,Rice,110,55,55,Urea
+40,Black,Rice,115,55,55,Urea
+40,Black,Rice,120,55,55,Urea
+35,Black,Rice,100,60,60,Urea
+35,Black,Rice,105,60,60,Urea
+35,Black,Rice,110,60,60,Urea
+35,Black,Rice,115,60,60,Urea
+35,Black,Rice,120,60,60,Urea
+40,Black,Rice,100,50,55,50:26:26 NPK
+40,Black,Rice,105,50,55,50:26:26 NPK
+40,Black,Rice,110,50,55,50:26:26 NPK
+40,Black,Rice,115,50,55,50:26:26 NPK
+40,Black,Rice,120,50,55,50:26:26 NPK
+35,Black,Rice,100,55,60,50:26:26 NPK
+35,Black,Rice,105,55,60,50:26:26 NPK
+35,Black,Rice,110,55,60,50:26:26 NPK
+35,Black,Rice,115,55,60,50:26:26 NPK
+35,Black,Rice,120,55,60,50:26:26 NPK
+40,Black,Rice,100,60,50,50:26:26 NPK
+40,Black,Rice,105,60,50,50:26:26 NPK
+40,Black,Rice,110,60,50,50:26:26 NPK
+40,Black,Rice,115,60,50,50:26:26 NPK
+40,Black,Rice,120,60,50,50:26:26 NPK
+35,Black,Rice,100,50,60,Urea
+35,Black,Rice,105,50,60,Urea
+35,Black,Rice,110,50,60,Urea
+35,Black,Rice,115,50,60,Urea
+35,Black,Rice,120,50,60,Urea
+40,Black,Rice,100,55,50,Urea
+40,Black,Rice,105,55,50,Urea
+40,Black,Rice,110,55,50,Urea
+40,Black,Rice,115,55,50,Urea
+40,Black,Rice,120,55,50,Urea
+35,Black,Rice,100,60,55,Urea
+35,Black,Rice,105,60,55,Urea
+35,Black,Rice,110,60,55,Urea
+35,Black,Rice,115,60,55,Urea
+35,Black,Rice,120,60,55,Urea
+25,Black,Jowar,50,30,30,10:26:26 NPK
+25,Black,Jowar,55,30,30,10:26:26 NPK
+25,Black,Jowar,60,30,30,10:26:26 NPK
+25,Black,Jowar,65,30,30,10:26:26 NPK
+25,Black,Jowar,70,30,30,10:26:26 NPK
+30,Black,Jowar,50,35,35,10:26:26 NPK
+30,Black,Jowar,55,35,35,10:26:26 NPK
+30,Black,Jowar,60,35,35,10:26:26 NPK
+30,Black,Jowar,65,35,35,10:26:26 NPK
+30,Black,Jowar,70,35,35,10:26:26 NPK
+35,Black,Jowar,50,40,40,10:26:26 NPK
+35,Black,Jowar,55,40,40,10:26:26 NPK
+35,Black,Jowar,60,40,40,10:26:26 NPK
+35,Black,Jowar,65,40,40,10:26:26 NPK
+35,Black,Jowar,70,40,40,10:26:26 NPK
+25,Black,Jowar,50,30,35,Urea
+25,Black,Jowar,55,30,35,Urea
+25,Black,Jowar,60,30,35,Urea
+25,Black,Jowar,65,30,35,Urea
+25,Black,Jowar,70,30,35,Urea
+30,Black,Jowar,50,35,40,Urea
+30,Black,Jowar,55,35,40,Urea
+30,Black,Jowar,60,35,40,Urea
+30,Black,Jowar,65,35,40,Urea
+30,Black,Jowar,70,35,40,Urea
+35,Black,Jowar,50,40,30,Urea
+35,Black,Jowar,55,40,30,Urea
+35,Black,Jowar,60,40,30,Urea
+35,Black,Jowar,65,40,30,Urea
+35,Black,Jowar,70,40,30,Urea
+25,Black,Jowar,50,30,40,SSP
+25,Black,Jowar,55,30,40,SSP
+25,Black,Jowar,60,30,40,SSP
+25,Black,Jowar,65,30,40,SSP
+25,Black,Jowar,70,30,40,SSP
+30,Black,Jowar,50,35,30,SSP
+30,Black,Jowar,55,35,30,SSP
+30,Black,Jowar,60,35,30,SSP
+30,Black,Jowar,65,35,30,SSP
+30,Black,Jowar,70,35,30,SSP
+35,Black,Jowar,50,40,35,SSP
+35,Black,Jowar,55,40,35,SSP
+35,Black,Jowar,60,40,35,SSP
+35,Black,Jowar,65,40,35,SSP
+35,Black,Jowar,70,40,35,SSP
+20,Dark Brown,Tur,20,30,15,Urea
+20,Dark Brown,Tur,25,30,15,Urea
+20,Dark Brown,Tur,30,30,15,Urea
+25,Dark Brown,Tur,20,35,20,Urea
+25,Dark Brown,Tur,25,35,20,Urea
+25,Dark Brown,Tur,30,35,20,Urea
+30,Dark Brown,Tur,20,40,15,Urea
+30,Dark Brown,Tur,25,40,15,Urea
+30,Dark Brown,Tur,30,40,15,Urea
+20,Dark Brown,Tur,20,30,20,MOP
+20,Dark Brown,Tur,25,30,20,MOP
+20,Dark Brown,Tur,30,30,20,MOP
+25,Dark Brown,Tur,20,35,15,MOP
+25,Dark Brown,Tur,25,35,15,MOP
+25,Dark Brown,Tur,30,35,15,MOP
+30,Dark Brown,Tur,20,40,20,MOP
+30,Dark Brown,Tur,25,40,20,MOP
+30,Dark Brown,Tur,30,40,20,MOP
+15,Reddish Brown,Wheat,100,50,40,19:19:19 NPK
+15,Reddish Brown,Wheat,105,50,40,19:19:19 NPK
+15,Reddish Brown,Wheat,110,50,40,19:19:19 NPK
+15,Reddish Brown,Wheat,115,50,40,19:19:19 NPK
+15,Reddish Brown,Wheat,120,50,40,19:19:19 NPK
+20,Reddish Brown,Wheat,100,55,45,19:19:19 NPK
+20,Reddish Brown,Wheat,105,55,45,19:19:19 NPK
+20,Reddish Brown,Wheat,110,55,45,19:19:19 NPK
+20,Reddish Brown,Wheat,115,55,45,19:19:19 NPK
+20,Reddish Brown,Wheat,120,55,45,19:19:19 NPK
+15,Reddish Brown,Wheat,100,60,50,19:19:19 NPK
+15,Reddish Brown,Wheat,105,60,50,19:19:19 NPK
+15,Reddish Brown,Wheat,110,60,50,19:19:19 NPK
+15,Reddish Brown,Wheat,115,60,50,19:19:19 NPK
+15,Reddish Brown,Wheat,120,60,50,19:19:19 NPK
+20,Reddish Brown,Wheat,100,50,45,Urea
+20,Reddish Brown,Wheat,105,50,45,Urea
+20,Reddish Brown,Wheat,110,50,45,Urea
+20,Reddish Brown,Wheat,115,50,45,Urea
+20,Reddish Brown,Wheat,120,50,45,Urea
+15,Reddish Brown,Wheat,100,55,50,Urea
+15,Reddish Brown,Wheat,105,55,50,Urea
+15,Reddish Brown,Wheat,110,55,50,Urea
+15,Reddish Brown,Wheat,115,55,50,Urea
+15,Reddish Brown,Wheat,120,55,50,Urea
+20,Reddish Brown,Wheat,100,60,40,Urea
+20,Reddish Brown,Wheat,105,60,40,Urea
+20,Reddish Brown,Wheat,110,60,40,Urea
+20,Reddish Brown,Wheat,115,60,40,Urea
+20,Reddish Brown,Wheat,120,60,40,Urea
+15,Reddish Brown,Wheat,100,50,50,19:19:19 NPK
+15,Reddish Brown,Wheat,105,50,50,19:19:19 NPK
+15,Reddish Brown,Wheat,110,50,50,19:19:19 NPK
+15,Reddish Brown,Wheat,115,50,50,19:19:19 NPK
+15,Reddish Brown,Wheat,120,50,50,19:19:19 NPK
+20,Reddish Brown,Wheat,100,55,40,19:19:19 NPK
+20,Reddish Brown,Wheat,105,55,40,19:19:19 NPK
+20,Reddish Brown,Wheat,110,55,40,19:19:19 NPK
+20,Reddish Brown,Wheat,115,55,40,19:19:19 NPK
+20,Reddish Brown,Wheat,120,55,40,19:19:19 NPK
+15,Reddish Brown,Wheat,100,60,45,19:19:19 NPK
+15,Reddish Brown,Wheat,105,60,45,19:19:19 NPK
+15,Reddish Brown,Wheat,110,60,45,19:19:19 NPK
+15,Reddish Brown,Wheat,115,60,45,19:19:19 NPK
+15,Reddish Brown,Wheat,120,60,45,19:19:19 NPK
+25,Red,Groundnut,20,30,20,Chilated Micronutrient
+25,Red,Groundnut,25,30,20,Chilated Micronutrient
+25,Red,Groundnut,30,30,20,Chilated Micronutrient
+30,Red,Groundnut,20,35,25,Chilated Micronutrient
+30,Red,Groundnut,25,35,25,Chilated Micronutrient
+30,Red,Groundnut,30,35,25,Chilated Micronutrient
+35,Red,Groundnut,20,40,30,Chilated Micronutrient
+35,Red,Groundnut,25,40,30,Chilated Micronutrient
+35,Red,Groundnut,30,40,30,Chilated Micronutrient
+25,Red,Groundnut,20,30,25,SSP
+25,Red,Groundnut,25,30,25,SSP
+25,Red,Groundnut,30,30,25,SSP
+30,Red,Groundnut,20,35,30,SSP
+30,Red,Groundnut,25,35,30,SSP
+30,Red,Groundnut,30,35,30,SSP
+35,Red,Groundnut,20,40,20,SSP
+35,Red,Groundnut,25,40,20,SSP
+35,Red,Groundnut,30,40,20,SSP
+25,Red,Groundnut,20,30,30,Chilated Micronutrient
+25,Red,Groundnut,25,30,30,Chilated Micronutrient
+25,Red,Groundnut,30,30,30,Chilated Micronutrient
+30,Red,Groundnut,20,35,20,Chilated Micronutrient
+30,Red,Groundnut,25,35,20,Chilated Micronutrient
+30,Red,Groundnut,30,35,20,Chilated Micronutrient
+35,Red,Groundnut,20,40,25,Chilated Micronutrient
+35,Red,Groundnut,25,40,25,Chilated Micronutrient
+35,Red,Groundnut,30,40,25,Chilated Micronutrient
+25,Black,Urad,30,30,20,Urea
+25,Black,Urad,35,30,20,Urea
+25,Black,Urad,40,30,20,Urea
+30,Black,Urad,30,35,25,Urea
+30,Black,Urad,35,35,25,Urea
+30,Black,Urad,40,35,25,Urea
+35,Black,Urad,30,40,30,Urea
+35,Black,Urad,35,40,30,Urea
+35,Black,Urad,40,40,30,Urea
+25,Black,Urad,30,30,25,SSP
+25,Black,Urad,35,30,25,SSP
+25,Black,Urad,40,30,25,SSP
+30,Black,Urad,30,35,30,SSP
+30,Black,Urad,35,35,30,SSP
+30,Black,Urad,40,35,30,SSP
+35,Black,Urad,30,40,20,SSP
+35,Black,Urad,35,40,20,SSP
+35,Black,Urad,40,40,20,SSP
+25,Black,Urad,30,30,30,DAP
+25,Black,Urad,35,30,30,DAP
+25,Black,Urad,40,30,30,DAP
+30,Black,Urad,30,35,20,DAP
+30,Black,Urad,35,35,20,DAP
+30,Black,Urad,40,35,20,DAP
+35,Black,Urad,30,40,25,DAP
+35,Black,Urad,35,40,25,DAP
+35,Black,Urad,40,40,25,DAP
+15,Black,Gram,30,40,20,DAP
+15,Black,Gram,35,40,20,DAP
+15,Black,Gram,40,40,20,DAP
+20,Black,Gram,30,45,25,DAP
+20,Black,Gram,35,45,25,DAP
+20,Black,Gram,40,45,25,DAP
+15,Black,Gram,30,50,30,DAP
+15,Black,Gram,35,50,30,DAP
+15,Black,Gram,40,50,30,DAP
+20,Black,Gram,30,40,25,MOP
+20,Black,Gram,35,40,25,MOP
+20,Black,Gram,40,40,25,MOP
+15,Black,Gram,30,45,30,MOP
+15,Black,Gram,35,45,30,MOP
+15,Black,Gram,40,45,30,MOP
+20,Black,Gram,30,50,20,MOP
+20,Black,Gram,35,50,20,MOP
+20,Black,Gram,40,50,20,MOP
+15,Black,Gram,30,40,30,DAP
+15,Black,Gram,35,40,30,DAP
+15,Black,Gram,40,40,30,DAP
+20,Black,Gram,30,45,20,DAP
+20,Black,Gram,35,45,20,DAP
+20,Black,Gram,40,45,20,DAP
+15,Black,Gram,30,50,25,DAP
+15,Black,Gram,35,50,25,DAP
+15,Black,Gram,40,50,25,DAP
+20,Black,Sugarcane,120,60,120,MOP
+20,Black,Sugarcane,125,60,120,MOP
+20,Black,Sugarcane,130,60,120,MOP
+20,Black,Sugarcane,135,60,120,MOP
+20,Black,Sugarcane,140,60,120,MOP
+20,Black,Sugarcane,145,60,120,MOP
+20,Black,Sugarcane,150,60,120,MOP
+25,Black,Sugarcane,120,65,125,MOP
+25,Black,Sugarcane,125,65,125,MOP
+25,Black,Sugarcane,130,65,125,MOP
+25,Black,Sugarcane,135,65,125,MOP
+25,Black,Sugarcane,140,65,125,MOP
+25,Black,Sugarcane,145,65,125,MOP
+25,Black,Sugarcane,150,65,125,MOP
+30,Black,Sugarcane,120,70,130,MOP
+30,Black,Sugarcane,125,70,130,MOP
+30,Black,Sugarcane,130,70,130,MOP
+30,Black,Sugarcane,135,70,130,MOP
+30,Black,Sugarcane,140,70,130,MOP
+30,Black,Sugarcane,145,70,130,MOP
+30,Black,Sugarcane,150,70,130,MOP
+35,Black,Sugarcane,120,75,135,MOP
+35,Black,Sugarcane,125,75,135,MOP
+35,Black,Sugarcane,130,75,135,MOP
+35,Black,Sugarcane,135,75,135,MOP
+35,Black,Sugarcane,140,75,135,MOP
+35,Black,Sugarcane,145,75,135,MOP
+35,Black,Sugarcane,150,75,135,MOP
+20,Black,Sugarcane,120,80,140,MOP
+20,Black,Sugarcane,125,80,140,MOP
+20,Black,Sugarcane,130,80,140,MOP
+20,Black,Sugarcane,135,80,140,MOP
+20,Black,Sugarcane,140,80,140,MOP
+20,Black,Sugarcane,145,80,140,MOP
+20,Black,Sugarcane,150,80,140,MOP
+25,Black,Sugarcane,120,60,145,Urea
+25,Black,Sugarcane,125,60,145,Urea
+25,Black,Sugarcane,130,60,145,Urea
+25,Black,Sugarcane,135,60,145,Urea
+25,Black,Sugarcane,140,60,145,Urea
+25,Black,Sugarcane,145,60,145,Urea
+25,Black,Sugarcane,150,60,145,Urea
+30,Black,Sugarcane,120,65,150,Urea
+30,Black,Sugarcane,125,65,150,Urea
+30,Black,Sugarcane,130,65,150,Urea
+30,Black,Sugarcane,135,65,150,Urea
+30,Black,Sugarcane,140,65,150,Urea
+30,Black,Sugarcane,145,65,150,Urea
+30,Black,Sugarcane,150,65,150,Urea
+35,Black,Sugarcane,120,70,120,Urea
+35,Black,Sugarcane,125,70,120,Urea
+35,Black,Sugarcane,130,70,120,Urea
+35,Black,Sugarcane,135,70,120,Urea
+35,Black,Sugarcane,140,70,120,Urea
+35,Black,Sugarcane,145,70,120,Urea
+35,Black,Sugarcane,150,70,120,Urea
+20,Black,Sugarcane,120,75,125,Urea
+20,Black,Sugarcane,125,75,125,Urea
+20,Black,Sugarcane,130,75,125,Urea
+20,Black,Sugarcane,135,75,125,Urea
+20,Black,Sugarcane,140,75,125,Urea
+20,Black,Sugarcane,145,75,125,Urea
+20,Black,Sugarcane,150,75,125,Urea
+25,Black,Sugarcane,120,80,130,Urea
+25,Black,Sugarcane,125,80,130,Urea
+25,Black,Sugarcane,130,80,130,Urea
+25,Black,Sugarcane,135,80,130,Urea
+25,Black,Sugarcane,140,80,130,Urea
+25,Black,Sugarcane,145,80,130,Urea
+25,Black,Sugarcane,150,80,130,Urea
+30,Black,Sugarcane,120,60,135,DAP
+30,Black,Sugarcane,125,60,135,DAP
+30,Black,Sugarcane,130,60,135,DAP
+30,Black,Sugarcane,135,60,135,DAP
+30,Black,Sugarcane,140,60,135,DAP
+30,Black,Sugarcane,145,60,135,DAP
+30,Black,Sugarcane,150,60,135,DAP
+35,Black,Sugarcane,120,65,140,DAP
+35,Black,Sugarcane,125,65,140,DAP
+35,Black,Sugarcane,130,65,140,DAP
+35,Black,Sugarcane,135,65,140,DAP
+35,Black,Sugarcane,140,65,140,DAP
+35,Black,Sugarcane,145,65,140,DAP
+35,Black,Sugarcane,150,65,140,DAP
+20,Black,Sugarcane,120,70,145,DAP
+20,Black,Sugarcane,125,70,145,DAP
+20,Black,Sugarcane,130,70,145,DAP
+20,Black,Sugarcane,135,70,145,DAP
+20,Black,Sugarcane,140,70,145,DAP
+20,Black,Sugarcane,145,70,145,DAP
+20,Black,Sugarcane,150,70,145,DAP
+25,Black,Sugarcane,120,75,150,DAP
+25,Black,Sugarcane,125,75,150,DAP
+25,Black,Sugarcane,130,75,150,DAP
+25,Black,Sugarcane,135,75,150,DAP
+25,Black,Sugarcane,140,75,150,DAP
+25,Black,Sugarcane,145,75,150,DAP
+25,Black,Sugarcane,150,75,150,DAP
+30,Black,Sugarcane,120,80,120,DAP
+30,Black,Sugarcane,125,80,120,DAP
+30,Black,Sugarcane,130,80,120,DAP
+30,Black,Sugarcane,135,80,120,DAP
+30,Black,Sugarcane,140,80,120,DAP
+30,Black,Sugarcane,145,80,120,DAP
+30,Black,Sugarcane,150,80,120,DAP
+35,Black,Sugarcane,120,60,125,MOP
+35,Black,Sugarcane,125,60,125,MOP
+35,Black,Sugarcane,130,60,125,MOP
+35,Black,Sugarcane,135,60,125,MOP
+35,Black,Sugarcane,140,60,125,MOP
+35,Black,Sugarcane,145,60,125,MOP
+35,Black,Sugarcane,150,60,125,MOP
+20,Black,Sugarcane,120,65,130,MOP
+20,Black,Sugarcane,125,65,130,MOP
+20,Black,Sugarcane,130,65,130,MOP
+20,Black,Sugarcane,135,65,130,MOP
+20,Black,Sugarcane,140,65,130,MOP
+20,Black,Sugarcane,145,65,130,MOP
+20,Black,Sugarcane,150,65,130,MOP
+25,Black,Sugarcane,120,70,135,MOP
+25,Black,Sugarcane,125,70,135,MOP
+25,Black,Sugarcane,130,70,135,MOP
+25,Black,Sugarcane,135,70,135,MOP
+25,Black,Sugarcane,140,70,135,MOP
+25,Black,Sugarcane,145,70,135,MOP
+25,Black,Sugarcane,150,70,135,MOP
+30,Black,Sugarcane,120,75,140,MOP
+30,Black,Sugarcane,125,75,140,MOP
+30,Black,Sugarcane,130,75,140,MOP
+30,Black,Sugarcane,135,75,140,MOP
+30,Black,Sugarcane,140,75,140,MOP
+30,Black,Sugarcane,145,75,140,MOP
+30,Black,Sugarcane,150,75,140,MOP
+35,Black,Sugarcane,120,80,145,MOP
+35,Black,Sugarcane,125,80,145,MOP
+35,Black,Sugarcane,130,80,145,MOP
+35,Black,Sugarcane,135,80,145,MOP
+35,Black,Sugarcane,140,80,145,MOP
+35,Black,Sugarcane,145,80,145,MOP
+35,Black,Sugarcane,150,80,145,MOP
+20,Black,Sugarcane,120,60,150,Urea
+20,Black,Sugarcane,125,60,150,Urea
+20,Black,Sugarcane,130,60,150,Urea
+20,Black,Sugarcane,135,60,150,Urea
+20,Black,Sugarcane,140,60,150,Urea
+20,Black,Sugarcane,145,60,150,Urea
+20,Black,Sugarcane,150,60,150,Urea
+25,Black,Sugarcane,120,65,120,Urea
+25,Black,Sugarcane,125,65,120,Urea
+25,Black,Sugarcane,130,65,120,Urea
+25,Black,Sugarcane,135,65,120,Urea
+25,Black,Sugarcane,140,65,120,Urea
+25,Black,Sugarcane,145,65,120,Urea
+25,Black,Sugarcane,150,65,120,Urea
+30,Black,Sugarcane,120,70,125,Urea
+30,Black,Sugarcane,125,70,125,Urea
+30,Black,Sugarcane,130,70,125,Urea
+30,Black,Sugarcane,135,70,125,Urea
+30,Black,Sugarcane,140,70,125,Urea
+30,Black,Sugarcane,145,70,125,Urea
+30,Black,Sugarcane,150,70,125,Urea
+35,Black,Sugarcane,120,75,130,Urea
+35,Black,Sugarcane,125,75,130,Urea
+35,Black,Sugarcane,130,75,130,Urea
+35,Black,Sugarcane,135,75,130,Urea
+35,Black,Sugarcane,140,75,130,Urea
+35,Black,Sugarcane,145,75,130,Urea
+35,Black,Sugarcane,150,75,130,Urea
+20,Black,Sugarcane,120,80,135,Urea
+20,Black,Sugarcane,125,80,135,Urea
+20,Black,Sugarcane,130,80,135,Urea
+20,Black,Sugarcane,135,80,135,Urea
+20,Black,Sugarcane,140,80,135,Urea
+20,Black,Sugarcane,145,80,135,Urea
+20,Black,Sugarcane,150,80,135,Urea
+25,Black,Sugarcane,120,60,140,DAP
+25,Black,Sugarcane,125,60,140,DAP
+25,Black,Sugarcane,130,60,140,DAP
+25,Black,Sugarcane,135,60,140,DAP
+25,Black,Sugarcane,140,60,140,DAP
+25,Black,Sugarcane,145,60,140,DAP
+25,Black,Sugarcane,150,60,140,DAP
+30,Black,Sugarcane,120,65,145,DAP
+30,Black,Sugarcane,125,65,145,DAP
+30,Black,Sugarcane,130,65,145,DAP
+30,Black,Sugarcane,135,65,145,DAP
+30,Black,Sugarcane,140,65,145,DAP
+30,Black,Sugarcane,145,65,145,DAP
+30,Black,Sugarcane,150,65,145,DAP
+35,Black,Sugarcane,120,70,150,DAP
+35,Black,Sugarcane,125,70,150,DAP
+35,Black,Sugarcane,130,70,150,DAP
+35,Black,Sugarcane,135,70,150,DAP
+35,Black,Sugarcane,140,70,150,DAP
+35,Black,Sugarcane,145,70,150,DAP
+35,Black,Sugarcane,150,70,150,DAP
+20,Black,Sugarcane,120,75,120,DAP
+20,Black,Sugarcane,125,75,120,DAP
+20,Black,Sugarcane,130,75,120,DAP
+20,Black,Sugarcane,135,75,120,DAP
+20,Black,Sugarcane,140,75,120,DAP
+20,Black,Sugarcane,145,75,120,DAP
+20,Black,Sugarcane,150,75,120,DAP
+25,Black,Sugarcane,120,80,125,DAP
+25,Black,Sugarcane,125,80,125,DAP
+25,Black,Sugarcane,130,80,125,DAP
+25,Black,Sugarcane,135,80,125,DAP
+25,Black,Sugarcane,140,80,125,DAP
+25,Black,Sugarcane,145,80,125,DAP
+25,Black,Sugarcane,150,80,125,DAP
+30,Black,Sugarcane,120,60,130,MOP
+30,Black,Sugarcane,125,60,130,MOP
+30,Black,Sugarcane,130,60,130,MOP
+30,Black,Sugarcane,135,60,130,MOP
+30,Black,Sugarcane,140,60,130,MOP
+30,Black,Sugarcane,145,60,130,MOP
+30,Black,Sugarcane,150,60,130,MOP
+35,Black,Sugarcane,120,65,135,MOP
+35,Black,Sugarcane,125,65,135,MOP
+35,Black,Sugarcane,130,65,135,MOP
+35,Black,Sugarcane,135,65,135,MOP
+35,Black,Sugarcane,140,65,135,MOP
+35,Black,Sugarcane,145,65,135,MOP
+35,Black,Sugarcane,150,65,135,MOP
+20,Black,Sugarcane,120,70,140,MOP
+20,Black,Sugarcane,125,70,140,MOP
+20,Black,Sugarcane,130,70,140,MOP
+20,Black,Sugarcane,135,70,140,MOP
+20,Black,Sugarcane,140,70,140,MOP
+20,Black,Sugarcane,145,70,140,MOP
+20,Black,Sugarcane,150,70,140,MOP
+25,Black,Sugarcane,120,75,145,MOP
+25,Black,Sugarcane,125,75,145,MOP
+25,Black,Sugarcane,130,75,145,MOP
+25,Black,Sugarcane,135,75,145,MOP
+25,Black,Sugarcane,140,75,145,MOP
+25,Black,Sugarcane,145,75,145,MOP
+25,Black,Sugarcane,150,75,145,MOP
+30,Black,Sugarcane,120,80,150,MOP
+30,Black,Sugarcane,125,80,150,MOP
+30,Black,Sugarcane,130,80,150,MOP
+30,Black,Sugarcane,135,80,150,MOP
+30,Black,Sugarcane,140,80,150,MOP
+30,Black,Sugarcane,145,80,150,MOP
+30,Black,Sugarcane,150,80,150,MOP
+20,Clayey,rice,90,49,36,Urea
+25,Loamy,rice,66,59,36,Urea
+33,Loamy,Wheat,41,0,0,Urea
+34,Loamy,Wheat,38,0,0,Urea
+38,Loamy,Wheat,39,0,0,Urea
+31,Red,Tobacco,39,0,0,Urea
+32,Loamy,Sugarcane,38,0,0,Urea
+34,Black,Sugarcane,35,0,0,Urea
+33,Clayey,Pulses,38,0,0,Urea
+28,Clayey,Pulses,40,0,0,Urea
+27,Loamy,pomegranate,2,24,38,Urea
+28,Clayey,Paddy,35,0,0,Urea
+34,Clayey,Paddy,39,0,0,Urea
+28,Clayey,Paddy,36,0,0,Urea
+27,Black,Oil seeds,37,0,0,Urea
+27,Black,Oil seeds,42,0,0,Urea
+28,Black,Millets,36,0,0,Urea
+28,Black,Millets,41,0,0,Urea
+30,Sandy,Millets,41,0,0,Urea
+27,Black,Millets,35,0,0,Urea
+26,Sandy,Maize,37,0,0,Urea
+30,Red,Ground Nuts,41,0,0,Urea
+36,Red,Ground Nuts,41,0,0,Urea
+25,Loamy,Cotton,36,0,0,Urea
+28,Black,Cotton,39,0,0,Urea
+26,Loamy,coffee,85,33,25,Urea
+26,Loamy,coffee,80,30,25,Urea
+25,Loamy,watermelon,110,10,54,TSP
+26,Loamy,rice,86,41,36,TSP
+30,Loamy,pomegranate,5,15,38,TSP
+25,Loamy,watermelon,100,24,54,TSP
+26,Loamy,watermelon,109,27,54,TSP
+30,Loamy,pomegranate,5,21,38,TSP
+26,Loamy,rice,73,48,36,TSP
+25,Loamy,pomegranate,0,27,38,Superphosphate
+28,Loamy,pomegranate,31,25,38,Superphosphate
+27,Loamy,pomegranate,21,21,38,Superphosphate
+29,Loamy,pomegranate,15,11,38,Potassium sulfate.
+30,Loamy,pomegranate,39,30,38,Potassium sulfate.
+26,Sandy,Cotton,22,26,38,Potassium sulfate.
+25,Loamy,Cotton,117,43,25,Potassium chloride
+26,Loamy,watermelon,92,8,54,DAP
+25,Loamy,watermelon,114,27,54,DAP
+25,Clayey,rice,75,47,36,DAP
+29,Loamy,Wheat,13,0,36,DAP
+35,Red,Tobacco,11,0,37,DAP
+29,Loamy,Sugarcane,12,0,36,DAP
+30,Loamy,Sugarcane,12,0,40,DAP
+22,Clayey,rice,78,43,36,DAP
+27,Clayey,Pulses,13,0,40,DAP
+37,Clayey,Paddy,12,0,41,DAP
+37,Black,Oil seeds,12,0,39,DAP
+29,Sandy,Millets,15,0,37,DAP
+36,Sandy,Millets,15,0,41,DAP
+26,Red,Ground Nuts,14,0,41,DAP
+32,Red,Ground Nuts,15,0,37,DAP
+33,Red,Ground Nuts,13,0,39,DAP
+24,Sandy,Cotton,126,46,25,DAP
+25,Loamy,Cotton,102,37,25,DAP
+36,Red,Cotton,15,0,40,DAP
+34,Red,Cotton,14,0,38,DAP
+29,Black,Cotton,14,0,35,DAP
+29,Loamy,Cotton,11,0,38,DAP
+23,Sandy,coffee,116,23,25,DAP
+25,Sandy,coffee,117,34,25,DAP
+35,Sandy,Barley,10,0,35,DAP
+30,Sandy,Barley,12,0,42,DAP
+26,Loamy,Wheat,23,0,19,28-28
+34,Loamy,Wheat,23,0,19,28-28
+32,Red,Tobacco,22,0,20,28-28
+32,Red,Tobacco,22,0,24,28-28
+34,Red,Tobacco,23,0,21,28-28
+26,Clayey,Pulses,21,0,23,28-28
+25,Clayey,Pulses,24,0,19,28-28
+32,Clayey,Paddy,24,0,22,28-28
+29,Clayey,Paddy,24,0,18,28-28
+30,Sandy,Millets,21,0,18,28-28
+27,Black,Millets,23,0,24,28-28
+26,Sandy,Maize,23,0,20,28-28
+30,Sandy,Maize,22,0,21,28-28
+29,Red,Ground Nuts,24,0,23,28-28
+34,Black,Cotton,24,0,20,28-28
+25,Sandy,Barley,21,0,19,28-28
+31,Sandy,Barley,21,0,28,28-28
+30,Loamy,Wheat,13,0,9,20-20
+34,Black,Sugarcane,9,0,13,20-20
+27,Loamy,Sugarcane,10,0,15,20-20
+26,Loamy,Sugarcane,11,0,9,20-20
+29,Black,Sugarcane,12,0,10,20-20
+26,Clayey,Pulses,14,0,13,20-20
+27,Clayey,Pulses,13,0,13,20-20
+33,Clayey,Paddy,13,0,10,20-20
+26,Black,Oil seeds,12,0,8,20-20
+36,Black,Oil seeds,13,0,14,20-20
+30,Sandy,Millets,10,0,9,20-20
+29,Sandy,Millets,8,0,15,20-20
+30,Sandy,Millets,10,0,14,20-20
+25,Red,Cotton,9,0,10,20-20
+31,Black,Sugarcane,10,13,14,17-17-17
+34,Loamy,Sugarcane,12,14,12,17-17-17
+25,Loamy,Sugarcane,11,13,15,17-17-17
+31,Sandy,Maize,14,15,12,17-17-17
+25,Red,Ground Nuts,15,14,11,17-17-17
+31,Red,Cotton,11,12,15,17-17-17
+26,Sandy,Barley,12,10,13,17-17-17
+27,Clayey,kidneybeans,20,25,6,15-15-15
+0,Loamy,kidneybeans,23,23,6,15-15-15
+37,Loamy,kidneybeans,25,18,6,15-15-15
+20,Loamy,kidneybeans,23,23,6,15-15-15
+38,Loamy,Wheat,8,8,28,14-35-14
+30,Loamy,Sugarcane,10,7,32,14-35-14
+29,Loamy,Sugarcane,8,8,33,14-35-14
+35,Clayey,Pulses,8,7,31,14-35-14
+29,Clayey,Paddy,9,10,22,14-35-14
+28,Clayey,Paddy,10,8,29,14-35-14
+29,Black,Oil seeds,9,7,30,14-35-14
+30,Black,Oil seeds,8,9,30,14-35-14
+33,Sandy,Maize,5,9,29,14-35-14
+28,Sandy,Maize,9,10,30,14-35-14
+34,Black,Cotton,7,9,30,14-35-14
+30,Red,Cotton,9,9,29,14-35-14
+30,Loamy,Cotton,8,10,31,14-35-14
+36,Sandy,Barley,7,9,30,14-35-14
+27,Loamy,orange,24,18,6,14-14-14
+16,Loamy,orange,4,13,6,14-14-14
+12,Loamy,orange,8,16,6,14-14-14
+31,Loamy,orange,5,25,6,14-14-14
+36,Loamy,Wheat,12,18,19,10-26-26
+29,Red,Tobacco,13,17,16,10-26-26
+30,Red,Tobacco,4,17,17,10-26-26
+25,Clayey,Pulses,6,19,16,10-26-26
+26,Clayey,Pulses,7,16,20,10-26-26
+34,Clayey,Paddy,6,19,21,10-26-26
+28,Sandy,Barley,5,18,15,10-26-26
+24,Sandy,orange,22,17,5,10/10/2010
+23,Sandy,orange,4,23,5,10/10/2010
+12,Sandy,orange,11,14,5,10/10/2010
+27,Clayey,kidneybeans,19,21,6,10/10/2010
+20,Clayey,rice,90,49,36,Urea
+20,Clayey,rice,90,49,36,Urea
+20,Clayey,rice,90,49,36,Urea
+25,Loamy,rice,66,59,36,Urea
+25,Loamy,rice,66,59,36,Urea
+25,Loamy,rice,66,59,36,Urea
+33,Loamy,Wheat,41,0,0,Urea
+33,Loamy,Wheat,41,0,0,Urea
+33,Loamy,Wheat,41,0,0,Urea
+34,Loamy,Wheat,38,0,0,Urea
+34,Loamy,Wheat,38,0,0,Urea
+34,Loamy,Wheat,38,0,0,Urea
+38,Loamy,Wheat,39,0,0,Urea
+38,Loamy,Wheat,39,0,0,Urea
+38,Loamy,Wheat,39,0,0,Urea
+31,Red,Tobacco,39,0,0,Urea
+31,Red,Tobacco,39,0,0,Urea
+31,Red,Tobacco,39,0,0,Urea
+32,Loamy,Sugarcane,38,0,0,Urea
+32,Loamy,Sugarcane,38,0,0,Urea
+32,Loamy,Sugarcane,38,0,0,Urea
+34,Black,Sugarcane,35,0,0,Urea
+34,Black,Sugarcane,35,0,0,Urea
+34,Black,Sugarcane,35,0,0,Urea
+33,Clayey,Pulses,38,0,0,Urea
+33,Clayey,Pulses,38,0,0,Urea
+33,Clayey,Pulses,38,0,0,Urea
+28,Clayey,Pulses,40,0,0,Urea
+28,Clayey,Pulses,40,0,0,Urea
+28,Clayey,Pulses,40,0,0,Urea
+27,Loamy,pomegranate,2,24,38,Urea
+27,Loamy,pomegranate,2,24,38,Urea
+27,Loamy,pomegranate,2,24,38,Urea
+28,Clayey,Paddy,35,0,0,Urea
+28,Clayey,Paddy,35,0,0,Urea
+28,Clayey,Paddy,35,0,0,Urea
+34,Clayey,Paddy,39,0,0,Urea
+34,Clayey,Paddy,39,0,0,Urea
+34,Clayey,Paddy,39,0,0,Urea
+28,Clayey,Paddy,36,0,0,Urea
+28,Clayey,Paddy,36,0,0,Urea
+28,Clayey,Paddy,36,0,0,Urea
+27,Black,Oil seeds,37,0,0,Urea
+27,Black,Oil seeds,37,0,0,Urea
+27,Black,Oil seeds,37,0,0,Urea
+27,Black,Oil seeds,42,0,0,Urea
+27,Black,Oil seeds,42,0,0,Urea
+27,Black,Oil seeds,42,0,0,Urea
+28,Black,Millets,36,0,0,Urea
+28,Black,Millets,36,0,0,Urea
+28,Black,Millets,36,0,0,Urea
+28,Black,Millets,41,0,0,Urea
+28,Black,Millets,41,0,0,Urea
+28,Black,Millets,41,0,0,Urea
+30,Sandy,Millets,41,0,0,Urea
+30,Sandy,Millets,41,0,0,Urea
+30,Sandy,Millets,41,0,0,Urea
+27,Black,Millets,35,0,0,Urea
+27,Black,Millets,35,0,0,Urea
+27,Black,Millets,35,0,0,Urea
+26,Sandy,Maize,37,0,0,Urea
+26,Sandy,Maize,37,0,0,Urea
+26,Sandy,Maize,37,0,0,Urea
+30,Red,Ground Nuts,41,0,0,Urea
+30,Red,Ground Nuts,41,0,0,Urea
+30,Red,Ground Nuts,41,0,0,Urea
+36,Red,Ground Nuts,41,0,0,Urea
+36,Red,Ground Nuts,41,0,0,Urea
+36,Red,Ground Nuts,41,0,0,Urea
+25,Loamy,Cotton,36,0,0,Urea
+25,Loamy,Cotton,36,0,0,Urea
+25,Loamy,Cotton,36,0,0,Urea
+28,Black,Cotton,39,0,0,Urea
+28,Black,Cotton,39,0,0,Urea
+28,Black,Cotton,39,0,0,Urea
+26,Loamy,coffee,85,33,25,Urea
+26,Loamy,coffee,85,33,25,Urea
+26,Loamy,coffee,85,33,25,Urea
+26,Loamy,coffee,80,30,25,Urea
+26,Loamy,coffee,80,30,25,Urea
+26,Loamy,coffee,80,30,25,Urea
+25,Loamy,watermelon,110,10,54,TSP
+25,Loamy,watermelon,110,10,54,TSP
+25,Loamy,watermelon,110,10,54,TSP
+26,Loamy,rice,86,41,36,TSP
+26,Loamy,rice,86,41,36,TSP
+26,Loamy,rice,86,41,36,TSP
+30,Loamy,pomegranate,5,15,38,TSP
+30,Loamy,pomegranate,5,15,38,TSP
+30,Loamy,pomegranate,5,15,38,TSP
+25,Loamy,watermelon,100,24,54,TSP
+25,Loamy,watermelon,100,24,54,TSP
+25,Loamy,watermelon,100,24,54,TSP
+26,Loamy,watermelon,109,27,54,TSP
+26,Loamy,watermelon,109,27,54,TSP
+26,Loamy,watermelon,109,27,54,TSP
+30,Loamy,pomegranate,5,21,38,TSP
+30,Loamy,pomegranate,5,21,38,TSP
+30,Loamy,pomegranate,5,21,38,TSP
+26,Loamy,rice,73,48,36,TSP
+26,Loamy,rice,73,48,36,TSP
+26,Loamy,rice,73,48,36,TSP
+25,Loamy,pomegranate,0,27,38,Superphosphate
+25,Loamy,pomegranate,0,27,38,Superphosphate
+25,Loamy,pomegranate,0,27,38,Superphosphate
+28,Loamy,pomegranate,31,25,38,Superphosphate
+28,Loamy,pomegranate,31,25,38,Superphosphate
+28,Loamy,pomegranate,31,25,38,Superphosphate
+27,Loamy,pomegranate,21,21,38,Superphosphate
+27,Loamy,pomegranate,21,21,38,Superphosphate
+27,Loamy,pomegranate,21,21,38,Superphosphate
+29,Loamy,pomegranate,15,11,38,Potassium sulfate.
+29,Loamy,pomegranate,15,11,38,Potassium sulfate.
+29,Loamy,pomegranate,15,11,38,Potassium sulfate.
+30,Loamy,pomegranate,39,30,38,Potassium sulfate.
+30,Loamy,pomegranate,39,30,38,Potassium sulfate.
+30,Loamy,pomegranate,39,30,38,Potassium sulfate.
+26,Sandy,Cotton,22,26,38,Potassium sulfate.
+26,Sandy,Cotton,22,26,38,Potassium sulfate.
+26,Sandy,Cotton,22,26,38,Potassium sulfate.
+25,Loamy,Cotton,117,43,25,Potassium chloride
+25,Loamy,Cotton,117,43,25,Potassium chloride
+25,Loamy,Cotton,117,43,25,Potassium chloride
+26,Loamy,watermelon,92,8,54,DAP
+26,Loamy,watermelon,92,8,54,DAP
+26,Loamy,watermelon,92,8,54,DAP
+25,Loamy,watermelon,114,27,54,DAP
+25,Loamy,watermelon,114,27,54,DAP
+25,Loamy,watermelon,114,27,54,DAP
+25,Clayey,rice,75,47,36,DAP
+25,Clayey,rice,75,47,36,DAP
+25,Clayey,rice,75,47,36,DAP
+29,Loamy,Wheat,13,0,36,DAP
+29,Loamy,Wheat,13,0,36,DAP
+29,Loamy,Wheat,13,0,36,DAP
+35,Red,Tobacco,11,0,37,DAP
+35,Red,Tobacco,11,0,37,DAP
+35,Red,Tobacco,11,0,37,DAP
+29,Loamy,Sugarcane,12,0,36,DAP
+29,Loamy,Sugarcane,12,0,36,DAP
+29,Loamy,Sugarcane,12,0,36,DAP
+30,Loamy,Sugarcane,12,0,40,DAP
+30,Loamy,Sugarcane,12,0,40,DAP
+30,Loamy,Sugarcane,12,0,40,DAP
+22,Clayey,rice,78,43,36,DAP
+22,Clayey,rice,78,43,36,DAP
+22,Clayey,rice,78,43,36,DAP
+27,Clayey,Pulses,13,0,40,DAP
+27,Clayey,Pulses,13,0,40,DAP
+27,Clayey,Pulses,13,0,40,DAP
+37,Clayey,Paddy,12,0,41,DAP
+37,Clayey,Paddy,12,0,41,DAP
+37,Clayey,Paddy,12,0,41,DAP
+37,Black,Oil seeds,12,0,39,DAP
+37,Black,Oil seeds,12,0,39,DAP
+37,Black,Oil seeds,12,0,39,DAP
+29,Sandy,Millets,15,0,37,DAP
+29,Sandy,Millets,15,0,37,DAP
+29,Sandy,Millets,15,0,37,DAP
+36,Sandy,Millets,15,0,41,DAP
+36,Sandy,Millets,15,0,41,DAP
+36,Sandy,Millets,15,0,41,DAP
+26,Red,Ground Nuts,14,0,41,DAP
+26,Red,Ground Nuts,14,0,41,DAP
+26,Red,Ground Nuts,14,0,41,DAP
+32,Red,Ground Nuts,15,0,37,DAP
+32,Red,Ground Nuts,15,0,37,DAP
+32,Red,Ground Nuts,15,0,37,DAP
+33,Red,Ground Nuts,13,0,39,DAP
+33,Red,Ground Nuts,13,0,39,DAP
+33,Red,Ground Nuts,13,0,39,DAP
+24,Sandy,Cotton,126,46,25,DAP
+24,Sandy,Cotton,126,46,25,DAP
+24,Sandy,Cotton,126,46,25,DAP
+25,Loamy,Cotton,102,37,25,DAP
+25,Loamy,Cotton,102,37,25,DAP
+25,Loamy,Cotton,102,37,25,DAP
+36,Red,Cotton,15,0,40,DAP
+36,Red,Cotton,15,0,40,DAP
+36,Red,Cotton,15,0,40,DAP
+34,Red,Cotton,14,0,38,DAP
+34,Red,Cotton,14,0,38,DAP
+34,Red,Cotton,14,0,38,DAP
+29,Black,Cotton,14,0,35,DAP
+29,Black,Cotton,14,0,35,DAP
+29,Black,Cotton,14,0,35,DAP
+29,Loamy,Cotton,11,0,38,DAP
+29,Loamy,Cotton,11,0,38,DAP
+29,Loamy,Cotton,11,0,38,DAP
+23,Sandy,coffee,116,23,25,DAP
+23,Sandy,coffee,116,23,25,DAP
+23,Sandy,coffee,116,23,25,DAP
+25,Sandy,coffee,117,34,25,DAP
+25,Sandy,coffee,117,34,25,DAP
+25,Sandy,coffee,117,34,25,DAP
+35,Sandy,Barley,10,0,35,DAP
+35,Sandy,Barley,10,0,35,DAP
+35,Sandy,Barley,10,0,35,DAP
+30,Sandy,Barley,12,0,42,DAP
+30,Sandy,Barley,12,0,42,DAP
+30,Sandy,Barley,12,0,42,DAP
+26,Loamy,Wheat,23,0,19,28-28
+26,Loamy,Wheat,23,0,19,28-28
+26,Loamy,Wheat,23,0,19,28-28
+34,Loamy,Wheat,23,0,19,28-28
+34,Loamy,Wheat,23,0,19,28-28
+34,Loamy,Wheat,23,0,19,28-28
+32,Red,Tobacco,22,0,20,28-28
+32,Red,Tobacco,22,0,20,28-28
+32,Red,Tobacco,22,0,20,28-28
+32,Red,Tobacco,22,0,24,28-28
+32,Red,Tobacco,22,0,24,28-28
+32,Red,Tobacco,22,0,24,28-28
+34,Red,Tobacco,23,0,21,28-28
+34,Red,Tobacco,23,0,21,28-28
+34,Red,Tobacco,23,0,21,28-28
+26,Clayey,Pulses,21,0,23,28-28
+26,Clayey,Pulses,21,0,23,28-28
+26,Clayey,Pulses,21,0,23,28-28
+25,Clayey,Pulses,24,0,19,28-28
+25,Clayey,Pulses,24,0,19,28-28
+25,Clayey,Pulses,24,0,19,28-28
+32,Clayey,Paddy,24,0,22,28-28
+32,Clayey,Paddy,24,0,22,28-28
+32,Clayey,Paddy,24,0,22,28-28
+29,Clayey,Paddy,24,0,18,28-28
+29,Clayey,Paddy,24,0,18,28-28
+29,Clayey,Paddy,24,0,18,28-28
+30,Sandy,Millets,21,0,18,28-28
+30,Sandy,Millets,21,0,18,28-28
+30,Sandy,Millets,21,0,18,28-28
+27,Black,Millets,23,0,24,28-28
+27,Black,Millets,23,0,24,28-28
+27,Black,Millets,23,0,24,28-28
+26,Sandy,Maize,23,0,20,28-28
+26,Sandy,Maize,23,0,20,28-28
+26,Sandy,Maize,23,0,20,28-28
+30,Sandy,Maize,22,0,21,28-28
+30,Sandy,Maize,22,0,21,28-28
+30,Sandy,Maize,22,0,21,28-28
+29,Red,Ground Nuts,24,0,23,28-28
+29,Red,Ground Nuts,24,0,23,28-28
+29,Red,Ground Nuts,24,0,23,28-28
+34,Black,Cotton,24,0,20,28-28
+34,Black,Cotton,24,0,20,28-28
+34,Black,Cotton,24,0,20,28-28
+25,Sandy,Barley,21,0,19,28-28
+25,Sandy,Barley,21,0,19,28-28
+25,Sandy,Barley,21,0,19,28-28
+31,Sandy,Barley,21,0,28,28-28
+31,Sandy,Barley,21,0,28,28-28
+31,Sandy,Barley,21,0,28,28-28
+30,Loamy,Wheat,13,0,9,20-20
+30,Loamy,Wheat,13,0,9,20-20
+30,Loamy,Wheat,13,0,9,20-20
+34,Black,Sugarcane,9,0,13,20-20
+34,Black,Sugarcane,9,0,13,20-20
+34,Black,Sugarcane,9,0,13,20-20
+27,Loamy,Sugarcane,10,0,15,20-20
+27,Loamy,Sugarcane,10,0,15,20-20
+27,Loamy,Sugarcane,10,0,15,20-20
+26,Loamy,Sugarcane,11,0,9,20-20
+26,Loamy,Sugarcane,11,0,9,20-20
+26,Loamy,Sugarcane,11,0,9,20-20
+29,Black,Sugarcane,12,0,10,20-20
+29,Black,Sugarcane,12,0,10,20-20
+29,Black,Sugarcane,12,0,10,20-20
+26,Clayey,Pulses,14,0,13,20-20
+26,Clayey,Pulses,14,0,13,20-20
+26,Clayey,Pulses,14,0,13,20-20
+27,Clayey,Pulses,13,0,13,20-20
+27,Clayey,Pulses,13,0,13,20-20
+27,Clayey,Pulses,13,0,13,20-20
+33,Clayey,Paddy,13,0,10,20-20
+33,Clayey,Paddy,13,0,10,20-20
+33,Clayey,Paddy,13,0,10,20-20
+26,Black,Oil seeds,12,0,8,20-20
+26,Black,Oil seeds,12,0,8,20-20
+26,Black,Oil seeds,12,0,8,20-20
+36,Black,Oil seeds,13,0,14,20-20
+36,Black,Oil seeds,13,0,14,20-20
+36,Black,Oil seeds,13,0,14,20-20
+30,Sandy,Millets,10,0,9,20-20
+30,Sandy,Millets,10,0,9,20-20
+30,Sandy,Millets,10,0,9,20-20
+29,Sandy,Millets,8,0,15,20-20
+29,Sandy,Millets,8,0,15,20-20
+29,Sandy,Millets,8,0,15,20-20
+30,Sandy,Millets,10,0,14,20-20
+30,Sandy,Millets,10,0,14,20-20
+30,Sandy,Millets,10,0,14,20-20
+25,Red,Cotton,9,0,10,20-20
+25,Red,Cotton,9,0,10,20-20
+25,Red,Cotton,9,0,10,20-20
+31,Black,Sugarcane,10,13,14,17-17-17
+31,Black,Sugarcane,10,13,14,17-17-17
+31,Black,Sugarcane,10,13,14,17-17-17
+34,Loamy,Sugarcane,12,14,12,17-17-17
+34,Loamy,Sugarcane,12,14,12,17-17-17
+34,Loamy,Sugarcane,12,14,12,17-17-17
+25,Loamy,Sugarcane,11,13,15,17-17-17
+25,Loamy,Sugarcane,11,13,15,17-17-17
+25,Loamy,Sugarcane,11,13,15,17-17-17
+31,Sandy,Maize,14,15,12,17-17-17
+31,Sandy,Maize,14,15,12,17-17-17
+31,Sandy,Maize,14,15,12,17-17-17
+25,Red,Ground Nuts,15,14,11,17-17-17
+25,Red,Ground Nuts,15,14,11,17-17-17
+25,Red,Ground Nuts,15,14,11,17-17-17
+31,Red,Cotton,11,12,15,17-17-17
+31,Red,Cotton,11,12,15,17-17-17
+31,Red,Cotton,11,12,15,17-17-17
+26,Sandy,Barley,12,10,13,17-17-17
+26,Sandy,Barley,12,10,13,17-17-17
+26,Sandy,Barley,12,10,13,17-17-17
+27,Clayey,kidneybeans,20,25,6,15-15-15
+27,Clayey,kidneybeans,20,25,6,15-15-15
+27,Clayey,kidneybeans,20,25,6,15-15-15
+0,Loamy,kidneybeans,23,23,6,15-15-15
+0,Loamy,kidneybeans,23,23,6,15-15-15
+0,Loamy,kidneybeans,23,23,6,15-15-15
+37,Loamy,kidneybeans,25,18,6,15-15-15
+37,Loamy,kidneybeans,25,18,6,15-15-15
+37,Loamy,kidneybeans,25,18,6,15-15-15
+20,Loamy,kidneybeans,23,23,6,15-15-15
+20,Loamy,kidneybeans,23,23,6,15-15-15
+20,Loamy,kidneybeans,23,23,6,15-15-15
+38,Loamy,Wheat,8,8,28,14-35-14
+38,Loamy,Wheat,8,8,28,14-35-14
+38,Loamy,Wheat,8,8,28,14-35-14
+30,Loamy,Sugarcane,10,7,32,14-35-14
+30,Loamy,Sugarcane,10,7,32,14-35-14
+30,Loamy,Sugarcane,10,7,32,14-35-14
+29,Loamy,Sugarcane,8,8,33,14-35-14
+29,Loamy,Sugarcane,8,8,33,14-35-14
+29,Loamy,Sugarcane,8,8,33,14-35-14
+35,Clayey,Pulses,8,7,31,14-35-14
+35,Clayey,Pulses,8,7,31,14-35-14
+35,Clayey,Pulses,8,7,31,14-35-14
+29,Clayey,Paddy,9,10,22,14-35-14
+29,Clayey,Paddy,9,10,22,14-35-14
+29,Clayey,Paddy,9,10,22,14-35-14
+28,Clayey,Paddy,10,8,29,14-35-14
+28,Clayey,Paddy,10,8,29,14-35-14
+28,Clayey,Paddy,10,8,29,14-35-14
+29,Black,Oil seeds,9,7,30,14-35-14
+29,Black,Oil seeds,9,7,30,14-35-14
+29,Black,Oil seeds,9,7,30,14-35-14
+30,Black,Oil seeds,8,9,30,14-35-14
+30,Black,Oil seeds,8,9,30,14-35-14
+30,Black,Oil seeds,8,9,30,14-35-14
+33,Sandy,Maize,5,9,29,14-35-14
+33,Sandy,Maize,5,9,29,14-35-14
+33,Sandy,Maize,5,9,29,14-35-14
+28,Sandy,Maize,9,10,30,14-35-14
+28,Sandy,Maize,9,10,30,14-35-14
+28,Sandy,Maize,9,10,30,14-35-14
+34,Black,Cotton,7,9,30,14-35-14
+34,Black,Cotton,7,9,30,14-35-14
+34,Black,Cotton,7,9,30,14-35-14
+30,Red,Cotton,9,9,29,14-35-14
+30,Red,Cotton,9,9,29,14-35-14
+30,Red,Cotton,9,9,29,14-35-14
+30,Loamy,Cotton,8,10,31,14-35-14
+30,Loamy,Cotton,8,10,31,14-35-14
+30,Loamy,Cotton,8,10,31,14-35-14
+36,Sandy,Barley,7,9,30,14-35-14
+36,Sandy,Barley,7,9,30,14-35-14
+36,Sandy,Barley,7,9,30,14-35-14
+27,Loamy,orange,24,18,6,14-14-14
+27,Loamy,orange,24,18,6,14-14-14
+27,Loamy,orange,24,18,6,14-14-14
+16,Loamy,orange,4,13,6,14-14-14
+16,Loamy,orange,4,13,6,14-14-14
+16,Loamy,orange,4,13,6,14-14-14
+12,Loamy,orange,8,16,6,14-14-14
+12,Loamy,orange,8,16,6,14-14-14
+12,Loamy,orange,8,16,6,14-14-14
+31,Loamy,orange,5,25,6,14-14-14
+31,Loamy,orange,5,25,6,14-14-14
+31,Loamy,orange,5,25,6,14-14-14
+36,Loamy,Wheat,12,18,19,10-26-26
+36,Loamy,Wheat,12,18,19,10-26-26
+36,Loamy,Wheat,12,18,19,10-26-26
+29,Red,Tobacco,13,17,16,10-26-26
+29,Red,Tobacco,13,17,16,10-26-26
+29,Red,Tobacco,13,17,16,10-26-26
+30,Red,Tobacco,4,17,17,10-26-26
+30,Red,Tobacco,4,17,17,10-26-26
+30,Red,Tobacco,4,17,17,10-26-26
+25,Clayey,Pulses,6,19,16,10-26-26
+25,Clayey,Pulses,6,19,16,10-26-26
+25,Clayey,Pulses,6,19,16,10-26-26
+26,Clayey,Pulses,7,16,20,10-26-26
+26,Clayey,Pulses,7,16,20,10-26-26
+26,Clayey,Pulses,7,16,20,10-26-26
+34,Clayey,Paddy,6,19,21,10-26-26
+34,Clayey,Paddy,6,19,21,10-26-26
+34,Clayey,Paddy,6,19,21,10-26-26
+28,Sandy,Barley,5,18,15,10-26-26
+28,Sandy,Barley,5,18,15,10-26-26
+28,Sandy,Barley,5,18,15,10-26-26
+24,Sandy,orange,22,17,5,10/10/2010
+24,Sandy,orange,22,17,5,10/10/2010
+24,Sandy,orange,22,17,5,10/10/2010
+23,Sandy,orange,4,23,5,10/10/2010
+23,Sandy,orange,4,23,5,10/10/2010
+23,Sandy,orange,4,23,5,10/10/2010
+12,Sandy,orange,11,14,5,10/10/2010
+12,Sandy,orange,11,14,5,10/10/2010
+12,Sandy,orange,11,14,5,10/10/2010
+27,Clayey,kidneybeans,19,21,6,10/10/2010
+27,Clayey,kidneybeans,19,21,6,10/10/2010
+27,Clayey,kidneybeans,19,21,6,10/10/2010
