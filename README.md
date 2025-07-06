@@ -161,7 +161,7 @@ Git
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/KrishiTech.git
+git clone https://github.com/swapnil-patil8767/KrishiTech.git
 cd KrishiTech
 ```
 
